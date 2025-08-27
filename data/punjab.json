@@ -1,0 +1,650 @@
+[
+    {
+      "schemeId": "PNB-AGRI-001",
+      "schemeName": "Kisan Credit Card (KCC)",
+      "loanType": "Crop Loan",
+      "interestRate": {
+        "min": 7.0,
+        "max": 10.5,
+        "note": "7.0% (Regular KCC up to ₹3 lakh), then Base Rate + 2% (≈ 9.6%–10.5%); 2% interest subvention on ≤₹3 lakh; additional 3% for prompt repayment"
+      },
+      "repaymentTerm": {
+        "durationMonths": 60,
+        "category": "Medium"
+      },
+      "eligibility": [
+        "Small/Marginal",
+        "Tenant Farmers",
+        "SHGs",
+        "General Farmers"
+      ],
+      "description": "Revolving credit for crop production, post-harvest expenses and allied working capital.",
+      "keyBenefits": [
+        "Instant top-ups",
+        "ATM-enabled",
+        "Reduced paperwork on rollover"
+      ],
+      "loanLimit": {
+        "amount": 500000,
+        "note": "Up to ₹5 lakh standard, ₹10 lakh for allied activities"
+      },
+      "collateralRequired": "Hypothecation of crop/asset created",
+      "loanPurpose": [
+        "Crop production",
+        "Post-harvest expenses",
+        "Working capital",
+        "Input purchase"
+      ],
+      "processingFee": {
+        "percent": 0.0,
+        "minAmount": 0,
+        "maxAmount": 0
+      },
+      "subsidy": {
+        "available": true,
+        "details": "2% interest subvention on ≤₹3 lakh; additional 3% for prompt repayment"
+      },
+      "insuranceLinkage": [
+        "PM Fasal Bima Yojana"
+      ],
+      "renewalPeriod": "Annual"
+    },
+    {
+      "schemeId": "PNB-AGRI-002",
+      "schemeName": "PNB Krishak Sathi Scheme",
+      "loanType": "Emergency Loan",
+      "interestRate": {
+        "min": 5.0,
+        "max": 8.0,
+        "note": "Concessional in disaster-declared areas"
+      },
+      "repaymentTerm": {
+        "durationMonths": 12,
+        "category": "Short"
+      },
+      "eligibility": [
+        "Existing PNB borrower farmers affected by natural calamities"
+      ],
+      "description": "Fresh loan to resume agriculture post-loss with flexible, income-cycle-linked repayment.",
+      "keyBenefits": [
+        "Waiver on penal charges",
+        "Tailored resumption plan"
+      ],
+      "loanLimit": {
+        "amount": null,
+        "note": "Need-based as per loss assessment"
+      },
+      "collateralRequired": "As per PNB/Re-finance guidelines",
+      "loanPurpose": [
+        "Disaster recovery",
+        "Crop re-establishment",
+        "Input purchase"
+      ],
+      "processingFee": {
+        "percent": null,
+        "minAmount": null,
+        "maxAmount": null
+      },
+      "subsidy": {
+        "available": false,
+        "details": ""
+      },
+      "insuranceLinkage": [],
+      "renewalPeriod": "Once per calamity event"
+    },
+    {
+      "schemeId": "PNB-AGRI-003",
+      "schemeName": "PNB Kalyani Card",
+      "loanType": "Equipment Finance",
+      "interestRate": {
+        "min": 10.0,
+        "max": 10.0,
+        "note": "BPLR – 2.50% (≈ 10% p.a.)"
+      },
+      "repaymentTerm": {
+        "durationMonths": 60,
+        "category": "Medium"
+      },
+      "eligibility": [
+        "Women farmers"
+      ],
+      "description": "Rupee-term credit for tractors, harvesters, farm implements.",
+      "keyBenefits": [
+        "No processing/folio charges",
+        "Revolving withdrawals"
+      ],
+      "loanLimit": {
+        "amount": 500000,
+        "note": "Up to ₹5 lakh (subject to asset cost)"
+      },
+      "collateralRequired": "Nil (within CGTMSE guidelines)",
+      "loanPurpose": [
+        "Farm mechanization",
+        "Equipment purchase",
+        "Asset creation"
+      ],
+      "processingFee": {
+        "percent": 0.0,
+        "minAmount": 0,
+        "maxAmount": 0
+      },
+      "subsidy": {
+        "available": false,
+        "details": ""
+      },
+      "insuranceLinkage": [],
+      "renewalPeriod": "On asset upgrade"
+    },
+    {
+      "schemeId": "PNB-AGRI-004",
+      "schemeName": "PNB Saur Urja Yojana",
+      "loanType": "Agri-Business (Renewable Energy)",
+      "interestRate": {
+        "min": 9.6,
+        "max": 11.0,
+        "note": "Base Rate + 2% (≈ 9.6%–11%)"
+      },
+      "repaymentTerm": {
+        "durationMonths": 60,
+        "category": "Medium"
+      },
+      "eligibility": [
+        "All farmers",
+        "Agri-entrepreneurs"
+      ],
+      "description": "Finance for solar pumps, lighting and water-heating systems.",
+      "keyBenefits": [
+        "MNRE subsidy pass-through",
+        "Low-interest capital"
+      ],
+      "loanLimit": {
+        "amount": 100000,
+        "note": "Need-based up to ₹100,000"
+      },
+      "collateralRequired": "As per bank norms",
+      "loanPurpose": [
+        "Renewable energy",
+        "Infrastructure",
+        "Asset creation"
+      ],
+      "processingFee": {
+        "percent": null,
+        "minAmount": null,
+        "maxAmount": null
+      },
+      "subsidy": {
+        "available": true,
+        "details": "MNRE subsidy pass-through"
+      },
+      "insuranceLinkage": [],
+      "renewalPeriod": "On system expansion"
+    },
+    {
+      "schemeId": "PNB-AGRI-005",
+      "schemeName": "Scheme for Financing Piggery Development",
+      "loanType": "Agri-Business (Allied)",
+      "interestRate": {
+        "min": 11.0,
+        "max": 12.0,
+        "note": "Base Rate + 2.5% (≈ 11%–12%)"
+      },
+      "repaymentTerm": {
+        "durationMonths": 72,
+        "category": "Medium"
+      },
+      "eligibility": [
+        "Small/Marginal Farmers",
+        "SHGs"
+      ],
+      "description": "Credit for setting up units (1 boar + 3 sows), covering feed, medicine, shed.",
+      "keyBenefits": [
+        "Staggered drawals",
+        "Gestation-period moratorium"
+      ],
+      "loanLimit": {
+        "amount": null,
+        "note": "Need-based"
+      },
+      "collateralRequired": "As per RBI/PNB guidelines",
+      "loanPurpose": [
+        "Piggery units setup",
+        "Feed",
+        "Medicine",
+        "Shed construction"
+      ],
+      "processingFee": {
+        "percent": null,
+        "minAmount": null,
+        "maxAmount": null
+      },
+      "subsidy": {
+        "available": false,
+        "details": ""
+      },
+      "insuranceLinkage": [],
+      "renewalPeriod": "On cycle completion"
+    },
+    {
+      "schemeId": "PNB-AGRI-006",
+      "schemeName": "Scheme for Financing Sericulture",
+      "loanType": "Agri-Business (Allied)",
+      "interestRate": {
+        "min": 11.0,
+        "max": 12.0,
+        "note": "Base Rate + 2.5% (≈ 11%–12%)"
+      },
+      "repaymentTerm": {
+        "durationMonths": 60,
+        "category": "Medium"
+      },
+      "eligibility": [
+        "General Farmers"
+      ],
+      "description": "Loans for mulberry plantation, rearing, reeling, weaving.",
+      "keyBenefits": [
+        "Project-cost financing",
+        "Seasonal moratorium"
+      ],
+      "loanLimit": {
+        "amount": null,
+        "note": "Project-based"
+      },
+      "collateralRequired": "As per bank norms",
+      "loanPurpose": [
+        "Mulberry plantation",
+        "Silkworm rearing",
+        "Silk reeling",
+        "Silk weaving"
+      ],
+      "processingFee": {
+        "percent": null,
+        "minAmount": null,
+        "maxAmount": null
+      },
+      "subsidy": {
+        "available": false,
+        "details": ""
+      },
+      "insuranceLinkage": [],
+      "renewalPeriod": "Project-based"
+    },
+    {
+      "schemeId": "PNB-AGRI-007",
+      "schemeName": "Scheme for Financing Mushroom Cultivation",
+      "loanType": "Agri-Business (Allied)",
+      "interestRate": {
+        "min": 11.0,
+        "max": 12.0,
+        "note": "Base Rate + 2.5% (≈ 11%–12%)"
+      },
+      "repaymentTerm": {
+        "durationMonths": 60,
+        "category": "Medium"
+      },
+      "eligibility": [
+        "General Farmers"
+      ],
+      "description": "Term loans for spawn, infrastructure, equipment.",
+      "keyBenefits": [
+        "Flexible drawals",
+        "Asset creation finance"
+      ],
+      "loanLimit": {
+        "amount": null,
+        "note": "Project-based"
+      },
+      "collateralRequired": "As per bank norms",
+      "loanPurpose": [
+        "Mushroom spawn",
+        "Infrastructure",
+        "Equipment"
+      ],
+      "processingFee": {
+        "percent": null,
+        "minAmount": null,
+        "maxAmount": null
+      },
+      "subsidy": {
+        "available": false,
+        "details": ""
+      },
+      "insuranceLinkage": [],
+      "renewalPeriod": "Project-based"
+    },
+    {
+      "schemeId": "PNB-AGRI-008",
+      "schemeName": "Scheme for Forestry",
+      "loanType": "Agri-Business (Allied)",
+      "interestRate": {
+        "min": 11.0,
+        "max": 12.0,
+        "note": "Base Rate + 2.5% (≈ 11%–12%)"
+      },
+      "repaymentTerm": {
+        "durationMonths": 84,
+        "category": "Long"
+      },
+      "eligibility": [
+        "General Farmers"
+      ],
+      "description": "Finance for pulpwood/timber plantations with moratorium.",
+      "keyBenefits": [
+        "Long-term gestation support"
+      ],
+      "loanLimit": {
+        "amount": null,
+        "note": "Project-based"
+      },
+      "collateralRequired": "As per bank norms",
+      "loanPurpose": [
+        "Pulpwood plantations",
+        "Timber plantations"
+      ],
+      "processingFee": {
+        "percent": null,
+        "minAmount": null,
+        "maxAmount": null
+      },
+      "subsidy": {
+        "available": false,
+        "details": ""
+      },
+      "insuranceLinkage": [],
+      "renewalPeriod": "Project-based"
+    },
+    {
+      "schemeId": "PNB-AGRI-009",
+      "schemeName": "Scheme for Minor Irrigation",
+      "loanType": "Agri-Business (Allied)",
+      "interestRate": {
+        "min": 11.0,
+        "max": 12.0,
+        "note": "Base Rate + 2.5% (≈ 11%–12%)"
+      },
+      "repaymentTerm": {
+        "durationMonths": 84,
+        "category": "Medium"
+      },
+      "eligibility": [
+        "General Farmers"
+      ],
+      "description": "Loans for wells, tube-wells, drip/sprinkler systems.",
+      "keyBenefits": [
+        "Subsidy pass-through",
+        "Flexible tenor"
+      ],
+      "loanLimit": {
+        "amount": null,
+        "note": "Project-based"
+      },
+      "collateralRequired": "As per bank norms",
+      "loanPurpose": [
+        "Wells",
+        "Tube-wells",
+        "Drip systems",
+        "Sprinkler systems"
+      ],
+      "processingFee": {
+        "percent": null,
+        "minAmount": null,
+        "maxAmount": null
+      },
+      "subsidy": {
+        "available": true,
+        "details": "Subsidy pass-through"
+      },
+      "insuranceLinkage": [],
+      "renewalPeriod": "Project-based"
+    },
+    {
+      "schemeId": "PNB-AGRI-010",
+      "schemeName": "Dairy Development Scheme",
+      "loanType": "Dairy",
+      "interestRate": {
+        "min": 11.8,
+        "max": 13.0,
+        "note": "Base Rate + 3% (≈ 11.8%–13%)"
+      },
+      "repaymentTerm": {
+        "durationMonths": 84,
+        "category": "Medium"
+      },
+      "eligibility": [
+        "General Farmers"
+      ],
+      "description": "Purchase of milch animals, shed construction, equipment.",
+      "keyBenefits": [
+        "Comprehensive capital & working-capital finance"
+      ],
+      "loanLimit": {
+        "amount": null,
+        "note": "Project-based"
+      },
+      "collateralRequired": "As per bank norms",
+      "loanPurpose": [
+        "Milch animals purchase",
+        "Shed construction",
+        "Dairy equipment"
+      ],
+      "processingFee": {
+        "percent": null,
+        "minAmount": null,
+        "maxAmount": null
+      },
+      "subsidy": {
+        "available": false,
+        "details": ""
+      },
+      "insuranceLinkage": [],
+      "renewalPeriod": "Project-based"
+    },
+    {
+      "schemeId": "PNB-AGRI-011",
+      "schemeName": "Biogas Plants Scheme",
+      "loanType": "Agri-Business (Renewable)",
+      "interestRate": {
+        "min": 11.0,
+        "max": 12.0,
+        "note": "Base Rate + 2.5% (≈ 11%–12%)"
+      },
+      "repaymentTerm": {
+        "durationMonths": 84,
+        "category": "Medium"
+      },
+      "eligibility": [
+        "General Farmers",
+        "Agri-entrepreneurs"
+      ],
+      "description": "Finance for family & community biogas installations.",
+      "keyBenefits": [
+        "Subsidy linkage",
+        "Environmental benefit"
+      ],
+      "loanLimit": {
+        "amount": null,
+        "note": "Project-based"
+      },
+      "collateralRequired": "As per bank norms",
+      "loanPurpose": [
+        "Family biogas installations",
+        "Community biogas installations"
+      ],
+      "processingFee": {
+        "percent": null,
+        "minAmount": null,
+        "maxAmount": null
+      },
+      "subsidy": {
+        "available": true,
+        "details": "Subsidy linkage"
+      },
+      "insuranceLinkage": [],
+      "renewalPeriod": "Project-based"
+    },
+    {
+      "schemeId": "PNB-AGRI-012",
+      "schemeName": "Farm Mechanisation Scheme",
+      "loanType": "Equipment",
+      "interestRate": {
+        "min": 9.6,
+        "max": 10.5,
+        "note": "Base Rate + 2% (≈ 9.6%–10.5%)"
+      },
+      "repaymentTerm": {
+        "durationMonths": 84,
+        "category": "Medium"
+      },
+      "eligibility": [
+        "All farmers"
+      ],
+      "description": "Subsidized tractors, threshers, implements under SMAM.",
+      "keyBenefits": [
+        "Up to 70% subsidy on tractor cost"
+      ],
+      "loanLimit": {
+        "amount": null,
+        "note": "Equipment cost-based"
+      },
+      "collateralRequired": "Hypothecation of equipment",
+      "loanPurpose": [
+        "Tractors",
+        "Threshers",
+        "Farm implements"
+      ],
+      "processingFee": {
+        "percent": null,
+        "minAmount": null,
+        "maxAmount": null
+      },
+      "subsidy": {
+        "available": true,
+        "details": "Up to 70% subsidy on tractor cost under SMAM"
+      },
+      "insuranceLinkage": [],
+      "renewalPeriod": "Equipment-based"
+    },
+    {
+      "schemeId": "PNB-AGRI-013",
+      "schemeName": "Krishi Tatkal Rin",
+      "loanType": "Crop Loan (Emergency)",
+      "interestRate": {
+        "min": 7.0,
+        "max": 7.0,
+        "note": "7% flat with subvention"
+      },
+      "repaymentTerm": {
+        "durationMonths": 12,
+        "category": "Short"
+      },
+      "eligibility": [
+        "All farmers"
+      ],
+      "description": "Instant digital sanction for last-minute input needs.",
+      "keyBenefits": [
+        "Paperless",
+        "Same-day disbursal"
+      ],
+      "loanLimit": {
+        "amount": null,
+        "note": "Need-based"
+      },
+      "collateralRequired": "As per bank norms",
+      "loanPurpose": [
+        "Emergency agricultural inputs"
+      ],
+      "processingFee": {
+        "percent": null,
+        "minAmount": null,
+        "maxAmount": null
+      },
+      "subsidy": {
+        "available": true,
+        "details": "Interest subvention"
+      },
+      "insuranceLinkage": [],
+      "renewalPeriod": "Season-based"
+    },
+    {
+      "schemeId": "PNB-AGRI-014",
+      "schemeName": "Agri-Clinics & Agri-Business Centres",
+      "loanType": "Agri-Business (Entrepreneurship)",
+      "interestRate": {
+        "min": 9.6,
+        "max": 10.5,
+        "note": "Base Rate + 2.25% (≈ 9.6%–10.5%)"
+      },
+      "repaymentTerm": {
+        "durationMonths": 84,
+        "category": "Medium"
+      },
+      "eligibility": [
+        "Diploma holders in agriculture",
+        "Agri-graduates"
+      ],
+      "description": "Loans up to ₹50 lakh for advisory & service ventures under DACFW.",
+      "keyBenefits": [
+        "Margin subsidy up to ₹5 lakh"
+      ],
+      "loanLimit": {
+        "amount": 5000000,
+        "note": "Up to ₹50 lakh"
+      },
+      "collateralRequired": "As per bank norms",
+      "loanPurpose": [
+        "Agricultural advisory services",
+        "Agri service ventures"
+      ],
+      "processingFee": {
+        "percent": null,
+        "minAmount": null,
+        "maxAmount": null
+      },
+      "subsidy": {
+        "available": true,
+        "details": "Margin subsidy up to ₹5 lakh"
+      },
+      "insuranceLinkage": [],
+      "renewalPeriod": "Project-based"
+    },
+    {
+      "schemeId": "PNB-AGRI-015",
+      "schemeName": "e-NWR Financing",
+      "loanType": "Crop Loan (Post-Harvest)",
+      "interestRate": {
+        "min": 9.6,
+        "max": 10.5,
+        "note": "Base Rate + 2.25% (≈ 9.6%–10.5%)"
+      },
+      "repaymentTerm": {
+        "durationMonths": 12,
+        "category": "Short"
+      },
+      "eligibility": [
+        "All farmers with stored produce"
+      ],
+      "description": "Loans against electronic warehouse receipts for staples.",
+      "keyBenefits": [
+        "75% financing margin",
+        "Structured PDS linkage"
+      ],
+      "loanLimit": {
+        "amount": null,
+        "note": "75% of stored produce value"
+      },
+      "collateralRequired": "Electronic Warehouse Receipt",
+      "loanPurpose": [
+        "Post-harvest financing"
+      ],
+      "processingFee": {
+        "percent": null,
+        "minAmount": null,
+        "maxAmount": null
+      },
+      "subsidy": {
+        "available": false,
+        "details": ""
+      },
+      "insuranceLinkage": [],
+      "renewalPeriod": "Seasonal"
+    }
+  ]

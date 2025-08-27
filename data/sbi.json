@@ -1,0 +1,246 @@
+[
+  {
+    "schemeId": "SBI-AGRI-001",
+    "schemeName": "SBI Kisan Credit Card",
+    "bankName": "State Bank of India",
+    "loanType": "Crop Loan",
+    "interestRate": {
+      "min": 7.0,
+      "max": 11.5,
+      "note": "7% p.a. for loans up to ₹3 lakh with interest subvention"
+    },
+    "repaymentTerm": {
+      "durationMonths": 60,
+      "category": "Revolving Credit"
+    },
+    "eligibility": [
+      "Individual farmers",
+      "Joint farmers",
+      "Tenant farmers",
+      "Oral lessees",
+      "Share croppers"
+    ],
+    "description": "Comprehensive credit solution for agriculture and allied activities with flexible withdrawal and repayment options",
+    "keyBenefits": [
+      "Interest subvention scheme benefits",
+      "ATM-cum-debit card facility",
+      "Personal accident insurance coverage",
+      "No processing charges up to ₹3 lakh"
+    ],
+    "loanLimit": {
+      "minAmount": 10000,
+      "maxAmount": null,
+      "currency": "INR",
+      "note": "Based on scale of finance and land holding"
+    },
+    "collateralRequired": "No collateral up to ₹1.6 lakh",
+    "loanPurpose": [
+      "Crop production",
+      "Post-harvest expenses",
+      "Farm mechanization",
+      "Development of land",
+      "Allied activities"
+    ],
+    "processingFee": {
+      "note": "Nil up to ₹3 lakh"
+    },
+    "subsidy": {
+      "available": true,
+      "details": "Interest subvention of 2% and additional 3% for timely repayment"
+    },
+    "insuranceLinkage": [
+      "Personal accident insurance",
+      "Crop insurance under PMFBY"
+    ],
+    "renewalPeriod": "Annual"
+  },
+  {
+    "schemeId": "SBI-AGRI-002",
+    "schemeName": "SBI Kisan Gold Card",
+    "bankName": "State Bank of India",
+    "loanType": "Gold Loan",
+    "interestRate": {
+      "min": 9.0,
+      "max": 10.5,
+      "note": "Competitive interest rates with flexible repayment options"
+    },
+    "repaymentTerm": {
+      "durationMonths": 36,
+      "category": "Short to Medium"
+    },
+    "eligibility": [
+      "Farmers with gold ornaments",
+      "KYC-compliant bank account holders",
+      "Good credit history"
+    ],
+    "description": "Loan against gold ornaments for agricultural and allied activities",
+    "keyBenefits": [
+      "Quick processing",
+      "No prepayment charges",
+      "Flexible repayment options",
+      "Competitive interest rates"
+    ],
+    "loanLimit": {
+      "minAmount": 10000,
+      "maxAmount": 5000000,
+      "currency": "INR",
+      "note": "Based on gold valuation and repayment capacity"
+    },
+    "collateralRequired": "Pledge of gold ornaments",
+    "loanPurpose": [
+      "Crop cultivation",
+      "Farm mechanization",
+      "Irrigation systems",
+      "Allied activities"
+    ],
+    "processingFee": {
+      "note": "As per bank guidelines"
+    },
+    "subsidy": {
+      "available": false
+    },
+    "insuranceLinkage": [],
+    "renewalPeriod": "Based on loan structure"
+  },
+  {
+    "schemeId": "SBI-AGRI-003",
+    "schemeName": "SBI Kisan Tatkal",
+    "bankName": "State Bank of India",
+    "loanType": "Emergency Loan",
+    "interestRate": {
+      "min": 9.0,
+      "max": 12.0,
+      "note": "MCLR + Spread, exact rate requires bank confirmation"
+    },
+    "repaymentTerm": {
+      "durationMonths": 60,
+      "category": "Medium"
+    },
+    "eligibility": [
+      "Existing SBI Kisan Credit Card holders",
+      "Good repayment history",
+      "Regular bank account holders"
+    ],
+    "description": "Quick credit facility for emergency agricultural needs during off-season",
+    "keyBenefits": [
+      "Quick processing",
+      "Available for existing KCC customers",
+      "Flexible repayment options"
+    ],
+    "loanLimit": {
+      "maxAmount": 50000,
+      "currency": "INR",
+      "note": "Maximum ₹50,000 or 50% of existing KCC limit, whichever is lower"
+    },
+    "collateralRequired": "Hypothecation of assets or extension of existing KCC security",
+    "loanPurpose": [
+      "Agricultural equipment",
+      "Irrigation needs",
+      "Medical expenses",
+      "Festival needs"
+    ],
+    "processingFee": {
+      "note": "As per bank guidelines"
+    },
+    "subsidy": {
+      "available": false
+    },
+    "insuranceLinkage": [],
+    "renewalPeriod": "Not applicable (term loan)"
+  },
+  {
+    "schemeId": "SBI-AGRI-004",
+    "schemeName": "SBI Kisan Plus",
+    "bankName": "State Bank of India",
+    "loanType": "Term Loan",
+    "interestRate": {
+      "min": 9.0,
+      "max": 12.0,
+      "note": "MCLR + Spread, exact rate requires bank confirmation"
+    },
+    "repaymentTerm": {
+      "durationMonths": 84,
+      "category": "Medium"
+    },
+    "eligibility": [
+      "Farmers with minimum 4 acres of irrigated land",
+      "High-value crop cultivators",
+      "Progressive farmers"
+    ],
+    "description": "Comprehensive financing for progressive farmers adopting modern agricultural practices",
+    "keyBenefits": [
+      "Higher loan limits",
+      "End-to-end farming needs coverage",
+      "Flexible repayment options",
+      "Technical support"
+    ],
+    "loanLimit": {
+      "note": "Up to 150-250% of scale of finance × cultivated area + 30% for miscellaneous expenses"
+    },
+    "collateralRequired": "No collateral up to ₹1.6 lakh; hypothecation of crops/assets or land mortgage above ₹1.6 lakh",
+    "loanPurpose": [
+      "Advanced agricultural technologies",
+      "Farm mechanization",
+      "Irrigation systems",
+      "Post-harvest infrastructure"
+    ],
+    "processingFee": {
+      "note": "As per bank guidelines"
+    },
+    "subsidy": {
+      "available": false
+    },
+    "insuranceLinkage": [
+      "Crop insurance",
+      "Asset insurance"
+    ],
+    "renewalPeriod": "Annual"
+  },
+  {
+    "schemeId": "SBI-AGRI-005",
+    "schemeName": "SBI Kisan Solar",
+    "bankName": "State Bank of India",
+    "loanType": "Agri-Business (Renewable Energy)",
+    "interestRate": {
+      "min": 9.0,
+      "max": 11.0,
+      "note": "MCLR + Spread, exact rate requires bank confirmation"
+    },
+    "repaymentTerm": {
+      "durationMonths": 120,
+      "category": "Long"
+    },
+    "eligibility": [
+      "Farmers with land ownership",
+      "Farmers with access to irrigation facilities",
+      "Good credit history"
+    ],
+    "description": "Financing for installation of solar pumps and renewable energy projects under PM-KUSUM scheme",
+    "keyBenefits": [
+      "Supports sustainable farming",
+      "Reduces irrigation costs",
+      "Environment-friendly solution",
+      "Long repayment period"
+    ],
+    "loanLimit": {
+      "note": "Based on project cost (typically covers 70-90% of project cost)"
+    },
+    "collateralRequired": "Hypothecation of solar equipment; land mortgage or additional collateral above ₹1.6 lakh",
+    "loanPurpose": [
+      "Standalone solar pumps",
+      "Solarization of grid-connected agricultural pumps",
+      "Small renewable energy projects"
+    ],
+    "processingFee": {
+      "note": "As per bank guidelines"
+    },
+    "subsidy": {
+      "available": true,
+      "details": "As per PM-KUSUM scheme guidelines"
+    },
+    "insuranceLinkage": [
+      "Equipment insurance"
+    ],
+    "renewalPeriod": "Not applicable (term loan)"
+  }
+]

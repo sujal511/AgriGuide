@@ -1,0 +1,1481 @@
+[
+  {
+    "scheme_id": "MAHA-2023-01",
+    "name": "Namo Shetkari Mahasanman Nidhi Yojana",
+    "type": "Financial Support",
+    "description": "State top-up scheme providing an additional ₹6,000 per year (₹2,000 every four months) to PM-Kisan beneficiaries via Direct Benefit Transfer.",
+    "target_group": "Farmers already enrolled in PM-Kisan scheme",
+    "eligibility": {
+      "residency": "Resident of Maharashtra",
+      "other": ["Must be a PM-Kisan beneficiary"]
+    },
+    "benefits": [
+      "Additional financial support of ₹6,000 per year",
+      "Automatic enrollment for existing PM-Kisan beneficiaries",
+      "Payments through Direct Benefit Transfer"
+    ],
+    "how_to_apply": {
+      "mode": "Automatic Enrollment (No Separate Application)",
+      "steps": [
+        "Ensure you are registered under the central PM-KISAN scheme.",
+        "Verify that your Aadhaar and bank account details are correctly linked to PM-KISAN.",
+        "No separate registration is needed for this scheme.",
+        "Eligible beneficiaries will automatically receive ₹2,000 every 4 months via DBT."
+      ],
+      "portal": "PM-KISAN registration and status details are used",
+      "check_status_link": "https://testdbtnsmny.mahaitgov.in/Beneficiary_Status/Beneficiary",
+      "help_link": "https://testdbtnsmny.mahaitgov.in/",
+      "application_needed": false,
+      "deadline": "None – Ongoing disbursement based on PM-KISAN status"
+    },
+    "required_documents": [
+      "No additional documents required for existing PM-Kisan beneficiaries"
+    ],
+    "contact": {
+      "helpline": "1800-XXX-XXX",
+      "email": "namoshetkari@maharashtra.gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Marathi", "English"],
+    "faq": [
+      {
+        "q": "Do I need to apply separately for this scheme?",
+        "a": "No, if you're already a PM-Kisan beneficiary, you will automatically receive the additional amount."
+      },
+      {
+        "q": "When was this scheme launched?",
+        "a": "The scheme was launched on June 15, 2023 by GR No. Kisani-2023/CR 42/11 A."
+      },
+      {
+        "q": "How will I receive the payment?",
+        "a": "The amount will be directly transferred to your bank account through DBT."
+      }
+    ]
+  },
+  {
+    "scheme_id": "MAHA-2019-02",
+    "name": "Mahatma Jyotirao Phule Shetkari Karj Mukti Yojana",
+    "type": "Loan Waiver",
+    "description": "Waives crop loans up to ₹2 lakh for small and marginal farmers with loans outstanding as of September 30, 2019.",
+    "target_group": "Small and marginal farmers with outstanding crop loans",
+    "eligibility": {
+      "residency": "Resident of Maharashtra",
+      "other": [
+        "Small or marginal farmer",
+        "Outstanding crop loan as of September 30, 2019"
+      ]
+    },
+    "benefits": [
+      "Waiver of crop loans up to ₹2 lakh",
+      "Direct payment to lenders",
+      "Financial relief from agricultural debt"
+    ],
+    "how_to_apply": {
+      "mode": "Verification-based Application",
+      "steps": [
+        "Check if your name appears in the published beneficiary lists by local authorities",
+        "Submit required documents at your nearest agriculture office",
+        "Wait for verification of loan documents and eligibility",
+        "Loan waiver will be processed after successful verification"
+      ],
+      "portal": "Local Agriculture Office",
+      "check_status_link": "https://agriculture.maharashtra.gov.in/loanwaiver",
+      "help_link": "https://agriculture.maharashtra.gov.in/help",
+      "application_needed": true,
+      "deadline": "Completed in early 2020"
+    },
+    "required_documents": [
+      "Proof of land ownership",
+      "Loan documents",
+      "Bank account details"
+    ],
+    "contact": {
+      "helpline": "1800-XXX-XXX",
+      "email": "karzamukti@maharashtra.gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Completed",
+    "language_support": ["Marathi", "English"],
+    "faq": [
+      {
+        "q": "How do I know if I'm eligible for this loan waiver?",
+        "a": "Lists of beneficiaries were published in early 2020. Small and marginal farmers with crop loans outstanding as of September 30, 2019 were eligible."
+      },
+      {
+        "q": "How was the loan waiver processed?",
+        "a": "Lenders were paid directly by the government, and the loans were cleared from farmers' accounts."
+      }
+    ]
+  },
+  {
+    "scheme_id": "MAHA-2017-03",
+    "name": "Chhatrapati Shivaji Maharaj Krishi Sanman Yojana",
+    "type": "Loan Waiver",
+    "description": "A comprehensive loan waiver scheme that cleared NPAs for distressed farmers under the 2017 state budget.",
+    "target_group": "Distressed farmers with non-performing agricultural loans",
+    "eligibility": {
+      "residency": "Resident of Maharashtra",
+      "other": ["Distressed farmer with non-performing agricultural loans"]
+    },
+    "benefits": [
+      "Clearance of non-performing agricultural loans",
+      "Financial relief from agricultural debt",
+      "Opportunity for fresh credit access"
+    ],
+    "how_to_apply": {
+      "mode": "District Office Verification",
+      "steps": [
+        "Visit your district agriculture office with required documents",
+        "Submit loan documents and distress proof",
+        "Complete verification process with district officials",
+        "Wait for loan clearance confirmation"
+      ],
+      "portal": "District Agriculture Office",
+      "check_status_link": "https://agriculture.maharashtra.gov.in/status",
+      "help_link": "https://agriculture.maharashtra.gov.in/support",
+      "application_needed": true,
+      "deadline": "Completed"
+    },
+    "required_documents": [
+      "Proof of land ownership",
+      "Loan documents",
+      "Bank account details"
+    ],
+    "contact": {
+      "helpline": "1800-XXX-XXX",
+      "email": "krishisanman@maharashtra.gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Completed",
+    "language_support": ["Marathi", "English"],
+    "faq": [
+      {
+        "q": "How were farmers verified for this scheme?",
+        "a": "District agriculture officers verified eligibility of farmers based on their loan status and distress condition."
+      },
+      {
+        "q": "How were the debts settled?",
+        "a": "Debts were settled via state budget allocations directly to lending institutions."
+      }
+    ]
+  },
+  {
+    "scheme_id": "MAHA-2022-14",
+    "name": "APL Farmer DBT Scheme",
+    "type": "Financial Support",
+    "description": "Quarterly cash transfers to Above-Poverty-Line farmers, based on Maharashtra land-record and crop data.",
+    "target_group": "Above-Poverty-Line farmers in Maharashtra",
+    "eligibility": {
+      "residency": "Resident of Maharashtra",
+      "other": [
+        "Above-Poverty-Line farmer",
+        "Must have verified land records"
+      ]
+    },
+    "benefits": [
+      "Quarterly cash transfers",
+      "Automatic disbursement through state agriculture portal",
+      "Financial support for agricultural activities"
+    ],
+    "how_to_apply": {
+      "mode": "Automatic Enrollment with Verification",
+      "steps": [
+        "Ensure your land records are updated in the state database",
+        "Verify APL status through PDS system linkage",
+        "Link Aadhaar with bank account for DBT",
+        "Quarterly payments will be automatically processed"
+      ],
+      "portal": "State Agriculture Portal",
+      "check_status_link": "https://agriculture.maharashtra.gov.in/dbt-status",
+      "help_link": "https://agriculture.maharashtra.gov.in/dbt-help",
+      "application_needed": false,
+      "deadline": "Ongoing under 2024-25 Annual Plan"
+    },
+    "required_documents": [
+      "Land records",
+      "Proof of APL status",
+      "Bank account details",
+      "Crop data"
+    ],
+    "contact": {
+      "helpline": "1800-XXX-XXX",
+      "email": "apldbt@maharashtra.gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Marathi", "English"],
+    "faq": [
+      {
+        "q": "How is the APL status verified?",
+        "a": "APL status is verified through government records linked to Aadhaar and PDS system data."
+      },
+      {
+        "q": "How much money do farmers receive under this scheme?",
+        "a": "The amount varies based on land holding and crop type, disbursed quarterly through DBT."
+      }
+    ]
+  },
+  {
+    "scheme_id": "MAHA-2018-05",
+    "name": "Gopinath Munde Shetkari Apghat Suraksha Sanugrah Yojana",
+    "type": "Insurance",
+    "description": "State-funded accident insurance providing ₹1-2 lakh coverage for registered farmers.",
+    "target_group": "Registered farmers in Maharashtra",
+    "eligibility": {
+      "residency": "Resident of Maharashtra",
+      "other": ["Must be a registered farmer"]
+    },
+    "benefits": [
+      "Accident insurance coverage of ₹1-2 lakh",
+      "State-funded premium",
+      "Financial security in case of accidents"
+    ],
+    "how_to_apply": {
+      "mode": "Online Registration",
+      "steps": [
+        "Visit the state agriculture portal insurance section",
+        "Register with your farmer ID and Aadhaar details",
+        "Upload required documents for verification",
+        "Receive insurance policy details after approval"
+      ],
+      "portal": "State Agriculture Portal - Insurance Section",
+      "check_status_link": "https://agriculture.maharashtra.gov.in/insurance/status",
+      "help_link": "https://agriculture.maharashtra.gov.in/insurance/help",
+      "application_needed": true,
+      "deadline": "Open year-round"
+    },
+    "required_documents": [
+      "Proof of farmer status",
+      "Aadhaar card",
+      "Bank account details"
+    ],
+    "contact": {
+      "helpline": "1800-XXX-XXX",
+      "email": "apghatsuraksha@maharashtra.gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Marathi", "English"],
+    "faq": [
+      {
+        "q": "What documents are needed for claim settlement?",
+        "a": "Claim settlement requires FIR or medical certificate submission to the agriculture insurer."
+      },
+      {
+        "q": "Who is covered under this insurance scheme?",
+        "a": "All registered farmers in Maharashtra are eligible for this state-funded accident insurance coverage."
+      }
+    ]
+  },
+  {
+    "scheme_id": "MAHA-2021-12",
+    "name": "Milk Producers Subsidy Scheme",
+    "type": "Subsidy",
+    "description": "A per-litre subsidy for dairy producers supplying government-recognized cooperatives.",
+    "target_group": "Dairy farmers supplying to recognized cooperatives",
+    "eligibility": {
+      "residency": "Resident of Maharashtra",
+      "other": ["Must supply milk to government-recognized cooperatives"]
+    },
+    "benefits": [
+      "Per-litre subsidy on milk production",
+      "Direct Benefit Transfer to farmers' accounts",
+      "Support for dairy sector"
+    ],
+    "how_to_apply": {
+      "mode": "Cooperative-based Registration",
+      "steps": [
+        "Register with a government-recognized dairy cooperative",
+        "Link your Aadhaar and bank account details",
+        "Submit milk supply records for verification",
+        "Receive subsidy through DBT based on supply"
+      ],
+      "portal": "Dairy Cooperative Portal",
+      "check_status_link": "https://dairy.maharashtra.gov.in/status",
+      "help_link": "https://dairy.maharashtra.gov.in/help",
+      "application_needed": true,
+      "deadline": "Continuous scheme"
+    },
+    "required_documents": [
+      "Proof of milk supply to recognized cooperative",
+      "Bank account details",
+      "Aadhaar card"
+    ],
+    "contact": {
+      "helpline": "1800-XXX-XXX",
+      "email": "dairysubsidy@maharashtra.gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Marathi", "English"],
+    "faq": [
+      {
+        "q": "How is the subsidy amount calculated?",
+        "a": "The subsidy is calculated based on e-verified milk-procurement records on a per-litre basis."
+      },
+      {
+        "q": "How often is the subsidy paid?",
+        "a": "The subsidy is paid through DBT based on regular procurement cycles, typically monthly."
+      }
+    ]
+  },
+  {
+    "scheme_id": "MAHA-2022-10",
+    "name": "Cotton and Soybean Farmers Subsidy Scheme",
+    "type": "Price Support Subsidy",
+    "description": "When market rates for cotton/soybean fall below MSP, registered cultivators receive gap-filling DBT up to the cap.",
+    "target_group": "Cotton and soybean farmers in Maharashtra",
+    "eligibility": {
+      "residency": "Resident of Maharashtra",
+      "other": ["Must be a registered cotton or soybean cultivator"]
+    },
+    "benefits": [
+      "Price gap compensation when market rates fall below MSP",
+      "Financial stability for cotton and soybean farmers",
+      "Direct Benefit Transfer"
+    ],
+    "how_to_apply": {
+      "mode": "Online Registration and Verification",
+      "steps": [
+        "Register on the Food Processing Department portal",
+        "Submit crop cultivation details and MSP documentation",
+        "Link Aadhaar and bank account for DBT",
+        "Receive automatic compensation when prices fall below MSP"
+      ],
+      "portal": "Food Processing Department Portal",
+      "check_status_link": "https://foodprocessing.maharashtra.gov.in/status",
+      "help_link": "https://foodprocessing.maharashtra.gov.in/help",
+      "application_needed": true,
+      "deadline": "Quarterly application cycles"
+    },
+    "required_documents": [
+      "Business registration documents",
+      "Detailed project report",
+      "Land documents for processing unit",
+      "Financial statements/projections",
+      "Bank account details"
+    ],
+    "contact": {
+      "helpline": "1800-XXX-XXX",
+      "email": "foodprocessing@maharashtra.gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Marathi", "English"],
+    "faq": [
+      {
+        "q": "What types of food processing units are eligible?",
+        "a": "Units processing fruits, vegetables, cereals, and other agricultural produce are eligible under this scheme."
+      },
+      {
+        "q": "How is the subsidy disbursed?",
+        "a": "The subsidy is released after plant commissioning and expenditure verification by authorized officials."
+      }
+    ]
+  },
+  {
+    "scheme_id": "MHFM016",
+    "name": "RKVY Plastic Lining to Farm Ponds",
+    "type": "Water Conservation",
+    "description": "Subsidy for plastic lining of farm ponds to reduce water seepage and improve water storage for efficient irrigation.",
+    "target_group": "Farmers in Maharashtra with existing or planned farm ponds",
+    "eligibility": {
+      "residency": "Resident of Maharashtra",
+      "other": ["Must have or plan to construct a farm pond"]
+    },
+    "benefits": [
+      "Plastic lining for farm ponds at subsidized cost",
+      "Reduced water seepage",
+      "Improved irrigation efficiency",
+      "Extended water availability during dry seasons"
+    ],
+    "how_to_apply": {
+      "mode": "Online Application through Mahadbt",
+      "steps": [
+        "Register on the Mahadbt portal",
+        "Submit farm pond details and plastic lining requirements",
+        "Upload required documents for verification",
+        "Receive approval and subsidy disbursement"
+      ],
+      "portal": "Mahadbt Portal",
+      "check_status_link": "https://mahadbt.maharashtra.gov.in/rkvy/status",
+      "help_link": "https://mahadbt.maharashtra.gov.in/rkvy/help",
+      "application_needed": true,
+      "deadline": "March 31st every year"
+    },
+    "required_documents": [
+      "7/12 land extract",
+      "Aadhaar card",
+      "Bank account details",
+      "Farm pond plan or existing pond photo/details"
+    ],
+    "contact": {
+      "helpline": "1800-222-999",
+      "email": "rkvy.maharashtra@gov.in",
+      "whatsapp": "9769777000"
+    },
+    "status": "Active",
+    "language_support": ["Marathi", "English"],
+    "faq": [
+      {
+        "q": "Who is eligible for the RKVY Plastic Lining to Farm Ponds scheme?",
+        "a": "Farmers in Maharashtra who have an existing farm pond or plan to construct one are eligible."
+      },
+      {
+        "q": "How much subsidy will I receive?",
+        "a": "The government provides a subsidy on the cost of plastic lining. The exact amount depends on the pond's size and official cost estimates."
+      },
+      {
+        "q": "Where can I apply for this scheme?",
+        "a": "You can apply online through the Mahadbt portal at https://mahadbt.maharashtra.gov.in/rkvy."
+      },
+      {
+        "q": "What documents are required for application?",
+        "a": "You need your 7/12 land extract, Aadhaar card, bank account details, and details or photo of the existing/planned pond."
+      },
+      {
+        "q": "Is the scheme available across Maharashtra?",
+        "a": "Yes, the scheme is applicable in all districts of Maharashtra."
+      }
+    ]
+  },
+  {
+    "scheme_id": "MAHA-2023-11",
+    "name": "Onion Farmers Subsidy Scheme",
+    "type": "Price Support Subsidy",
+    "description": "Triggered when wholesale onion prices drop under the threshold (e.g., ₹1,800/quintal). Growers registered with the Agricultural Marketing Board get DBT to cover the shortfall.",
+    "target_group": "Onion farmers registered with Agricultural Marketing Board",
+    "eligibility": {
+      "residency": "Resident of Maharashtra",
+      "other": ["Must be registered with the Agricultural Marketing Board as an onion grower"]
+    },
+    "benefits": [
+      "Price gap compensation when onion prices fall below threshold",
+      "Financial protection against market volatility",
+      "Direct Benefit Transfer"
+    ],
+    "how_to_apply": {
+      "mode": "Automatic Trigger with Registration",
+      "steps": [
+        "Register with the Agricultural Marketing Board",
+        "Link Aadhaar and bank account for DBT",
+        "Submit crop details and sale records",
+        "Receive automatic compensation when prices fall below threshold"
+      ],
+      "portal": "Agricultural Marketing Board Portal",
+      "check_status_link": "https://msamb.maharashtra.gov.in/status",
+      "help_link": "https://msamb.maharashtra.gov.in/help",
+      "application_needed": true,
+      "deadline": "Triggered automatically when prices fall"
+    },
+    "required_documents": [
+      "Proof of onion cultivation",
+      "Registration with Agricultural Marketing Board",
+      "Sale receipts",
+      "Bank account details"
+    ],
+    "contact": {
+      "helpline": "1800-XXX-XXX",
+      "email": "onionsubsidy@maharashtra.gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Marathi", "English"],
+    "faq": [
+      {
+        "q": "What is the threshold price that triggers this subsidy?",
+        "a": "The subsidy is triggered when wholesale onion prices drop below ₹1,800 per quintal."
+      },
+      {
+        "q": "How do farmers get registered with the Agricultural Marketing Board?",
+        "a": "Farmers need to register through their local APMC or online through the Maharashtra State Agricultural Marketing Board portal."
+      }
+    ]
+  },
+  {
+    "scheme_id": "MAHA-2020-04",
+    "name": "Group Farming Scheme (Gat Sheti Yojana)",
+    "type": "Infrastructure Development",
+    "description": "Registered farmer groups (min. 10 members, 100 acres) receive up to ₹1 crore for shared infrastructure like equipment and storage facilities.",
+    "target_group": "Groups of farmers willing to farm collectively",
+    "eligibility": {
+      "residency": "Resident of Maharashtra",
+      "other": [
+        "Minimum 10 farmers in a group",
+        "Collective land holding of at least 100 acres"
+      ]
+    },
+    "benefits": [
+      "Up to ₹1 crore funding for shared infrastructure",
+      "Support for equipment purchase",
+      "Storage facility development",
+      "NABARD technical assistance"
+    ],
+    "how_to_apply": {
+      "mode": "Group Application Process",
+      "steps": [
+        "Form a group of minimum 10 farmers with required land holding",
+        "Register the group with the Agriculture Department",
+        "Submit detailed project proposal for infrastructure",
+        "Receive funding after technical and financial verification"
+      ],
+      "portal": "Agriculture Department Portal",
+      "check_status_link": "https://krishi.maharashtra.gov.in/group-farming/status",
+      "help_link": "https://krishi.maharashtra.gov.in/group-farming/help",
+      "application_needed": true,
+      "deadline": "Annual application cycle"
+    },
+    "required_documents": [
+      "Group registration certificate",
+      "Land records of all members",
+      "Detailed project proposal",
+      "Bank account details of the group"
+    ],
+    "contact": {
+      "helpline": "1800-XXX-XXX",
+      "email": "gatsheti@maharashtra.gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Marathi", "English"],
+    "faq": [
+      {
+        "q": "How is the funding administered?",
+        "a": "The funding is administered with NABARD support and state grants based on project milestones."
+      },
+      {
+        "q": "What kinds of infrastructure can be funded?",
+        "a": "Eligible infrastructure includes farm equipment, storage facilities, processing units, and irrigation systems."
+      }
+    ]
+  },
+  {
+    "scheme_id": "MAHA-2015-06",
+    "name": "Jalyukt Shivar Abhiyan",
+    "type": "Water Conservation",
+    "description": "A flagship joint (state + central) mission to make villages drought-free by building check-dams, desilting tanks, and restoring water bodies.",
+    "target_group": "Drought-prone villages in Maharashtra",
+    "eligibility": {
+      "residency": "Villages in Maharashtra",
+      "other": ["Priority to drought-prone areas"]
+    },
+    "benefits": [
+      "Construction of check-dams",
+      "Desilting of tanks and reservoirs",
+      "Restoration of water bodies",
+      "Increased groundwater levels",
+      "Drought resistance"
+    ],
+    "how_to_apply": {
+      "mode": "Village-level Application",
+      "steps": [
+        "Gram Panchayat submits proposal through Rural Development portal",
+        "Submit drought status documentation and water resource map",
+        "Wait for technical assessment and approval",
+        "Implementation begins after approval"
+      ],
+      "portal": "Rural Development Portal",
+      "check_status_link": "https://rdd.maharashtra.gov.in/jalyukt/status",
+      "help_link": "https://rdd.maharashtra.gov.in/jalyukt/help",
+      "application_needed": true,
+      "deadline": "Annual selection process"
+    },
+    "required_documents": [
+      "Gram Panchayat resolution",
+      "Drought status documentation",
+      "Village water resource map"
+    ],
+    "contact": {
+      "helpline": "1800-XXX-XXX",
+      "email": "jalyukt@maharashtra.gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Marathi", "English"],
+    "faq": [
+      {
+        "q": "How are villages selected for this scheme?",
+        "a": "Villages are selected based on drought vulnerability, groundwater depletion, and willingness of the Gram Panchayat to participate."
+      },
+      {
+        "q": "When was this scheme implemented?",
+        "a": "The scheme was rolled out in 2016 with gram-panchayat execution after being launched in 2015."
+      }
+    ]
+  },
+  {
+    "scheme_id": "MAHA-2018-07",
+    "name": "Chief Minister Sustainable Agriculture Irrigation Scheme (Magel Tyala Shettale)",
+    "type": "Water Conservation",
+    "description": "Subsidizes 50% of farm-pond construction costs for small/marginal farmers in drought-prone blocks.",
+    "target_group": "Small and marginal farmers in drought-prone areas",
+    "eligibility": {
+      "residency": "Resident of Maharashtra",
+      "other": [
+        "Small or marginal farmer",
+        "Land in drought-prone block"
+      ]
+    },
+    "benefits": [
+      "50% subsidy on farm-pond construction",
+      "Improved water availability for irrigation",
+      "Enhanced crop resilience during dry periods"
+    ],
+    "how_to_apply": {
+      "mode": "Online Application with Verification",
+      "steps": [
+        "Register on the state agriculture portal",
+        "Submit farm-pond construction plan and required documents",
+        "Wait for site inspection and approval",
+        "Receive subsidy after construction verification"
+      ],
+      "portal": "State Agriculture Portal",
+      "check_status_link": "https://agriculture.maharashtra.gov.in/farmpond/status",
+      "help_link": "https://agriculture.maharashtra.gov.in/farmpond/help",
+      "application_needed": true,
+      "deadline": "Year-round applications"
+    },
+    "required_documents": [
+      "Land ownership documents",
+      "Small/marginal farmer certificate",
+      "Farm-pond construction plan",
+      "Bank account details"
+    ],
+    "contact": {
+      "helpline": "1800-XXX-XXX",
+      "email": "farmpond@maharashtra.gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Marathi", "English"],
+    "faq": [
+      {
+        "q": "How is the subsidy disbursed?",
+        "a": "Applications are processed via the state-agriculture portal, with inspection-verified DBT after construction."
+      },
+      {
+        "q": "What is the maximum subsidy amount available?",
+        "a": "The subsidy covers 50% of the construction cost, with specific caps based on pond dimensions and district."
+      }
+    ]
+  },
+  {
+    "scheme_id": "MAHA-2016-08",
+    "name": "Mukhyamantri Baliraja Bijli Savalat Yojana",
+    "type": "Infrastructure Support",
+    "description": "Provides concessional or free electricity for agricultural pump-sets to support irrigation.",
+    "target_group": "Farmers using electric pump-sets for irrigation",
+    "eligibility": {
+      "residency": "Resident of Maharashtra",
+      "other": ["Must have agricultural land with electric pump-sets"]
+    },
+    "benefits": [
+      "Concessional or free electricity for agricultural pump-sets",
+      "Reduced operational costs for irrigation",
+      "Support for affordable agriculture"
+    ],
+    "how_to_apply": {
+      "mode": "DISCOM Registration Process",
+      "steps": [
+        "Visit your local MSEDCL office",
+        "Submit agricultural land and pump-set documents",
+        "Complete registration process",
+        "Receive tariff benefits on next billing cycle"
+      ],
+      "portal": "MSEDCL Portal",
+      "check_status_link": "https://www.mahadiscom.in/status",
+      "help_link": "https://www.mahadiscom.in/help",
+      "application_needed": true,
+      "deadline": "Year-round registration"
+    },
+    "required_documents": [
+      "Agricultural land documents",
+      "Electricity connection details",
+      "Pump-set specifications",
+      "Farmer ID"
+    ],
+    "contact": {
+      "helpline": "1800-XXX-XXX",
+      "email": "bijlisavalat@maharashtra.gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Marathi", "English"],
+    "faq": [
+      {
+        "q": "How are the tariff waivers applied?",
+        "a": "Farmers register through local DISCOMs; tariff waivers apply automatically on billing."
+      },
+      {
+        "q": "What is the eligibility criteria for free electricity?",
+        "a": "Eligibility for free electricity depends on landholding size, pump-set capacity, and region-specific criteria."
+      }
+    ]
+  },
+  {
+    "scheme_id": "MAHA-2020-09",
+    "name": "Gaav Tithe Godam Yojana",
+    "type": "Infrastructure Development",
+    "description": "Offers up to 75% cost-grant for FPOs or cooperatives to build/renovate village-level godowns for agricultural storage.",
+    "target_group": "Farmer Producer Organizations and Cooperatives",
+    "eligibility": {
+      "residency": "Based in Maharashtra",
+      "other": [
+        "Must be a registered FPO or cooperative",
+        "Proposal for village-level godown"
+      ]
+    },
+    "benefits": [
+      "Up to 75% grant for godown construction/renovation",
+      "Improved storage infrastructure at village level",
+      "Reduced post-harvest losses"
+    ],
+    "how_to_apply": {
+      "mode": "Online Proposal Submission",
+      "steps": [
+        "Register FPO/Cooperative on Agriculture Department portal",
+        "Submit detailed godown construction/renovation proposal",
+        "Wait for technical and financial verification",
+        "Receive grant after construction milestones"
+      ],
+      "portal": "Agriculture Department Portal",
+      "check_status_link": "https://krishi.maharashtra.gov.in/godown/status",
+      "help_link": "https://krishi.maharashtra.gov.in/godown/help",
+      "application_needed": true,
+      "deadline": "Annual calls for proposals"
+    },
+    "required_documents": [
+      "FPO/Cooperative registration certificate",
+      "Land documents for godown site",
+      "Construction/renovation plan with cost estimates",
+      "Bank account details"
+    ],
+    "contact": {
+      "helpline": "1800-XXX-XXX",
+      "email": "godam@maharashtra.gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Marathi", "English"],
+    "faq": [
+      {
+        "q": "How is the grant disbursed?",
+        "a": "Beneficiaries submit invoices for DBT reimbursement after construction milestones are achieved and verified."
+      },
+      {
+        "q": "What is the maximum grant amount available?",
+        "a": "The grant covers up to 75% of the construction/renovation cost, with specific caps based on godown capacity."
+      }
+    ]
+  },
+  {
+    "scheme_id": "MAHA-2019-13",
+    "name": "State Level Innovative Scheme (Farm Mechanization Support)",
+    "type": "Infrastructure Support",
+    "description": "Tiered subsidies (25-50%) for farm machinery purchase (tractors, seeders, etc.), prioritized for SC/ST and women farmers.",
+    "target_group": "All farmers, with priority to SC/ST and women farmers",
+    "eligibility": {
+      "residency": "Resident of Maharashtra",
+      "other": [
+        "All farmers eligible, with priority to SC/ST and women farmers"
+      ]
+    },
+    "benefits": [
+      "25-50% subsidy on farm machinery purchase",
+      "Support for agricultural mechanization",
+      "Higher subsidy rates for SC/ST and women farmers"
+    ],
+    "how_to_apply": {
+      "mode": "Online Application with Priority Processing",
+      "steps": [
+        "Register on the Agriculture Department portal",
+        "Submit machinery purchase proposal and required documents",
+        "Priority processing for SC/ST and women farmers",
+        "Receive subsidy after purchase verification"
+      ],
+      "portal": "Agriculture Department Portal",
+      "check_status_link": "https://krishi.maharashtra.gov.in/mechanization/status",
+      "help_link": "https://krishi.maharashtra.gov.in/mechanization/help",
+      "application_needed": true,
+      "deadline": "Year-round applications"
+    },
+    "required_documents": [
+      "Land ownership documents",
+      "Farmer category certificate (for priority categories)",
+      "Machinery quotation/invoice",
+      "Bank account details"
+    ],
+    "contact": {
+      "helpline": "1800-XXX-XXX",
+      "email": "mechanization@maharashtra.gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Marathi", "English"],
+    "faq": [
+      {
+        "q": "What types of machinery are covered under this scheme?",
+        "a": "The scheme covers tractors, seeders, harvesters, threshers, and other agricultural machinery approved by the department."
+      },
+      {
+        "q": "What is the subsidy percentage for different categories?",
+        "a": "General category farmers receive 25% subsidy, while SC/ST and women farmers receive up to 50% subsidy on approved machinery."
+      }
+    ]
+  },
+  {
+    "scheme_id": "SV001",
+    "name": "Seed Village Programme",
+    "type": "Inputs Support",
+    "description": "Provides a 50% subsidy on certified foundation/certified seeds in designated 'seed villages' to improve seed quality and availability.",
+    "target_group": "Farmers in designated seed villages",
+    "eligibility": {
+      "residency": "Resident of Maharashtra",
+      "other": ["Must be farming in a designated seed village"]
+    },
+    "benefits": [
+      "50% subsidy on certified foundation/certified seeds",
+      "Improved seed quality",
+      "Technical support for seed production"
+    ],
+    "how_to_apply": {
+      "mode": "Cooperative-based Registration",
+      "steps": [
+        "Verify if your village is designated as a seed village",
+        "Register with local agricultural cooperative",
+        "Submit required documents for verification",
+        "Receive subsidized seeds through cooperative"
+      ],
+      "portal": "Agriculture Department Portal",
+      "check_status_link": "https://krishi.maharashtra.gov.in/seeds/status",
+      "help_link": "https://krishi.maharashtra.gov.in/seeds/help",
+      "application_needed": true,
+      "deadline": "Seasonal applications"
+    },
+    "required_documents": [
+      "Proof of farming in seed village",
+      "Land records",
+      "Farmer ID",
+      "Bank account details"
+    ],
+    "contact": {
+      "helpline": "1800-XXX-XXX",
+      "email": "seedvillage@maharashtra.gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Marathi", "English"],
+    "faq": [
+      {
+        "q": "How are seed villages designated?",
+        "a": "Seed villages are designated by the Agriculture Department based on agro-climatic suitability for quality seed production."
+      },
+      {
+        "q": "How is the subsidy disbursed?",
+        "a": "Farmers procure through cooperatives and receive DBT upon receipt verification."
+      }
+    ]
+  },
+  {
+    "scheme_id": "DI002",
+    "name": "Demonstration Inputs Scheme",
+    "type": "Inputs Support",
+    "description": "Grants ₹5,000 per hectare for demonstration plots showcasing improved inputs or technologies to promote adoption of better farming practices.",
+    "target_group": "Progressive farmers willing to create demonstration plots",
+    "eligibility": {
+      "residency": "Resident of Maharashtra",
+      "other": [
+        "Willing to create and maintain demonstration plots",
+        "Allow farmer field visits"
+      ]
+    },
+    "benefits": [
+      "₹5,000 per hectare for demonstration plots",
+      "Technical guidance from agriculture experts",
+      "Recognition as progressive farmer"
+    ],
+    "how_to_apply": {
+      "mode": "District Office Application",
+      "steps": [
+        "Contact your district agriculture officer",
+        "Submit demonstration plot proposal",
+        "Get technical approval from experts",
+        "Receive grant after plot establishment"
+      ],
+      "portal": "Agriculture Department Portal",
+      "check_status_link": "https://krishi.maharashtra.gov.in/demonstration/status",
+      "help_link": "https://krishi.maharashtra.gov.in/demonstration/help",
+      "application_needed": true,
+      "deadline": "Seasonal applications"
+    },
+    "required_documents": [
+      "Land ownership documents",
+      "Proposed demonstration plan",
+      "Bank account details"
+    ],
+    "contact": {
+      "helpline": "1800-XXX-XXX",
+      "email": "demonstration@maharashtra.gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Marathi", "English"],
+    "faq": [
+      {
+        "q": "What technologies or inputs can be demonstrated?",
+        "a": "Approved technologies include improved seed varieties, cultivation methods, pest management techniques, and other department-approved innovations."
+      },
+      {
+        "q": "How is the grant disbursed?",
+        "a": "The grant is managed by district agriculture officers and disbursed via DBT after on-field inspection confirms the demonstration plot is established."
+      }
+    ]
+  },
+  {
+    "scheme_id": "CMAFP003",
+    "name": "Chief Minister Agriculture and Food Processing Scheme",
+    "type": "Processing Support",
+    "description": "A 30% capital subsidy for establishing food-processing units for fruits, vegetables, and cereals to promote value addition in agriculture.",
+    "target_group": "Entrepreneurs and FPOs interested in food processing",
+    "eligibility": {
+      "residency": "Based in Maharashtra",
+      "other": [
+        "Entrepreneurs or FPOs",
+        "Proposal for food processing unit"
+      ]
+    },
+    "benefits": [
+      "30% capital subsidy for food processing units",
+      "Technical guidance for plant setup",
+      "Marketing linkage support"
+    ],
+    "how_to_apply": {
+      "mode": "Online Project Submission",
+      "steps": [
+        "Register on Food Processing Department portal",
+        "Submit detailed project report and financial projections",
+        "Get technical and financial verification",
+        "Receive subsidy after plant commissioning"
+      ],
+      "portal": "Food Processing Department Portal",
+      "check_status_link": "https://foodprocessing.maharashtra.gov.in/status",
+      "help_link": "https://foodprocessing.maharashtra.gov.in/help",
+      "application_needed": true,
+      "deadline": "Quarterly application cycles"
+    },
+    "required_documents": [
+      "Business registration documents",
+      "Detailed project report",
+      "Land documents for processing unit",
+      "Financial statements/projections",
+      "Bank account details"
+    ],
+    "contact": {
+      "helpline": "1800-XXX-XXX",
+      "email": "foodprocessing@maharashtra.gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Marathi", "English"],
+    "faq": [
+      {
+        "q": "What types of food processing units are eligible?",
+        "a": "Units processing fruits, vegetables, cereals, and other agricultural produce are eligible under this scheme."
+      },
+      {
+        "q": "How is the subsidy disbursed?",
+        "a": "The subsidy is released after plant commissioning and expenditure verification by authorized officials."
+      }
+    ]
+  },
+  {
+    "scheme_id": "MH-BFFL-01",
+    "name": "Bhausaheb Fundkar Falbag Lagvad Scheme",
+    "type": "Fruit Cultivation",
+    "description": "Scheme to promote fruit cultivation by providing financial assistance to farmers for planting perennial fruit crops.",
+    "target_group": "All farmers in Maharashtra",
+    "eligibility": {
+      "residency": "Maharashtra resident",
+      "other": [
+        "Must own agricultural land suitable for fruit cultivation",
+        "Priority to small and marginal farmers"
+      ]
+    },
+    "benefits": [
+      "Financial assistance for planting perennial fruit crops",
+      "Support for crops like mango, pomegranate, guava, and lemon",
+      "Technical guidance on cultivation practices",
+      "Market linkage support"
+    ],
+    "how_to_apply": {
+      "mode": "Online/Offline Application",
+      "steps": [
+        "Apply through local Agriculture Department office",
+        "Submit required documents",
+        "Field verification by agriculture officials",
+        "Approval and fund disbursement"
+      ],
+      "portal": "Maharashtra Agriculture Department Portal",
+      "check_status_link": "Maharashtra Agriculture Department website",
+      "help_link": "District Agriculture Office",
+      "application_needed": true,
+      "deadline": "Seasonal application windows"
+    },
+    "required_documents": [
+      "Land ownership documents/7/12 extract",
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Farmer ID",
+      "Land suitability certificate"
+    ],
+    "contact": {
+      "helpline": "Maharashtra Agriculture Department Helpline",
+      "email": "bhausahebfundkar@maharashtra.gov.in",
+      "whatsapp": "Available via Agriculture Department"
+    },
+    "status": "Active",
+    "language_support": ["Marathi", "English"],
+    "faq": [
+      {
+        "q": "How many farmers benefited in 2024-25?",
+        "a": "Over 27,000 farmers received aid under this scheme in the financial year 2024-25"
+      },
+      {
+        "q": "What fruit crops are supported?",
+        "a": "Perennial fruit crops like mango, pomegranate, guava, and lemon"
+      }
+    ],
+    "implementation": "Implemented by Department of Agriculture, Government of Maharashtra"
+  },
+  {
+    "scheme_id": "MH-BAKSY-02",
+    "name": "Dr. Babasaheb Ambedkar Krishi Swalamban Yojana",
+    "type": "Social Welfare",
+    "description": "Scheme aimed at empowering Scheduled Caste farmers by offering subsidies for agricultural equipment, irrigation facilities, and other inputs.",
+    "target_group": "Scheduled Caste farmers",
+    "eligibility": {
+      "residency": "Maharashtra resident",
+      "other": [
+        "Must belong to Scheduled Caste category",
+        "Must own agricultural land or have tenancy rights",
+        "Income criteria as per government norms"
+      ]
+    },
+    "benefits": [
+      "Subsidies for agricultural equipment purchase",
+      "Support for irrigation facilities installation",
+      "Assistance for agricultural inputs",
+      "Technical training and capacity building"
+    ],
+    "how_to_apply": {
+      "mode": "Online/Offline Application",
+      "steps": [
+        "Apply through local Agriculture Department or Social Welfare office",
+        "Submit caste certificate and other required documents",
+        "Verification by authorities",
+        "Approval and subsidy disbursement"
+      ],
+      "portal": "Maharashtra Social Welfare Department Portal",
+      "check_status_link": "Social Welfare Department website",
+      "help_link": "District Social Welfare Office",
+      "application_needed": true,
+      "deadline": "Annual application cycle"
+    },
+    "required_documents": [
+      "Caste Certificate",
+      "Land ownership/tenancy documents",
+      "Income Certificate",
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Farmer ID"
+    ],
+    "contact": {
+      "helpline": "Social Welfare Department Helpline",
+      "email": "ambedkaryojana@maharashtra.gov.in",
+      "whatsapp": "Available via Social Welfare Department"
+    },
+    "status": "Active",
+    "language_support": ["Marathi", "English"],
+    "faq": [
+      {
+        "q": "What is the subsidy percentage available?",
+        "a": "Subsidy percentages vary based on the type of equipment/facility, typically ranging from 50-100%"
+      },
+      {
+        "q": "Is there a cap on the subsidy amount?",
+        "a": "Yes, maximum subsidy limits are defined based on the type of equipment/facility being supported"
+      }
+    ],
+    "implementation": "Implemented by Social Welfare Department in coordination with Department of Agriculture, Government of Maharashtra"
+  },
+  {
+    "scheme_id": "MH-BMKKY-03",
+    "name": "Birsa Munda Krishi Kranti Yojana",
+    "type": "Tribal Development",
+    "description": "Initiative targeted towards tribal farmers to provide support for modernizing agricultural practices, including assistance for irrigation, mechanization, and crop diversification.",
+    "target_group": "Tribal farmers",
+    "eligibility": {
+      "residency": "Maharashtra resident",
+      "other": [
+        "Must belong to Scheduled Tribe category",
+        "Must own agricultural land or have recognized cultivation rights",
+        "Priority to farmers in tribal-dominated areas"
+      ]
+    },
+    "benefits": [
+      "Support for modern irrigation systems",
+      "Subsidies for farm mechanization",
+      "Assistance for crop diversification",
+      "Training on improved agricultural practices",
+      "Market linkage support"
+    ],
+    "how_to_apply": {
+      "mode": "Online/Offline Application",
+      "steps": [
+        "Apply through local Tribal Development Department or Agriculture Department office",
+        "Submit tribal certificate and other required documents",
+        "Verification by authorities",
+        "Approval and benefit disbursement"
+      ],
+      "portal": "Maharashtra Tribal Development Department Portal",
+      "check_status_link": "Tribal Development Department website",
+      "help_link": "District Tribal Development Office",
+      "application_needed": true,
+      "deadline": "Rolling applications based on fund availability"
+    },
+    "required_documents": [
+      "Tribal Certificate",
+      "Land ownership/cultivation rights documents",
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Farmer ID"
+    ],
+    "contact": {
+      "helpline": "Tribal Development Department Helpline",
+      "email": "birsamunda@maharashtra.gov.in",
+      "whatsapp": "Available via Tribal Development Department"
+    },
+    "status": "Active",
+    "language_support": ["Marathi", "English", "Tribal languages"],
+    "faq": [
+      {
+        "q": "What crop diversification options are supported?",
+        "a": "Support for transitioning to high-value crops, traditional tribal crops, and sustainable farming practices"
+      },
+      {
+        "q": "Are communal tribal lands eligible?",
+        "a": "Yes, with proper documentation and tribal council approval"
+      }
+    ],
+    "implementation": "Implemented by Tribal Development Department in coordination with Department of Agriculture, Government of Maharashtra"
+  },
+  {
+    "scheme_id": "MH-IHDM-04",
+    "name": "Integrated Horticulture Development Mission",
+    "type": "Horticulture Development",
+    "description": "Mission focusing on the holistic development of the horticulture sector by providing support for nursery development, post-harvest management, and marketing infrastructure.",
+    "target_group": "Horticulture farmers, entrepreneurs, and cooperatives",
+    "eligibility": {
+      "residency": "Maharashtra resident",
+      "other": [
+        "Individuals, groups, or organizations involved in horticulture",
+        "Land suitability for horticulture activities",
+        "Compliance with environmental guidelines"
+      ]
+    },
+    "benefits": [
+      "Support for nursery development and quality planting material",
+      "Assistance for post-harvest management infrastructure",
+      "Aid for marketing infrastructure development",
+      "Technical knowledge transfer",
+      "Cold chain development support"
+    ],
+    "how_to_apply": {
+      "mode": "Online/Offline Application",
+      "steps": [
+        "Apply through District Horticulture Officer",
+        "Submit project proposal and required documents",
+        "Technical and financial evaluation",
+        "Approval and phased fund disbursement"
+      ],
+      "portal": "Maharashtra Horticulture Department Portal",
+      "check_status_link": "Horticulture Department website",
+      "help_link": "District Horticulture Office",
+      "application_needed": true,
+      "deadline": "Applications accepted throughout the year"
+    },
+    "required_documents": [
+      "Land documents",
+      "Project proposal",
+      "Technical specifications",
+      "Financial projections",
+      "Environmental compliance certificate (if applicable)",
+      "Bank Account Details"
+    ],
+    "contact": {
+      "helpline": "Horticulture Department Helpline",
+      "email": "horticulturemission@maharashtra.gov.in",
+      "whatsapp": "Available via Horticulture Department"
+    },
+    "status": "Active",
+    "language_support": ["Marathi", "English"],
+    "faq": [
+      {
+        "q": "What post-harvest infrastructure is supported?",
+        "a": "Sorting, grading units, packhouses, cold storage facilities, ripening chambers, and transportation vehicles"
+      },
+      {
+        "q": "Are there provisions for organic horticulture?",
+        "a": "Yes, special incentives are available for organic horticulture practices"
+      }
+    ],
+    "implementation": "Implemented by Department of Horticulture, Government of Maharashtra"
+  },
+  {
+    "scheme_id": "MH-DADP-05",
+    "name": "Dryland Area Development Programme",
+    "type": "Sustainable Agriculture",
+    "description": "Program designed for regions with low rainfall, emphasizing soil and water conservation, crop diversification, and sustainable farming practices to improve productivity.",
+    "target_group": "Farmers in dryland/rainfed regions",
+    "eligibility": {
+      "residency": "Maharashtra resident",
+      "other": [
+        "Farming in identified dryland/low rainfall areas",
+        "Willingness to adopt sustainable practices",
+        "Priority to small and marginal farmers"
+      ]
+    },
+    "benefits": [
+      "Support for soil and water conservation structures",
+      "Assistance for drought-resistant crop varieties",
+      "Training on water-efficient farming techniques",
+      "Aid for sustainable farming practices",
+      "Watershed development support"
+    ],
+    "how_to_apply": {
+      "mode": "Community-based Application",
+      "steps": [
+        "Village-level watershed committees formation",
+        "Participatory rural appraisal and needs assessment",
+        "Development of area-specific plans",
+        "Implementation through community participation"
+      ],
+      "portal": "Maharashtra Watershed Development Department Portal",
+      "check_status_link": "Watershed Development Department website",
+      "help_link": "District Agriculture Office",
+      "application_needed": true,
+      "deadline": "Based on annual planning cycle"
+    },
+    "required_documents": [
+      "Land records",
+      "Watershed committee registration (for community projects)",
+      "Village resolution",
+      "Bank Account Details",
+      "Aadhaar Card"
+    ],
+    "contact": {
+      "helpline": "Watershed Development Department Helpline",
+      "email": "drylanddev@maharashtra.gov.in",
+      "whatsapp": "Available via Watershed Development Department"
+    },
+    "status": "Active",
+    "language_support": ["Marathi", "English"],
+    "faq": [
+      {
+        "q": "What soil conservation techniques are promoted?",
+        "a": "Contour bunding, farm ponds, check dams, trenching, and other watershed management techniques"
+      },
+      {
+        "q": "What crops are recommended for dryland farming?",
+        "a": "Drought-resistant varieties of millets, pulses, oilseeds, and other climate-appropriate crops"
+      }
+    ],
+    "implementation": "Implemented by Watershed Development Department in coordination with Department of Agriculture, Government of Maharashtra"
+  },
+  {
+    "scheme_id": "MH-POCRA-06",
+    "name": "Project on Climate Resilient Agriculture (PoCRA)",
+    "type": "Climate Change Adaptation",
+    "description": "Also known as Nanaji Deshmukh Krishi Sanjeevani Prakalp, PoCRA aims to enhance the resilience of agriculture to climate change by promoting sustainable farming practices.",
+    "target_group": "Farmers in climate-vulnerable areas",
+    "eligibility": {
+      "residency": "Maharashtra resident",
+      "other": [
+        "Farming in identified 5,142 villages across Maharashtra",
+        "Vulnerability to climate change impacts",
+        "Priority to small and marginal farmers"
+      ]
+    },
+    "benefits": [
+      "Climate-resilient agricultural technologies",
+      "Farm-level water security measures",
+      "Soil health improvement practices",
+      "Crop diversification support",
+      "Weather-based advisory services"
+    ],
+    "how_to_apply": {
+      "mode": "Online/Offline Application",
+      "steps": [
+        "Register on PoCRA portal or through Village Climate Resilient Agriculture Management Committees",
+        "Submit required documents",
+        "Technical and financial assessment",
+        "Approval and implementation support"
+      ],
+      "portal": "PoCRA Portal",
+      "check_status_link": "https://pocra.maharashtra.gov.in",
+      "help_link": "District Project Management Units",
+      "application_needed": true,
+      "deadline": "Based on project implementation schedule"
+    },
+    "required_documents": [
+      "Land records",
+      "Farmer ID",
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Vulnerability assessment"
+    ],
+    "contact": {
+      "helpline": "PoCRA Helpline",
+      "email": "pocra@maharashtra.gov.in",
+      "whatsapp": "Available via PoCRA implementation units"
+    },
+    "status": "Active",
+    "language_support": ["Marathi", "English"],
+    "faq": [
+      {
+        "q": "How many villages are covered under PoCRA?",
+        "a": "5,142 villages across Maharashtra"
+      },
+      {
+        "q": "What are the major components of PoCRA?",
+        "a": "Climate-resilient agriculture systems, water security, institutional development, and knowledge sharing"
+      }
+    ],
+    "implementation": "Implemented by Project Management Unit under Department of Agriculture, Government of Maharashtra"
+  },
+  {
+    "scheme_id": "MH-SAMS-07",
+    "name": "State Agricultural Mechanization Scheme",
+    "type": "Farm Modernization",
+    "description": "Scheme providing subsidies to farmers for purchasing modern agricultural machinery and equipment, aiming to increase efficiency and reduce labor dependency.",
+    "target_group": "All farmers in Maharashtra",
+    "eligibility": {
+      "residency": "Maharashtra resident",
+      "other": [
+        "Active farmer with land ownership/cultivation rights",
+        "Enhanced subsidies for SC/ST/women farmers",
+        "Special provisions for farmer groups and cooperatives"
+      ]
+    },
+    "benefits": [
+      "Subsidies for purchasing tractors, tillers, harvesters, etc.",
+      "Support for precision farming equipment",
+      "Assistance for custom hiring centers",
+      "Training on machinery operation and maintenance",
+      "Demonstration of new agricultural technologies"
+    ],
+    "how_to_apply": {
+      "mode": "Online Application",
+      "steps": [
+        "Register on Agricultural Mechanization Portal",
+        "Select equipment and dealer",
+        "Submit required documents",
+        "Approval and subsidy disbursement"
+      ],
+      "portal": "Maharashtra Agricultural Mechanization Portal",
+      "check_status_link": "Agricultural Mechanization Portal",
+      "help_link": "District Agriculture Office",
+      "application_needed": true,
+      "deadline": "Rolling applications based on fund availability"
+    },
+    "required_documents": [
+      "Land documents",
+      "Farmer ID",
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Equipment quotation from authorized dealer"
+    ],
+    "contact": {
+      "helpline": "Agricultural Mechanization Helpline",
+      "email": "agrimech@maharashtra.gov.in",
+      "whatsapp": "Available via Agriculture Department"
+    },
+    "status": "Active",
+    "language_support": ["Marathi", "English"],
+    "faq": [
+      {
+        "q": "What is the subsidy percentage?",
+        "a": "General category: 40-50%, SC/ST/women farmers: 50-60%, Higher subsidies for specific equipment"
+      },
+      {
+        "q": "Is there a cap on equipment cost?",
+        "a": "Yes, maximum eligible cost is defined for each category of equipment"
+      }
+    ],
+    "implementation": "Implemented by Department of Agriculture, Government of Maharashtra"
+  },
+  {
+    "scheme_id": "MH-DSPMY-08",
+    "name": "Dr. Shyama Prasad Mukherjee Jan Van Vikas Yojana",
+    "type": "Agroforestry",
+    "description": "Scheme focused on forest fringe villages, supporting agroforestry and sustainable livelihoods through community participation and resource management.",
+    "target_group": "Farmers in forest fringe villages",
+    "eligibility": {
+      "residency": "Maharashtra resident",
+      "other": [
+        "Residing in identified forest fringe villages",
+        "Willingness to adopt agroforestry practices",
+        "Community participation in resource management"
+      ]
+    },
+    "benefits": [
+      "Support for agroforestry model development",
+      "Assistance for sustainable non-timber forest product harvesting",
+      "Training on sustainable resource management",
+      "Market linkage for forest products",
+      "Livelihood diversification opportunities"
+    ],
+    "how_to_apply": {
+      "mode": "Community-based Application",
+      "steps": [
+        "Formation of Village Forest Management Committees",
+        "Development of community resource management plans",
+        "Submission through Forest Department",
+        "Approval and phased implementation"
+      ],
+      "portal": "Maharashtra Forest Department Portal",
+      "check_status_link": "Forest Department website",
+      "help_link": "District Forest Office",
+      "application_needed": true,
+      "deadline": "Based on annual planning cycle"
+    },
+    "required_documents": [
+      "Village resolution",
+      "Forest rights documents (if applicable)",
+      "Community resource management plan",
+      "Bank Account Details",
+      "Aadhaar Card"
+    ],
+    "contact": {
+      "helpline": "Forest Department Helpline",
+      "email": "janvanvikas@maharashtra.gov.in",
+      "whatsapp": "Available via Forest Department"
+    },
+    "status": "Active",
+    "language_support": ["Marathi", "English"],
+    "faq": [
+      {
+        "q": "What agroforestry models are promoted?",
+        "a": "Multi-tier cropping systems, boundary plantations, silvopasture, and other sustainable models"
+      },
+      {
+        "q": "How is community participation ensured?",
+        "a": "Through Village Forest Management Committees and participatory planning processes"
+      }
+    ],
+    "implementation": "Implemented by Forest Department in coordination with Rural Development Department, Government of Maharashtra"
+  }
+
+]
+      

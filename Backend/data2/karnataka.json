@@ -1,0 +1,1240 @@
+[
+  {
+    "scheme_id": "KRN-KBY-01",
+    "name": "Krishi Bhagya Yojana",
+    "type": "Agricultural Infrastructure",
+    "description": "Program to improve water availability in rainfed areas through on-farm structures such as farm ponds, check dams, and field bunds.",
+    "target_group": "Farmers in rainfed areas of Karnataka",
+    "eligibility": {
+      "residency": "Karnataka resident",
+      "other": [
+        "Must be a farmer in rainfed area",
+        "Land documentation required"
+      ]
+    },
+    "benefits": [
+      "Subsidy for construction of farm ponds",
+      "Support for shaded nets around ponds",
+      "Promotion of micro-irrigation systems"
+    ],
+    "how_to_apply": {
+      "mode": "Online/Offline Application",
+      "steps": [
+        "Register on Raitha Mitra portal",
+        "Submit required documents",
+        "Site inspection by department officials",
+        "Approval and subsidy disbursement"
+      ],
+      "portal": "raitamitra.karnataka.gov.in",
+      "check_status_link": "https://raitamitra.karnataka.gov.in/status",
+      "help_link": "https://raitamitra.karnataka.gov.in",
+      "application_needed": true,
+      "deadline": "Ongoing scheme with seasonal application windows"
+    },
+    "required_documents": [
+      "Land Records/RTC",
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Farm Survey Numbers"
+    ],
+    "contact": {
+      "helpline": "Raitha Mitra Helpline",
+      "email": "info@raitamitra.karnataka.gov.in",
+      "whatsapp": "Available via Raitha Mitra portal"
+    },
+    "status": "Active",
+    "language_support": ["Kannada", "English"],
+    "faq": [
+      {
+        "q": "What is the maximum subsidy available?",
+        "a": "Subsidy amounts vary based on farm size and type of structure being built."
+      },
+      {
+        "q": "Can tenant farmers apply?",
+        "a": "Yes, with proper documentation of tenancy from landowner."
+      }
+    ],
+    "implementation": "Launched in 2016-17 under state order 'ಕೃಇ 146 ಕೃಯೋಕಾ 2015'; managed by the Department of Agriculture"
+  },
+  {
+    "scheme_id": "KRN-RSY-02",
+    "name": "Raitha Siri Yojana",
+    "type": "Financial Support",
+    "description": "Scheme to provide financial assistance to farmers facing crop loss due to natural calamities or market price crashes.",
+    "target_group": "Farmers affected by crop losses in Karnataka",
+    "eligibility": {
+      "residency": "Karnataka resident",
+      "other": [
+        "Must be a farmer with documented crop loss",
+        "Special focus on millet growers"
+      ]
+    },
+    "benefits": [
+      "Direct cash support per hectare based on assessed loss",
+      "Additional support for millet growers under program expansion"
+    ],
+    "how_to_apply": {
+      "mode": "Online/Offline Application",
+      "steps": [
+        "Register on Raitha Mitra portal",
+        "Submit crop loss documentation",
+        "Field verification by agriculture officers",
+        "Approval and direct benefit transfer"
+      ],
+      "portal": "raitamitra.karnataka.gov.in",
+      "check_status_link": "https://raitamitra.karnataka.gov.in/status",
+      "help_link": "https://raitamitra.karnataka.gov.in",
+      "application_needed": true,
+      "deadline": "Applications open after official declaration of calamity or price crash"
+    },
+    "required_documents": [
+      "Land Records/RTC",
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Crop Loss Assessment Report"
+    ],
+    "contact": {
+      "helpline": "Raitha Mitra Helpline",
+      "email": "info@raitamitra.karnataka.gov.in",
+      "whatsapp": "Available via Raitha Mitra portal"
+    },
+    "status": "Active",
+    "language_support": ["Kannada", "English"],
+    "faq": [
+      {
+        "q": "How is crop loss assessed?",
+        "a": "Local agriculture officers conduct field visits to assess and document crop damage."
+      },
+      {
+        "q": "What is the maximum compensation available?",
+        "a": "Compensation rates are determined based on crop type and extent of damage as per state guidelines."
+      }
+    ],
+    "implementation": "Established under State-order Kṛ.ಇ.45/ಕೃಯೋಕಾ-2019; guidelines published for 2019–20 onward"
+  },
+  {
+    "scheme_id": "KRN-SBY-03",
+    "name": "Suvarna Bhoomi Yojana",
+    "type": "Agricultural Development",
+    "description": "Program to encourage small and marginal farmers (including SC/ST) to develop land and diversify into high-value crops.",
+    "target_group": "Small and marginal farmers of Karnataka",
+    "eligibility": {
+      "residency": "Karnataka resident",
+      "other": [
+        "Farmer status required",
+        "Landholding less than 2 hectares",
+        "Age above 18 years"
+      ]
+    },
+    "benefits": [
+      "Financial assistance of ₹10,000 per two acres",
+      "Support for land leveling and bunding",
+      "Assistance for diversification to cash/millet crops"
+    ],
+    "how_to_apply": {
+      "mode": "Online/Offline Application",
+      "steps": [
+        "Apply through local agriculture department office",
+        "Submit required documentation",
+        "Field verification",
+        "Approval and fund transfer"
+      ],
+      "portal": "raitamitra.karnataka.gov.in",
+      "check_status_link": "https://raitamitra.karnataka.gov.in/status",
+      "help_link": "https://raitamitra.karnataka.gov.in",
+      "application_needed": true,
+      "deadline": "Seasonal application windows as notified by department"
+    },
+    "required_documents": [
+      "Land Records/RTC",
+      "Caste Certificate (for SC/ST applicants)",
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Farmer ID Card"
+    ],
+    "contact": {
+      "helpline": "Raitha Mitra Helpline",
+      "email": "info@raitamitra.karnataka.gov.in",
+      "whatsapp": "Available via Raitha Mitra portal"
+    },
+    "status": "Active",
+    "language_support": ["Kannada", "English"],
+    "faq": [
+      {
+        "q": "Can tenant farmers apply for this scheme?",
+        "a": "Yes, with proper documentation of tenancy rights."
+      },
+      {
+        "q": "What crops are promoted under this scheme?",
+        "a": "High-value cash crops and millets are prioritized for diversification support."
+      }
+    ],
+    "implementation": "Initially launched in 2011-12; revamped and continued with modifications"
+  },
+  {
+    "scheme_id": "KRN-KYD-04",
+    "name": "Krishi Yantra Dhare Yojana",
+    "type": "Farm Mechanization",
+    "description": "Scheme to provide access to farm machinery via Custom Hiring Centres (CHCs) at the hobli level.",
+    "target_group": "Farmers needing access to agricultural machinery",
+    "eligibility": {
+      "residency": "Karnataka resident",
+      "other": [
+        "Farmers with valid identification",
+        "Trusts or farmer groups for establishing CHCs"
+      ]
+    },
+    "benefits": [
+      "Subsidized rental access to tractors, harvesters, and other machinery",
+      "Subsidy for establishment of Custom Hiring Centres by trusts or farmer groups"
+    ],
+    "how_to_apply": {
+      "mode": "Online/Offline Application",
+      "steps": [
+        "Apply through local agriculture department",
+        "Submit proposal for CHC (for groups/trusts)",
+        "For farmers: register at local CHC for equipment usage"
+      ],
+      "portal": "rkvy.da.gov.in",
+      "check_status_link": "https://rkvy.da.gov.in/status",
+      "help_link": "https://rkvy.da.gov.in",
+      "application_needed": true,
+      "deadline": "Annual application cycle as per RKVY guidelines"
+    },
+    "required_documents": [
+      "Farmer ID/Land Records",
+      "Organization registration (for CHC establishment)",
+      "Project proposal (for CHC establishment)",
+      "Bank Account Details"
+    ],
+    "contact": {
+      "helpline": "RKVY Helpline",
+      "email": "info@rkvy.da.gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Kannada", "English"],
+    "faq": [
+      {
+        "q": "How much subsidy is available for establishing a CHC?",
+        "a": "Subsidy rates vary as per RKVY guidelines, typically covering a substantial portion of machinery cost."
+      },
+      {
+        "q": "What machinery is available at CHCs?",
+        "a": "Tractors, tillers, harvesters, threshers, planters, and other specialized equipment based on local farming needs."
+      }
+    ],
+    "implementation": "Funded under RKVY since 2014-15"
+  },
+  {
+    "scheme_id": "KRN-OFM-05",
+    "name": "Organic Farming Mission (Savayava Siri)",
+    "type": "Sustainable Agriculture",
+    "description": "Mission to promote cluster-based organic and millet farming to enhance soil health and farmer incomes.",
+    "target_group": "Farmers interested in organic cultivation",
+    "eligibility": {
+      "residency": "Karnataka resident",
+      "other": [
+        "Farmers willing to adopt organic practices",
+        "Preference for forming 10-20 hectare organic clusters"
+      ]
+    },
+    "benefits": [
+      "Input subsidies for organic farming",
+      "Training on organic cultivation methods",
+      "Certification support under NPOP",
+      "Marketing assistance for organic produce"
+    ],
+    "how_to_apply": {
+      "mode": "Online/Offline Application",
+      "steps": [
+        "Apply through local agriculture department",
+        "Form farmer clusters where applicable",
+        "Submit conversion plan",
+        "Receive training and input support"
+      ],
+      "portal": "raitamitra.karnataka.gov.in",
+      "check_status_link": "https://raitamitra.karnataka.gov.in/status",
+      "help_link": "https://raitamitra.karnataka.gov.in",
+      "application_needed": true,
+      "deadline": "Rolling applications based on program cycles"
+    },
+    "required_documents": [
+      "Land Records/RTC",
+      "Farmer ID Card",
+      "Bank Account Details",
+      "Cluster formation agreement (if applicable)"
+    ],
+    "contact": {
+      "helpline": "Raitha Mitra Helpline",
+      "email": "organickarnataka@gmail.com",
+      "whatsapp": "Available via Raitha Mitra portal"
+    },
+    "status": "Active",
+    "language_support": ["Kannada", "English"],
+    "faq": [
+      {
+        "q": "How long does organic certification take?",
+        "a": "Typically 2-3 years for full organic certification, with transitional certification available earlier."
+      },
+      {
+        "q": "Is there marketing support for organic produce?",
+        "a": "Yes, the mission helps connect organic farmers with premium markets and provides branding support."
+      }
+    ],
+    "implementation": "Based on Karnataka's 'Savayava Krishi Neethi' (2004) policy framework"
+  },
+  {
+    "scheme_id": "KRN-KHS-06",
+    "name": "Krishi Honda Scheme",
+    "type": "Water Conservation",
+    "description": "Scheme offering subsidies for on-farm water harvesting structures (farm ponds) similar to Krishi Bhagya Yojana.",
+    "target_group": "Farmers in water-scarce regions",
+    "eligibility": {
+      "residency": "Karnataka resident",
+      "other": [
+        "Must be a farmer with suitable land for pond construction",
+        "Priority to areas with water scarcity"
+      ]
+    },
+    "benefits": [
+      "Subsidy for construction of farm ponds",
+      "Technical assistance for pond design and construction",
+      "Integration with micro-irrigation where applicable"
+    ],
+    "how_to_apply": {
+      "mode": "Online/Offline Application",
+      "steps": [
+        "Apply through Raitha Mitra portal",
+        "Site inspection by department officials",
+        "Technical approval",
+        "Construction and subsidy release"
+      ],
+      "portal": "raitamitra.karnataka.gov.in",
+      "check_status_link": "https://raitamitra.karnataka.gov.in/status",
+      "help_link": "https://raitamitra.karnataka.gov.in",
+      "application_needed": true,
+      "deadline": "Seasonal application windows"
+    },
+    "required_documents": [
+      "Land Records/RTC",
+      "Farm Survey Map",
+      "Aadhaar Card",
+      "Bank Account Details"
+    ],
+    "contact": {
+      "helpline": "Raitha Mitra Helpline",
+      "email": "info@raitamitra.karnataka.gov.in",
+      "whatsapp": "Available via Raitha Mitra portal"
+    },
+    "status": "Active",
+    "language_support": ["Kannada", "English"],
+    "faq": [
+      {
+        "q": "How is this different from Krishi Bhagya Yojana?",
+        "a": "Krishi Honda is often implemented alongside Krishi Bhagya under the same state order, with specific focus on farm pond construction."
+      },
+      {
+        "q": "What is the minimum land requirement for pond construction?",
+        "a": "Varies based on pond size, but typically requires adequate space for effective water harvesting without affecting primary cultivation."
+      }
+    ],
+    "implementation": "Often implemented alongside Krishi Bhagya Yojana under the same state order"
+  },
+  {
+    "scheme_id": "KRN-KPD-07",
+    "name": "Krishi Protsaha Dhana",
+    "type": "Incentive Program",
+    "description": "Initiative to incentivize adoption of priority crops (e.g., millets) and best agricultural practices via direct payments.",
+    "target_group": "Farmers cultivating priority crops",
+    "eligibility": {
+      "residency": "Karnataka resident",
+      "other": [
+        "Farmers growing specified priority crops",
+        "Adoption of recommended agricultural practices"
+      ]
+    },
+    "benefits": [
+      "Direct financial incentives based on crop area and type",
+      "Additional support for adopting sustainable practices",
+      "Technical guidance on priority crop cultivation"
+    ],
+    "how_to_apply": {
+      "mode": "Online/Offline Application",
+      "steps": [
+        "Register crop details on Raitha Mitra portal",
+        "Field verification by agriculture department",
+        "Incentive disbursement after harvest confirmation"
+      ],
+      "portal": "raitamitra.karnataka.gov.in",
+      "check_status_link": "https://raitamitra.karnataka.gov.in/status",
+      "help_link": "https://raitamitra.karnataka.gov.in",
+      "application_needed": true,
+      "deadline": "Announced annually in State Budget alongside Raitha Siri"
+    },
+    "required_documents": [
+      "Land Records/RTC",
+      "Crop Sowing Proof",
+      "Aadhaar Card",
+      "Bank Account Details"
+    ],
+    "contact": {
+      "helpline": "Raitha Mitra Helpline",
+      "email": "info@raitamitra.karnataka.gov.in",
+      "whatsapp": "Available via Raitha Mitra portal"
+    },
+    "status": "Active",
+    "language_support": ["Kannada", "English"],
+    "faq": [
+      {
+        "q": "Which crops receive the highest incentives?",
+        "a": "Millets and other drought-resistant native crops typically receive priority incentives."
+      },
+      {
+        "q": "Is there a minimum area requirement to qualify?",
+        "a": "Requirements vary by crop type and are announced in annual guidelines."
+      }
+    ],
+    "implementation": "Announced annually in the State Budget alongside Raitha Siri"
+  },
+  {
+    "scheme_id": "KRN-PBS-08",
+    "name": "Pashu Bhagya Scheme",
+    "type": "Livestock Development",
+    "description": "Program to develop livestock units (cattle, sheep, goats, pigs, poultry) among farmers for additional income generation.",
+    "target_group": "Farmers interested in livestock rearing",
+    "eligibility": {
+      "residency": "Karnataka resident",
+      "other": [
+        "Farmers with suitable space for livestock rearing",
+        "Priority to small and marginal farmers"
+      ]
+    },
+    "benefits": [
+      "Capital subsidy (30-50% of unit cost)",
+      "Insurance premium subsidy on a limited number of animals",
+      "Training on scientific animal husbandry practices"
+    ],
+    "how_to_apply": {
+      "mode": "Online/Offline Application",
+      "steps": [
+        "Apply through local veterinary office or online portal",
+        "Site inspection and verification",
+        "Approval and fund disbursement",
+        "Purchase of animals and establishment of unit"
+      ],
+      "portal": "pashubhagya.kar.nic.in",
+      "check_status_link": "https://pashubhagya.kar.nic.in/status",
+      "help_link": "https://pashubhagya.kar.nic.in",
+      "application_needed": true,
+      "deadline": "Continuous scheme with periodic application windows"
+    },
+    "required_documents": [
+      "Land Records/Proof of space for livestock",
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Animal husbandry training certificate (if applicable)"
+    ],
+    "contact": {
+      "helpline": "Department of Animal Husbandry Helpline",
+      "email": "director@pashubhagya.kar.nic.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Kannada", "English"],
+    "faq": [
+      {
+        "q": "What types of livestock units are supported?",
+        "a": "The scheme supports cattle, sheep, goats, pigs, and poultry units based on farmer preference and local suitability."
+      },
+      {
+        "q": "Is training provided before starting a livestock unit?",
+        "a": "Yes, beneficiaries receive mandatory training in scientific animal husbandry practices."
+      }
+    ],
+    "implementation": "Administered by Department of Animal Husbandry & Veterinary Services"
+  },
+  {
+    "scheme_id": "KRN-KNN-09",
+    "name": "Krishi Niravari Nigama Scheme",
+    "type": "Irrigation Infrastructure",
+    "description": "Program to support irrigation infrastructure via Karnataka Neeravari Nigam Limited (KNNL).",
+    "target_group": "Farmers in command areas of irrigation projects",
+    "eligibility": {
+      "residency": "Karnataka resident",
+      "other": [
+        "Farmers within designated command areas",
+        "Community groups for lift irrigation projects"
+      ]
+    },
+    "benefits": [
+      "Canal repairs and maintenance",
+      "Development of lift irrigation systems",
+      "Maintenance of distribution networks in command areas",
+      "Improved water availability for agriculture"
+    ],
+    "how_to_apply": {
+      "mode": "Online/Offline Application",
+      "steps": [
+        "Apply through KNNL offices or local irrigation department",
+        "Community applications for lift irrigation projects",
+        "Technical evaluation and approval",
+        "Project implementation"
+      ],
+      "portal": "knnl.karnataka.gov.in",
+      "check_status_link": "https://knnl.karnataka.gov.in/status",
+      "help_link": "https://knnl.karnataka.gov.in",
+      "application_needed": true,
+      "deadline": "Project-based applications as per KNNL schedule"
+    },
+    "required_documents": [
+      "Land Records in command area",
+      "Community resolution (for group projects)",
+      "Technical feasibility report",
+      "Bank Account Details"
+    ],
+    "contact": {
+      "helpline": "KNNL Helpdesk",
+      "email": "info@knnl.karnataka.gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Kannada", "English"],
+    "faq": [
+      {
+        "q": "How are command areas determined?",
+        "a": "Command areas are technically mapped regions that can receive water from specific irrigation projects."
+      },
+      {
+        "q": "Can individual farmers apply for canal repairs?",
+        "a": "Generally, canal repairs are prioritized based on technical assessments and benefit to larger areas, but farmers can report issues requiring attention."
+      }
+    ],
+    "implementation": "Managed by Karnataka Neeravari Nigam Limited (KNNL)"
+  },
+  {
+    "scheme_id": "KRN-KSAP-10",
+    "name": "Karnataka Solar Agricultural Pump Scheme (Surya Raitha)",
+    "type": "Renewable Energy",
+    "description": "Initiative to replace diesel pumps with solar-powered irrigation systems to reduce costs and environmental impact.",
+    "target_group": "Farmers using diesel pumps for irrigation",
+    "eligibility": {
+      "residency": "Karnataka resident",
+      "other": [
+        "Farmers with existing diesel pumps or new irrigation needs",
+        "Adequate sunlight exposure at pump location"
+      ]
+    },
+    "benefits": [
+      "Up to 60% subsidy on solar pump cost (central + state share)",
+      "Reduced operational costs through renewable energy",
+      "Environmental benefits through reduced emissions"
+    ],
+    "how_to_apply": {
+      "mode": "Online/Offline Application",
+      "steps": [
+        "Apply through KREDL or local electricity office",
+        "Site verification for solar suitability",
+        "Technical approval and beneficiary contribution",
+        "Installation and commissioning"
+      ],
+      "portal": "kredl.karnataka.gov.in",
+      "check_status_link": "https://kredl.karnataka.gov.in/status",
+      "help_link": "https://kredl.karnataka.gov.in",
+      "application_needed": true,
+      "deadline": "Annual application cycles as per MNRE guidelines"
+    },
+    "required_documents": [
+      "Land Records/RTC",
+      "Existing pump details (if replacing)",
+      "Electricity connection details (if applicable)",
+      "Aadhaar Card",
+      "Bank Account Details"
+    ],
+    "contact": {
+      "helpline": "KREDL Helpdesk",
+      "email": "info@kredl.karnataka.gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Kannada", "English"],
+    "faq": [
+      {
+        "q": "What is the capacity range of solar pumps available?",
+        "a": "The scheme typically supports 3HP to 10HP solar pumps based on irrigation requirements."
+      },
+      {
+        "q": "Is maintenance support provided after installation?",
+        "a": "Yes, vendors are required to provide maintenance support for 5 years after installation."
+      }
+    ],
+    "implementation": "KREDL in partnership with MNRE; projects since 2014-15"
+  },
+  {
+    "scheme_id": "KRN-KAPU-11",
+    "name": "Karnataka Agro-Processing Units Scheme",
+    "type": "Food Processing",
+    "description": "Program to develop food processing and storage infrastructure to reduce post-harvest losses and increase farmer incomes.",
+    "target_group": "Farmers, Entrepreneurs, FPOs interested in food processing",
+    "eligibility": {
+      "residency": "Karnataka resident",
+      "other": [
+        "Individuals, FPOs, cooperatives, or private companies",
+        "Technical and financial capability to establish processing units"
+      ]
+    },
+    "benefits": [
+      "Capital grant (25-35% of project cost) under MoFPI's Centrally-Sponsored Scheme",
+      "Technical assistance for project development",
+      "Market linkage support for processed products"
+    ],
+    "how_to_apply": {
+      "mode": "Online/Offline Application",
+      "steps": [
+        "Apply through Food Karnataka Limited",
+        "Submit detailed project report",
+        "Technical and financial evaluation",
+        "Approval and grant disbursement"
+      ],
+      "portal": "foodkarnataka.in",
+      "check_status_link": "https://foodkarnataka.in/status",
+      "help_link": "https://foodkarnataka.in",
+      "application_needed": true,
+      "deadline": "Quarterly application cycles as per MoFPI guidelines"
+    },
+    "required_documents": [
+      "Detailed Project Report",
+      "Land Ownership/Lease Documents",
+      "Organization Registration Documents",
+      "Bank Account Details",
+      "Technical Specifications of Processing Equipment"
+    ],
+    "contact": {
+      "helpline": "Food Karnataka Limited Helpdesk",
+      "email": "info@foodkarnataka.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Kannada", "English"],
+    "faq": [
+      {
+        "q": "What types of processing units are eligible?",
+        "a": "Primary processing, secondary processing, storage facilities, cold chains, and packaging units for agricultural produce."
+      },
+      {
+        "q": "Is there a minimum investment requirement?",
+        "a": "Yes, project size requirements vary by type of processing unit as per MoFPI guidelines."
+      }
+    ],
+    "implementation": "Managed by Food Karnataka Limited under MoFPI's Centrally-Sponsored Scheme"
+  },
+  {
+    "scheme_id": "KRN-KBM-12",
+    "name": "Karnataka Bee Keeping Mission",
+    "type": "Apiculture Development",
+    "description": "Initiative to scale up scientific apiculture and honey production in the state.",
+    "target_group": "Farmers and rural entrepreneurs interested in beekeeping",
+    "eligibility": {
+      "residency": "Karnataka resident",
+      "other": [
+        "Interest in beekeeping activities",
+        "Suitable location for apiaries"
+      ]
+    },
+    "benefits": [
+      "Subsidy for bee colonies and modern hives",
+      "Equipment support for honey extraction and processing",
+      "Training on scientific beekeeping methods",
+      "Marketing support for honey and bee products"
+    ],
+    "how_to_apply": {
+      "mode": "Online/Offline Application",
+      "steps": [
+        "Apply through local agriculture department or NBHM portal",
+        "Attend mandatory training program",
+        "Site verification for apiary suitability",
+        "Approval and subsidy disbursement"
+      ],
+      "portal": "nbhm.gov.in",
+      "check_status_link": "https://nbhm.gov.in/status",
+      "help_link": "https://nbhm.gov.in",
+      "application_needed": true,
+      "deadline": "Annual application cycles under NBHM guidelines"
+    },
+    "required_documents": [
+      "Identity Proof",
+      "Residential Proof",
+      "Bank Account Details",
+      "Site Details for Apiary"
+    ],
+    "contact": {
+      "helpline": "NBHM Helpdesk",
+      "email": "info@nbhm.gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Kannada", "English", "Hindi"],
+    "faq": [
+      {
+        "q": "How many bee boxes are provided under the scheme?",
+        "a": "Typically 5-10 bee boxes with colonies are provided to beginner beekeepers, with scope for expansion."
+      },
+      {
+        "q": "Is training mandatory before receiving assistance?",
+        "a": "Yes, beneficiaries must complete a basic beekeeping training program before receiving colonies and equipment."
+      }
+    ],
+    "implementation": "Operates under National Bee Board/NBHM guidelines"
+  },
+  {
+    "scheme_id": "KRN-KFDS-13",
+    "name": "Karnataka Fisheries Development Scheme",
+    "type": "Aquaculture Development",
+    "description": "Program to promote inland and marine fisheries via infrastructure, hatcheries, and training.",
+    "target_group": "Fisherfolk and farmers interested in aquaculture",
+    "eligibility": {
+      "residency": "Karnataka resident",
+      "other": [
+        "Traditional fisherfolk or farmers with suitable water bodies",
+        "Cooperatives and self-help groups involved in fisheries"
+      ]
+    },
+    "benefits": [
+      "Assistance for pond development and renovation",
+      "Support for establishing fish seed hatcheries",
+      "Extension services and training",
+      "Subsidy for cold storage and marketing infrastructure"
+    ],
+    "how_to_apply": {
+      "mode": "Online/Offline Application",
+      "steps": [
+        "Apply through Department of Fisheries",
+        "Technical evaluation of site and proposal",
+        "Approval and phased fund disbursement",
+        "Implementation with departmental supervision"
+      ],
+      "portal": "fisheries.karnataka.gov.in",
+      "check_status_link": "https://fisheries.karnataka.gov.in/status",
+      "help_link": "https://fisheries.karnataka.gov.in",
+      "application_needed": true,
+      "deadline": "Seasonal application cycles as per fisheries calendar"
+    },
+    "required_documents": [
+      "Water Body Ownership/Rights Document",
+      "Identity Proof",
+      "Bank Account Details",
+      "Technical Project Report",
+      "Fishing License (for marine fisheries)"
+    ],
+    "contact": {
+      "helpline": "Department of Fisheries Helpdesk",
+      "email": "info@fisheries.karnataka.gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Kannada", "English"],
+    "faq": [
+      {
+        "q": "What species of fish are recommended for cultivation?",
+        "a": "Freshwater species like Rohu, Catla, and Common Carp are recommended for inland aquaculture in Karnataka."
+      },
+      {
+        "q": "Is there assistance for fishing equipment?",
+        "a": "Yes, the scheme provides subsidies for nets, boats, and other essential fishing equipment for eligible beneficiaries."
+      }
+    ],
+    "implementation": "Administered by Department of Fisheries, Karnataka under National Fisheries Development Board guidelines"
+  },
+  {
+    "scheme_id": "KRN-KFDS-13",
+    "name": "Krushi Aranya Protsaha Yojane (KAPY)",
+    "type": "Agro-Forestry Promotion",
+    "description": "A scheme that promotes tree cover on private farmland by subsidizing seedlings and providing financial incentives for maintaining them over a three-year period.",
+    "target_group": "All farmers with agricultural land in Karnataka",
+    "eligibility": {
+      "residency": "Karnataka resident",
+      "other": [
+        "Must possess valid land records (Pahani)",
+        "Land suitable for tree planting",
+        "Excludes planting of Eucalyptus, Acacia, Casuarina, citrus, grafted mango, rubber, etc."
+      ]
+    },
+    "benefits": [
+      "Subsidized seedlings at ₹1-5 each, depending on poly-bag size",
+      "Incentive of ₹35 per surviving seedling at end of Year 1",
+      "Incentive of ₹40 per surviving seedling at end of Year 2",
+      "Incentive of ₹50 per surviving seedling at end of Year 3",
+      "Total incentive of ₹125 per surviving seedling over three years",
+      "Long-term returns in fruit, fodder, timber, etc."
+    ],
+    "how_to_apply": {
+      "mode": "In-person Application",
+      "steps": [
+        "Register by end of May at nearest Range Forest Office (₹10 fee)",
+        "Obtain seedlings at subsidized rates from departmental nurseries",
+        "Participate in maintenance checks for incentive disbursement over three years"
+      ],
+      "portal": "MyScheme portal",
+      "check_status_link": "https://myscheme.gov.in",
+      "help_link": "https://aranya.gov.in",
+      "application_needed": true,
+      "deadline": "End of May each year"
+    },
+    "required_documents": [
+      "Pahani (land record)",
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Land Sketch",
+      "Passport-sized Photograph"
+    ],
+    "contact": {
+      "helpline": "Karnataka Forest Department Helpline",
+      "email": "info@aranya.karnataka.gov.in",
+      "whatsapp": "Not specified"
+    },
+    "status": "Active",
+    "language_support": ["Kannada", "English"],
+    "faq": [
+      {
+        "q": "Which tree species are promoted under this scheme?",
+        "a": "Native and fruit-bearing species suitable for agro-forestry, excluding Eucalyptus, Acacia, Casuarina, citrus, grafted mango, and rubber."
+      },
+      {
+        "q": "How is the survival of seedlings verified?",
+        "a": "Forest department officials conduct periodic field visits to verify seedling survival before releasing incentive payments."
+      }
+    ],
+    "implementation": "Implemented by Karnataka Forest Department; incentives disbursed directly to farmer bank accounts after verification of seedling survival"
+  },
+  {
+    "scheme_id": "KRN-GGKS-14",
+    "name": "Ganga Kalyana Scheme",
+    "type": "Irrigation Infrastructure",
+    "description": "Program providing 100% subsidized borewells, pump sets and electrification to small/marginal and minority farmers to enhance irrigation coverage through groundwater exploitation.",
+    "target_group": "Small/marginal farmers and minority community farmers",
+    "eligibility": {
+      "residency": "Karnataka resident",
+      "age": "18-55 years",
+      "income": "Family income ≤ ₹96,000 per year",
+      "other": [
+        "Belonging to minority community",
+        "Landholding between 1.2-5 acres (varies by district)"
+      ]
+    },
+    "benefits": [
+      "100% subsidy for borewell drilling",
+      "100% subsidy for pump set installation",
+      "100% subsidy for electrification of pump set",
+      "Grant of ₹3.75 Lakh per individual borewell in Bangalore Rural, Kolar, Chikkaballapur, Ramanagara, Tumkur districts",
+      "Grant of ₹2.25 Lakh per individual borewell in other districts"
+    ],
+    "how_to_apply": {
+      "mode": "Online Application",
+      "steps": [
+        "Complete online form via Jan Samarth portal",
+        "Print the completed form",
+        "Submit printed form with required documentation",
+        "Department verification and approval",
+        "Implementation of borewell and irrigation infrastructure"
+      ],
+      "portal": "Jan Samarth portal",
+      "check_status_link": "https://jansamarth.gov.in/status",
+      "help_link": "https://kmdc.karnataka.gov.in",
+      "application_needed": true,
+      "deadline": "Applications accepted year-round"
+    },
+    "required_documents": [
+      "Caste Certificate",
+      "Income Certificate",
+      "RTC (Record of Rights, Tenancy and Crops)",
+      "Bank Passbook Copy",
+      "Small/Marginal Farmer Certificate",
+      "Land Revenue Receipt",
+      "Guarantor Declaration"
+    ],
+    "contact": {
+      "helpline": "Karnataka Minorities Development Corporation Helpline",
+      "email": "info@kmdc.karnataka.gov.in",
+      "whatsapp": "Not specified"
+    },
+    "status": "Active",
+    "language_support": ["Kannada", "English", "Urdu"],
+    "faq": [
+      {
+        "q": "Is there any beneficiary contribution required?",
+        "a": "No, the scheme provides 100% subsidy for eligible farmers."
+      },
+      {
+        "q": "What happens if water is not found after drilling?",
+        "a": "The department bears the risk; farmers are not liable for unsuccessful borewells."
+      }
+    ],
+    "implementation": "Implemented by Karnataka Minorities Development Corporation (KMDC) in coordination with state Energy Department"
+  },
+  {
+    "scheme_id": "KRN-BCHS-15",
+    "name": "Bhoochetana Scheme",
+    "type": "Agricultural Productivity Enhancement",
+    "description": "Program aimed at enhancing rainfed crop productivity through soil health management, micronutrient application, fertilizer demonstrations and best-practice trainings.",
+    "target_group": "Farmers in rainfed agricultural regions of Karnataka",
+    "eligibility": {
+      "residency": "Karnataka resident",
+      "other": [
+        "Farmers practicing rainfed agriculture",
+        "Registration with local Agricultural Department"
+      ]
+    },
+    "benefits": [
+      "Soil testing services",
+      "Soil health cards",
+      "Nutrient management guidance",
+      "Quality seed provision",
+      "Technical support from district facilitators",
+      "Yield improvement up to 30% in pilot districts"
+    ],
+    "how_to_apply": {
+      "mode": "Through local agricultural extension offices",
+      "steps": [
+        "Register with District Agricultural Office",
+        "Participate in soil testing camps",
+        "Attend training programs",
+        "Implement recommended practices"
+      ],
+      "portal": "Not applicable (program ended in 2019)",
+      "check_status_link": "Not applicable",
+      "help_link": "Not applicable",
+      "application_needed": true,
+      "deadline": "Program operated from 2009-2019 (now closed)"
+    },
+    "required_documents": [
+      "Land Records",
+      "Farmer ID",
+      "Aadhaar Card"
+    ],
+    "contact": {
+      "helpline": "Department of Agriculture Helpline",
+      "email": "info@agriculture.karnataka.gov.in",
+      "whatsapp": "Not applicable"
+    },
+    "status": "Inactive (operated 2009-2019)",
+    "language_support": ["Kannada", "English"],
+    "faq": [
+      {
+        "q": "How many farmers benefited from this scheme?",
+        "a": "Approximately 4 million farmers across Karnataka benefited from the program during its operational period."
+      },
+      {
+        "q": "What were the main achievements of the scheme?",
+        "a": "The scheme demonstrated significant yield gains in rainfed regions, with increases up to 30% in pilot districts. Its approaches were later integrated into mainstream agricultural extension services."
+      }
+    ],
+    "implementation": "Started in 2009 by CM B.S. Yediyurappa under RKVY (Rashtriya Krishi Vikas Yojana); implemented by Department of Agriculture, Government of Karnataka; closed in 2019"
+  },
+  {
+    "scheme_id": "KRN-RVNS-16",
+    "name": "Chief Minister's Raitha Vidya Nidhi Scheme",
+    "type": "Educational Support",
+    "description": "Scholarship program to encourage higher education among children of farmers by providing financial assistance across school to postgraduate levels.",
+    "target_group": "Children of farmers in Karnataka",
+    "eligibility": {
+      "residency": "Karnataka citizens",
+      "other": [
+        "Must be a child of a farmer",
+        "Class X pass (for undergraduate scholarships)",
+        "Only one scholarship per family"
+      ]
+    },
+    "benefits": [
+      "₹2,000-3,000 for PUC/ITI/Diploma courses",
+      "₹5,000-5,500 for non-professional undergraduate courses",
+      "₹7,500-8,000 for professional undergraduate courses (e.g., LLB, nursing)",
+      "₹10,000-11,000 for professional undergraduate/postgraduate courses (e.g., MBBS, BTech)",
+      "₹2,000 per year for girls (Classes VIII-X)"
+    ],
+    "how_to_apply": {
+      "mode": "Online Application",
+      "steps": [
+        "Apply online via scholarship portal",
+        "Upload required documents",
+        "Submit application",
+        "Benefits disbursed via Direct Benefit Transfer (DBT) to beneficiary's account"
+      ],
+      "portal": "Karnataka Scholarship Portal",
+      "check_status_link": "https://scholarships.karnataka.gov.in/status",
+      "help_link": "https://scholarships.karnataka.gov.in",
+      "application_needed": true,
+      "deadline": "Varies annually, typically after academic year begins"
+    },
+    "required_documents": [
+      "Aadhaar Card",
+      "Land-owner Certificate of Parent",
+      "Bank Account Details",
+      "Academic Records",
+      "Passport-sized Photograph"
+    ],
+    "contact": {
+      "helpline": "Education Department Scholarship Cell",
+      "email": "scholarships@karnataka.gov.in",
+      "whatsapp": "Not specified"
+    },
+    "status": "Active",
+    "language_support": ["Kannada", "English"],
+    "faq": [
+      {
+        "q": "Can children of landless agricultural laborers apply?",
+        "a": "No, the scheme is specifically for children of farmers who own agricultural land."
+      },
+      {
+        "q": "Is there any minimum academic performance requirement?",
+        "a": "Yes, applicants must have passed the previous academic year/examination."
+      }
+    ],
+    "implementation": "Implemented by Karnataka Department of Agriculture in coordination with Social Welfare Department; scholarships disbursed directly to student bank accounts"
+  },
+  {
+    "scheme_id": "KRN-FMCH-17",
+    "name": "Karnataka State Farm Mechanization Scheme",
+    "type": "Agricultural Modernization",
+    "description": "Program to promote use of modern agricultural machinery to boost productivity, reduce labor dependency and modernize farming operations through substantial subsidies.",
+    "target_group": "Individual farmers, joint farming groups, and registered cooperatives in Karnataka",
+    "eligibility": {
+      "residency": "Karnataka resident",
+      "other": [
+        "Must own/operate minimum 1 acre of land",
+        "Must have Farmer ID",
+        "Must have active bank account"
+      ]
+    },
+    "benefits": [
+      "50% subsidy on machinery cost (up to ₹1 Lakh for common farmers)",
+      "Up to ₹5 Lakh subsidy for selected equipment",
+      "90% subsidy for SC/ST farmers",
+      "Equipment includes tractors, tillers, seeders, sprayers, power threshers, etc."
+    ],
+    "how_to_apply": {
+      "mode": "Online/Offline Application",
+      "steps": [
+        "Online application via KKISAN portal",
+        "Select machinery type",
+        "Upload required documents",
+        "Verification by agricultural officers",
+        "Approval and subsidy disbursement"
+      ],
+      "portal": "KKISAN portal",
+      "check_status_link": "https://kkisan.karnataka.gov.in/status",
+      "help_link": "https://kkisan.karnataka.gov.in",
+      "application_needed": true,
+      "deadline": "Applications accepted throughout the year based on fund availability"
+    },
+    "required_documents": [
+      "Proof of Land Ownership",
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Farmer ID",
+      "Caste Certificate (for SC/ST applicants)"
+    ],
+    "contact": {
+      "helpline": "KKISAN Helpline",
+      "email": "support@kkisan.karnataka.gov.in",
+      "whatsapp": "Available through KKISAN portal"
+    },
+    "status": "Active",
+    "language_support": ["Kannada", "English"],
+    "faq": [
+      {
+        "q": "Can farmers apply for multiple types of machinery?",
+        "a": "Yes, but there are annual limits on total subsidy amount per farmer."
+      },
+      {
+        "q": "Is there any verification process after purchasing the equipment?",
+        "a": "Yes, agricultural officers verify the machinery purchase before subsidy is released."
+      }
+    ],
+    "implementation": "Implemented by Department of Agriculture, Government of Karnataka under KKISAN portal; subsidy released directly to manufacturer/dealer to ensure quality"
+  },
+  {
+    "scheme_id": "KRN-KBFI-18",
+    "name": "Karnataka Biofuel Policy Initiatives (2025-26)",
+    "type": "Renewable Energy",
+    "description": "Comprehensive policy framework to enhance energy security and environmental sustainability by promoting production and use of biodiesel and ethanol from sustainable feedstocks.",
+    "target_group": "Farmers, entrepreneurs, research institutions, and biofuel producers in Karnataka",
+    "eligibility": {
+      "residency": "Karnataka registration for enterprises",
+      "other": [
+        "Farmers growing biofuel feedstock crops",
+        "Entrepreneurs establishing biofuel processing units",
+        "Research institutions working on biofuel technologies",
+        "Existing biofuel manufacturers"
+      ]
+    },
+    "benefits": [
+      "Tax exemptions for biofuel production",
+      "Duty rebates on equipment purchase",
+      "Capital grants for biofuel plants",
+      "Support for biogas and bio-CNG production",
+      "Incentives for biodiesel from non-edible oilseeds",
+      "Support for ethanol from sugarcane juice and damaged grains",
+      "R&D collaboration with German universities (Dortmund University of Applied Sciences)"
+    ],
+    "how_to_apply": {
+      "mode": "Through Karnataka State Bio-Energy Development Board",
+      "steps": [
+        "Submit project proposal to Bio-Energy Development Board",
+        "Technical evaluation by expert committee",
+        "Financial viability assessment",
+        "Approval and incentive disbursement"
+      ],
+      "portal": "Karnataka Energy Department Portal",
+      "check_status_link": "https://energy.karnataka.gov.in/biofuel/status",
+      "help_link": "https://energy.karnataka.gov.in/biofuel",
+      "application_needed": true,
+      "deadline": "Ongoing program for 2025-26 fiscal year"
+    },
+    "required_documents": [
+      "Project Proposal",
+      "Technical Specifications",
+      "Environmental Impact Assessment",
+      "Financial Viability Report",
+      "Land Documents (if applicable)"
+    ],
+    "contact": {
+      "helpline": "Karnataka State Bio-Energy Development Board Helpline",
+      "email": "biofuel@karnataka.gov.in",
+      "whatsapp": "Not specified"
+    },
+    "status": "Active",
+    "language_support": ["Kannada", "English"],
+    "faq": [
+      {
+        "q": "What types of biofuel production are supported?",
+        "a": "The policy supports biodiesel from non-edible oilseeds, ethanol from sugarcane juice and damaged grains, biogas, and bio-CNG production."
+      },
+      {
+        "q": "Are there specific R&D collaborations?",
+        "a": "Yes, the state has MoUs with German universities, particularly Dortmund University of Applied Sciences, for R&D and technology transfer in biofuel production."
+      }
+    ],
+    "implementation": "Implemented by Karnataka State Bio-Energy Development Board under Department of Energy; funded through state budget allocation for 2025-26, public-private partnerships, and international grants"
+  },
+  {
+    "scheme_id": "KRN-HPCM-19",
+    "name": "Horticultural Producers' Cooperative Marketing and Processing Society (HOPCOMS)",
+    "type": "Agricultural Marketing",
+    "description": "Cooperative marketing society that eliminates intermediaries by directly marketing horticultural produce, ensuring fair prices for farmers and quality goods for consumers.",
+    "target_group": "Horticultural farmers in Karnataka",
+    "eligibility": {
+      "residency": "Karnataka resident",
+      "other": [
+        "Must be a horticultural farmer",
+        "Must join as member of HOPCOMS cooperative"
+      ]
+    },
+    "benefits": [
+      "Direct market access eliminating middlemen",
+      "Fair price realization for produce",
+      "Collection, grading, and processing facilities",
+      "Distribution to hospitals, factories, hostels",
+      "Access to processing units (juice production)",
+      "Participation in fruit/vegetable festivals"
+    ],
+    "how_to_apply": {
+      "mode": "In-person Application at HOPCOMS Office",
+      "steps": [
+        "Apply for membership at nearest HOPCOMS office",
+        "Submit required documents",
+        "Pay membership fee",
+        "Start supplying produce to collection centers"
+      ],
+      "portal": "Not specified",
+      "check_status_link": "Not specified",
+      "help_link": "https://horticulture.karnataka.gov.in/hopcoms",
+      "application_needed": true,
+      "deadline": "Membership open throughout the year"
+    },
+    "required_documents": [
+      "Land Records proving horticultural farming",
+      "Identity Proof",
+      "Address Proof",
+      "Passport-sized Photographs",
+      "Bank Account Details"
+    ],
+    "contact": {
+      "helpline": "HOPCOMS Headquarters, Lalbagh, Bengaluru",
+      "email": "hopcoms@karnataka.gov.in",
+      "whatsapp": "Not specified"
+    },
+    "status": "Active (established 1965)",
+    "language_support": ["Kannada", "English"],
+    "faq": [
+      {
+        "q": "Which districts are covered by HOPCOMS operations?",
+        "a": "HOPCOMS covers Bangalore Urban/Rural, Kolar, Ramanagar, Mandya, Mysuru, and Chikkaballapura districts."
+      },
+      {
+        "q": "What is the daily throughput of HOPCOMS operations?",
+        "a": "HOPCOMS handles approximately 100 tonnes of horticultural produce daily."
+      }
+    ],
+    "implementation": "Operates under Department of Horticulture, Government of Karnataka; headquartered at Lalbagh, Bengaluru; governed by Board of Directors with majority farmer representation; approximately 12,680 farmer members with paid-up capital of ₹26.59 million (as of 2014)"
+  },
+  {
+    "scheme_id": "KRN-RFSR-20",
+    "name": "Relief for Farmer Suicides",
+    "type": "Distress Relief",
+    "description": "Emergency financial assistance program to provide immediate relief to families of farmers who die by suicide, aimed at mitigating economic distress and supporting surviving family members.",
+    "target_group": "Families of farmers who have died by suicide due to agricultural indebtedness",
+    "eligibility": {
+      "residency": "Karnataka resident farmer family",
+      "other": [
+        "Documented loan from bank/recognized institution",
+        "Death ruled as suicide by Forensic Science Laboratory (FSL) report",
+        "Police FIR confirming suicide"
+      ]
+    },
+    "benefits": [
+      "Ex gratia payment of ₹5 Lakh to family of deceased",
+      "Monthly pension of ₹2,000 to surviving spouse",
+      "Benefits disbursed upon verification of suicide linked to indebtedness"
+    ],
+    "how_to_apply": {
+      "mode": "Through District Agriculture Office",
+      "steps": [
+        "Next-of-kin apply through District Agriculture Office",
+        "Submit required documentation",
+        "Case review by district committee",
+        "Approval and disbursement via Direct Benefit Transfer (DBT)"
+      ],
+      "portal": "Not specified",
+      "check_status_link": "Not specified",
+      "help_link": "https://agriculture.karnataka.gov.in",
+      "application_needed": true,
+      "deadline": "Application should be filed within one year of the incident"
+    },
+    "required_documents": [
+      "Police FIR copy",
+      "Forensic Science Laboratory (FSL) report",
+      "Bank loan statements",
+      "Aadhaar cards of family members",
+      "Death certificate",
+      "Proof of relationship with deceased"
+    ],
+    "contact": {
+      "helpline": "District Agriculture Office",
+      "email": "Not specified",
+      "whatsapp": "Not specified"
+    },
+    "status": "Active",
+    "language_support": ["Kannada", "English"],
+    "faq": [
+      {
+        "q": "How is the link between suicide and agricultural indebtedness established?",
+        "a": "A district-level committee reviews each case using police reports, FSL findings, loan documents, and other evidence to establish the connection."
+      },
+      {
+        "q": "How long does the approval process take?",
+        "a": "The verification and approval process typically takes 2-3 months after submission of complete documentation."
+      }
+    ],
+    "implementation": "Jointly implemented by Department of Agriculture and Department of Rural Development; relief amounts disbursed directly to beneficiary bank accounts after case verification by district committee"
+  }
+]

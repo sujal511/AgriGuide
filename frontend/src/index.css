@@ -1,0 +1,137 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light dark;
+}
+
+/* Light mode styles */
+html.light {
+  color-scheme: light;
+}
+
+html.light body {
+  @apply bg-white text-gray-900;
+}
+
+/* Dark mode styles */
+html.dark {
+  color-scheme: dark;
+}
+
+html.dark body {
+  @apply bg-gray-900 text-white;
+}
+
+/* Smooth transitions */
+body {
+  @apply transition-colors duration-300;
+}
+
+/* Additional styles for better light/dark mode handling */
+.bg-white {
+  @apply transition-colors duration-300;
+}
+
+.dark .bg-white {
+  @apply bg-gray-800;
+}
+
+.bg-gray-100 {
+  @apply transition-colors duration-300;
+}
+
+.dark .bg-gray-100 {
+  @apply bg-gray-900;
+}
+
+/* Ensure text colors transition smoothly */
+.text-gray-900 {
+  @apply transition-colors duration-300;
+}
+
+.dark .text-gray-900 {
+  @apply text-white;
+}
+
+/* Ensure backgrounds transition smoothly */
+.bg-gray-50 {
+  @apply transition-colors duration-300;
+}
+
+.dark .bg-gray-50 {
+  @apply bg-gray-900;
+}
+
+/* Add these global styles for dark mode */
+.dark-mode input,
+.dark-mode select,
+.dark-mode textarea {
+  background-color: #374151 !important; /* gray-700 */
+  border-color: #4B5563 !important; /* gray-600 */
+  color: #F9FAFB !important; /* gray-50 */
+}
+
+.dark-mode input::placeholder,
+.dark-mode textarea::placeholder {
+  color: #9CA3AF !important; /* gray-400 */
+}
+
+.dark-mode input:focus,
+.dark-mode select:focus,
+.dark-mode textarea:focus {
+  border-color: #10B981 !important; /* green-500 */
+  box-shadow: 0 0 0 2px rgba(16, 185, 129, 0.2) !important; /* green-500 with opacity */
+}
+
+/* Light mode explicit styles to ensure proper reset when toggling */
+body:not(.dark-mode) input,
+body:not(.dark-mode) select,
+body:not(.dark-mode) textarea {
+  background-color: #FFFFFF;
+  border-color: #D1D5DB; /* gray-300 */
+  color: #1F2937; /* gray-800 */
+}
+
+body:not(.dark-mode) input::placeholder,
+body:not(.dark-mode) textarea::placeholder {
+  color: #6B7280; /* gray-500 */
+}
+
+body:not(.dark-mode) input:focus,
+body:not(.dark-mode) select:focus,
+body:not(.dark-mode) textarea:focus {
+  border-color: #10B981 !important; /* green-500 */
+  box-shadow: 0 0 0 2px rgba(16, 185, 129, 0.2) !important; /* green-500 with opacity */
+}
+
+/* Add animation for bouncing right arrow */
+@keyframes bounce-right {
+  0%, 100% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(3px);
+  }
+}
+
+.animate-bounce-right {
+  animation: bounce-right 1s infinite;
+}
+
+/* Add animation for pulsing chevron */
+@keyframes pulse-chevron {
+  0%, 100% {
+    opacity: 0.7;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.1);
+  }
+}
+
+.animate-pulse-chevron {
+  animation: pulse-chevron 2s infinite;
+} 

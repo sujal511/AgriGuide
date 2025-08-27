@@ -1,0 +1,1438 @@
+[
+  {
+    "scheme_id": "GOI-PMKISAN-01",
+    "name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+    "type": "Financial Support",
+    "description": "Direct income support scheme for farmers that provides ₹6,000 per year to land‑holding farmer families in three instalments of ₹2,000 each, via Direct Benefit Transfer.",
+    "target_group": "Landholding farmers across India",
+    "eligibility": {
+      "residency": "Indian citizen",
+      "other": [
+        "Must be a landholding farmer family", 
+        "Subject to certain exclusions for higher income groups, government employees, etc."
+      ]
+    },
+    "benefits": [
+      "Financial assistance of ₹6,000 per year",
+      "Disbursed in three equal installments of ₹2,000 every four months",
+      "Direct transfer to beneficiary bank accounts"
+    ],
+    "how_to_apply": {
+      "mode": "Online/Offline Application",
+      "steps": [
+        "Register through local Common Service Centers (CSCs)",
+        "Submit required documents to verify land ownership",
+        "Complete eKYC for continued benefit",
+        "Bank account must be linked with Aadhaar"
+      ],
+      "portal": "pmkisan.gov.in",
+      "check_status_link": "https://pmkisan.gov.in/BeneficiaryStatus.aspx",
+      "help_link": "https://pmkisan.gov.in",
+      "application_needed": true,
+      "deadline": "None - Ongoing scheme with periodic enrollment windows"
+    },
+    "required_documents": [
+      "Aadhaar Card",
+      "Land Records",
+      "Bank Account Details",
+      "Completed eKYC"
+    ],
+    "contact": {
+      "helpline": "011-23381092",
+      "email": "pmkisan-ict@gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Hindi", "English", "Regional languages"],
+    "faq": [
+      {
+        "q": "Is eKYC mandatory for PM-KISAN?",
+        "a": "Yes, beneficiaries must complete eKYC to continue receiving payments."
+      },
+      {
+        "q": "How will I know if my payment is processed?",
+        "a": "You can check your status on the PM-KISAN portal using your registration number."
+      },
+      {
+        "q": "Who is excluded from PM-KISAN benefits?",
+        "a": "Institutional landholders, higher income tax payers, professionals, and government employees are generally excluded."
+      }
+    ]
+  },
+  {
+    "scheme_id": "GOI-PMFBY-02",
+    "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "type": "Crop Insurance",
+    "description": "A comprehensive crop insurance scheme that provides financial support to farmers in case of crop damage or loss due to unforeseen events.",
+    "target_group": "All farmers including sharecroppers and tenant farmers",
+    "eligibility": {
+      "residency": "Indian farmer",
+      "other": [
+        "Farmers growing notified crops in notified areas",
+        "Both loanee and non-loanee farmers can participate"
+      ]
+    },
+    "benefits": [
+      "Insurance coverage for the entire crop cycle",
+      "Protection against yield losses due to natural calamities, pests, and diseases",
+      "Low premium rates subsidized by government",
+      "Use of technology for quick claim settlement"
+    ],
+    "how_to_apply": {
+      "mode": "Through banks, insurance companies, or CSCs",
+      "steps": [
+        "Approach local bank branch, insurance company, or CSC",
+        "Fill the proposal form for the notified crop",
+        "Pay applicable premium amount",
+        "Obtain insurance acknowledgment receipt"
+      ],
+      "portal": "pmfby.gov.in",
+      "check_status_link": "https://pmfby.gov.in/citizen/citizenhomepage",
+      "help_link": "https://pmfby.gov.in",
+      "application_needed": true,
+      "deadline": "Varies according to crop seasons"
+    },
+    "required_documents": [
+      "Land Records/Tenancy Agreement",
+      "Identity Proof",
+      "Bank Account Details",
+      "Sowing Certificate (if required)"
+    ],
+    "contact": {
+      "helpline": "011-23384758",
+      "email": "help.pmfby@gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Hindi", "English", "Regional languages"],
+    "faq": [
+      {
+        "q": "What are the premium rates under PMFBY?",
+        "a": "2% for Kharif crops, 1.5% for Rabi crops, and 5% for commercial/horticultural crops."
+      },
+      {
+        "q": "How are claims settled?",
+        "a": "Claims are settled based on yield data from Crop Cutting Experiments (CCEs) or weather parameters as applicable."
+      },
+      {
+        "q": "Is the scheme mandatory for farmers with crop loans?",
+        "a": "The scheme was made voluntary for all farmers from Kharif 2020 season."
+      }
+    ]
+  },
+  {
+    "scheme_id": "GOI-SHC-03",
+    "name": "Soil Health Card Scheme",
+    "type": "Agricultural Support",
+    "description": "Initiative to issue soil health cards to farmers containing crop-wise recommendations for nutrients and fertilizers to help farmers improve productivity through judicious use of inputs.",
+    "target_group": "All farmers across India",
+    "eligibility": {
+      "residency": "Indian farmer",
+      "other": ["All farmers with agricultural land are eligible"]
+    },
+    "benefits": [
+      "Soil health cards issued every 3 years",
+      "Detailed analysis of soil nutrient status",
+      "Crop-specific fertilizer recommendations",
+      "Promotes balanced use of fertilizers",
+      "Helps improve soil health and crop productivity"
+    ],
+    "how_to_apply": {
+      "mode": "Through local agriculture department",
+      "steps": [
+        "Contact local agriculture officer",
+        "Register for soil testing",
+        "Submit soil samples as directed",
+        "Receive soil health card with recommendations"
+      ],
+      "portal": "soilhealth.dac.gov.in",
+      "check_status_link": "https://soilhealth.dac.gov.in/home/SoilHealthCard",
+      "help_link": "https://soilhealth.dac.gov.in",
+      "application_needed": true,
+      "deadline": "Ongoing scheme"
+    },
+    "required_documents": [
+      "Identity proof",
+      "Land records/details",
+      "Contact information"
+    ],
+    "contact": {
+      "helpline": "1800-180-1551",
+      "email": "soilhealth-agri@gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Hindi", "English", "Regional languages"],
+    "faq": [
+      {
+        "q": "How often are soil health cards issued?",
+        "a": "Soil Health Cards are issued once every three years."
+      },
+      {
+        "q": "What information does the soil health card contain?",
+        "a": "It contains the status of soil with respect to 12 parameters including N,P,K (Macro-nutrients); S (Secondary nutrient); Zn, Fe, Cu, Mn, Bo (Micro-nutrients); and pH, EC, OC (Physical parameters)."
+      },
+      {
+        "q": "Is there any fee for soil testing?",
+        "a": "Soil testing under the scheme is generally free for farmers."
+      }
+    ]
+  },
+  {
+    "scheme_id": "GOI-PMKSY-04",
+    "name": "Pradhan Mantri Krishi Sinchai Yojana (PMKSY)",
+    "type": "Irrigation Support",
+    "description": "A centrally sponsored scheme aimed at expanding cultivated area with assured irrigation, reducing wastage of water, and improving water use efficiency.",
+    "target_group": "Farmers requiring irrigation support",
+    "eligibility": {
+      "residency": "Indian farmer",
+      "other": ["Priority to small and marginal farmers"]
+    },
+    "benefits": [
+      "Expanded irrigation coverage ('Har Khet Ko Pani')",
+      "Improved water-use efficiency ('More Crop Per Drop')",
+      "Micro-irrigation systems subsidized",
+      "Creation of new water sources and restoration of existing water bodies",
+      "Enhanced recharge of aquifers"
+    ],
+    "how_to_apply": {
+      "mode": "Through state agriculture/irrigation departments",
+      "steps": [
+        "Contact local agriculture or irrigation department office",
+        "Submit application for specific component of PMKSY",
+        "Provide required documentation",
+        "Implementation based on approval"
+      ],
+      "portal": "pmksy.gov.in",
+      "check_status_link": "https://pmksy.gov.in/mis/DefaultHome.aspx",
+      "help_link": "https://pmksy.gov.in",
+      "application_needed": true,
+      "deadline": "Ongoing with periodic application windows"
+    },
+    "required_documents": [
+      "Land ownership records",
+      "Identity proof",
+      "Bank account details",
+      "Project proposal (if applicable)"
+    ],
+    "contact": {
+      "helpline": "011-23383744",
+      "email": "pmksy-mowr@gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Hindi", "English"],
+    "faq": [
+      {
+        "q": "What are the main components of PMKSY?",
+        "a": "The main components are Accelerated Irrigation Benefit Programme (AIBP), Har Khet Ko Pani, Per Drop More Crop, and Watershed Development."
+      },
+      {
+        "q": "What type of irrigation methods are promoted under PMKSY?",
+        "a": "PMKSY promotes micro-irrigation techniques like drip and sprinkler irrigation."
+      },
+      {
+        "q": "Is there any subsidy available under the scheme?",
+        "a": "Yes, subsidies are available for micro-irrigation systems and other components, with rates varying by state."
+      }
+    ]
+  },
+  {
+    "scheme_id": "GOI-ENAM-05",
+    "name": "e-National Agriculture Market (e-NAM)",
+    "type": "Market Linkage",
+    "description": "Pan-India electronic trading platform that creates a unified national market for agricultural commodities by networking existing APMC mandis.",
+    "target_group": "Farmers, traders, and buyers of agricultural produce",
+    "eligibility": {
+      "residency": "Indian citizen",
+      "other": ["Farmers, FPOs, traders registered with participating APMC mandis"]
+    },
+    "benefits": [
+      "Transparent price discovery mechanism",
+      "Access to nationwide market for better prices",
+      "Reduced transaction costs",
+      "Online payments",
+      "Quality assaying of produce"
+    ],
+    "how_to_apply": {
+      "mode": "Online registration at e-NAM portal",
+      "steps": [
+        "Visit the nearest e-NAM registered APMC mandi",
+        "Register on the e-NAM portal or through mobile app",
+        "Upload required documents",
+        "Obtain login credentials",
+        "Start trading on the platform"
+      ],
+      "portal": "enam.gov.in",
+      "check_status_link": "https://enam.gov.in/web/login/login",
+      "help_link": "https://enam.gov.in/web/",
+      "application_needed": true,
+      "deadline": "Open throughout the year"
+    },
+    "required_documents": [
+      "Identity proof",
+      "Bank account details",
+      "Mobile number",
+      "Trader license (for traders)",
+      "Business entity documents (for companies/FPOs)"
+    ],
+    "contact": {
+      "helpline": "1800-270-0224",
+      "email": "enam.helpdesk@sfacin.gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Hindi", "English", "Regional languages"],
+    "faq": [
+      {
+        "q": "Who manages the e-NAM platform?",
+        "a": "e-NAM is managed by the Small Farmers Agribusiness Consortium (SFAC) under Ministry of Agriculture & Farmers' Welfare."
+      },
+      {
+        "q": "Do I need to physically go to the mandi after registering on e-NAM?",
+        "a": "Initially yes, but e-NAM is progressively introducing features for remote trading."
+      },
+      {
+        "q": "Is quality assaying mandatory for trading on e-NAM?",
+        "a": "Quality assaying is encouraged for better price discovery but may not be mandatory for all commodities."
+      }
+    ]
+  },
+  {
+    "scheme_id": "GOI-AIF-06",
+    "name": "Agriculture Infrastructure Fund (AIF)",
+    "type": "Infrastructure Development",
+    "description": "A financing facility for the creation of post-harvest management infrastructure and community farming assets through interest subvention and credit guarantee support.",
+    "target_group": "Farmers, FPOs, Agri-entrepreneurs, Start-ups, and Central/State agencies",
+    "eligibility": {
+      "residency": "Indian entity",
+      "other": [
+        "Farmers, FPOs, PACS, Marketing Cooperative Societies, SHGs",
+        "Agri-entrepreneurs, Start-ups, Agribusiness companies",
+        "Central/State agency or local body sponsored Public-Private Partnership Projects"
+      ]
+    },
+    "benefits": [
+      "Interest subvention of 3% per annum for loans up to Rs. 2 crore",
+      "Credit guarantee coverage for loans up to Rs. 2 crore",
+      "Long repayment period of up to 7 years",
+      "Moratorium period of up to 2 years",
+      "Support for various post-harvest infrastructure projects"
+    ],
+    "how_to_apply": {
+      "mode": "Online application through AIF portal",
+      "steps": [
+        "Register on the AIF portal",
+        "Submit project proposal with DPR",
+        "Application reviewed by lending institution",
+        "Loan sanctioned based on feasibility",
+        "Interest subvention and credit guarantee provided"
+      ],
+      "portal": "agriinfra.dac.gov.in",
+      "check_status_link": "https://agriinfra.dac.gov.in/Home/ApplicationTracking",
+      "help_link": "https://agriinfra.dac.gov.in/",
+      "application_needed": true,
+      "deadline": "Operational until 2032-33"
+    },
+    "required_documents": [
+      "Identity and address proof",
+      "Project proposal/DPR",
+      "Land documents (if applicable)",
+      "Registration documents of organization (for FPOs, startups, etc.)",
+      "Bank account details"
+    ],
+    "contact": {
+      "helpline": "011-23385111",
+      "email": "aif-agri@gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Hindi", "English"],
+    "faq": [
+      {
+        "q": "What type of projects can be funded under AIF?",
+        "a": "Post-harvest management projects like cold storage, pack houses, sorting & grading units, warehouses, e-marketing platforms, etc."
+      },
+      {
+        "q": "What is the loan amount available under AIF?",
+        "a": "Loans from Rs. 10 lakh to Rs. 2 crore are eligible for interest subvention and credit guarantee coverage."
+      },
+      {
+        "q": "How long will the scheme be operational?",
+        "a": "The scheme will be operational from 2020-21 to 2032-33."
+      }
+    ]
+  },
+  {
+    "scheme_id": "GOI-PMKUSUM-07",
+    "name": "Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan (PM-KUSUM)",
+    "type": "Renewable Energy",
+    "description": "Launched in March 2019, the scheme offers up to 60% subsidy (30% Central + 30% State) on solar irrigation pumps to farmers and enables sale of surplus power back to the grid.",
+    "target_group": "Farmers requiring energy solutions for agriculture",
+    "eligibility": {
+      "residency": "Indian farmer",
+      "other": [
+        "Individual farmers for standalone solar pumps",
+        "Grid-connected pump owners for solarization",
+        "Farmers, FPOs, Panchayats for setting up solar power plants"
+      ]
+    },
+    "benefits": [
+      "Up to 60% subsidy on solar pumps",
+      "Income generation through sale of surplus power to grid",
+      "Reduced dependency on diesel for irrigation",
+      "Lower electricity bills for grid-connected pumps",
+      "Sustainable irrigation solutions"
+    ],
+    "how_to_apply": {
+      "mode": "Through state implementing agencies",
+      "steps": [
+        "Contact state nodal agency for renewable energy/agriculture department",
+        "Submit application form with required documents",
+        "Site assessment conducted by implementing agency",
+        "Approval and installation by empanelled vendors",
+        "Commissioning and subsidy disbursement"
+      ],
+      "portal": "pmkusum.mnre.gov.in",
+      "check_status_link": "State-specific implementation portals",
+      "help_link": "https://mnre.gov.in/solar/schemes/",
+      "application_needed": true,
+      "deadline": "Ongoing with periodic application windows"
+    },
+    "required_documents": [
+      "Land ownership documents",
+      "Identity proof",
+      "Bank account details",
+      "Electricity bill (for grid-connected pump solarization)",
+      "Pump specifications (for existing pumps)"
+    ],
+    "contact": {
+      "helpline": "011-24360707",
+      "email": "kusum-mnre@gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Hindi", "English"],
+    "faq": [
+      {
+        "q": "What are the components of PM-KUSUM scheme?",
+        "a": "Component A: Setting up of 10,000 MW of Decentralized Ground/Stilt Mounted Grid Connected Solar Power Plants, Component B: Installation of 20 lakh standalone Solar Powered Agriculture Pumps, and Component C: Solarization of 15 lakh existing Grid-connected Agriculture Pumps."
+      },
+      {
+        "q": "What is the subsidy pattern under PM-KUSUM?",
+        "a": "Up to 60% subsidy (30% central + 30% state) for standalone solar pumps. Subsidy patterns may vary by component and state."
+      },
+      {
+        "q": "Can I get a pump of any capacity under this scheme?",
+        "a": "The scheme generally covers pumps up to 7.5 HP capacity, with specific criteria set by states."
+      }
+    ]
+  },
+  {
+    "scheme_id": "GOI-PMMSY-08",
+    "name": "Pradhan Mantri Matsya Sampada Yojana (PMMSY)",
+    "type": "Fisheries Development",
+    "description": "A flagship scheme for sustainable and responsible development of the fisheries sector in India, with investments in infrastructure, activities, and welfare measures.",
+    "target_group": "Fishers, fish farmers, fish workers, and entrepreneurs in the fisheries sector",
+    "eligibility": {
+      "residency": "Indian citizen",
+      "other": [
+        "Fishers, fish farmers, fish workers",
+        "Fisheries cooperatives/federations",
+        "Self Help Groups (SHGs) in fisheries sector",
+        "Entrepreneurs, private companies in fisheries sector",
+        "State governments and entities"
+      ]
+    },
+    "benefits": [
+      "Infrastructure development for fisheries",
+      "Support for fish production and productivity",
+      "Higher subsidies for SC/ST/women beneficiaries",
+      "Insurance coverage for fishers",
+      "Marketing support and value addition facilities"
+    ],
+    "how_to_apply": {
+      "mode": "Through state fisheries departments",
+      "steps": [
+        "Contact district fisheries officer",
+        "Submit application with project proposal",
+        "Technical and financial evaluation",
+        "Approval by competent authority",
+        "Release of funds in installments"
+      ],
+      "portal": "pmmsy.dof.gov.in",
+      "check_status_link": "State-specific implementation portals",
+      "help_link": "https://dof.gov.in/pmmsy",
+      "application_needed": true,
+      "deadline": "Ongoing with periodic application windows"
+    },
+    "required_documents": [
+      "Identity proof",
+      "Address proof",
+      "Bank account details",
+      "Project proposal/DPR (for infrastructure projects)",
+      "Land documents (where applicable)",
+      "Licenses/permissions (as required)"
+    ],
+    "contact": {
+      "helpline": "011-23386099",
+      "email": "pmmsy-fisheries@gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Hindi", "English", "Regional languages"],
+    "faq": [
+      {
+        "q": "What is the duration of the PMMSY scheme?",
+        "a": "PMMSY is implemented for a period of 5 years from FY 2020-21 to FY 2024-25."
+      },
+      {
+        "q": "What is the subsidy pattern under PMMSY?",
+        "a": "Subsidy up to 40% for general category and up to 60% for SC/ST/women beneficiaries in most components."
+      },
+      {
+        "q": "Does PMMSY cover both marine and inland fisheries?",
+        "a": "Yes, PMMSY covers both marine and inland fisheries, as well as aquaculture."
+      }
+    ]
+  },
+  {
+    "scheme_id": "GOI-KSAMPAD-09",
+    "name": "Pradhan Mantri Kisan SAMPADA Yojana",
+    "type": "Food Processing",
+    "description": "A comprehensive package to create modern infrastructure with efficient supply chain management from farm gate to retail outlet.",
+    "target_group": "Food processors, farmer producer organizations, cooperatives, and entrepreneurs",
+    "eligibility": {
+      "residency": "Indian entity",
+      "other": [
+        "Individuals, partnerships, companies in food processing",
+        "FPOs, NGOs, cooperatives, SHGs",
+        "Central/State PSUs",
+        "Joint ventures"
+      ]
+    },
+    "benefits": [
+      "Financial assistance for setting up food processing units",
+      "Creation of modern infrastructure for food processing",
+      "Reduction in wastage of agricultural produce",
+      "Enhanced shelf life of food products",
+      "Better returns to farmers"
+    ],
+    "how_to_apply": {
+      "mode": "Online application through MoFPI portal",
+      "steps": [
+        "Register on the SAMPADA portal",
+        "Select appropriate scheme component",
+        "Submit detailed project report with required documents",
+        "Technical committee evaluation",
+        "Approval and fund disbursement in installments"
+      ],
+      "portal": "sampada-mofpi.gov.in",
+      "check_status_link": "https://sampada-mofpi.gov.in/login.aspx",
+      "help_link": "https://mofpi.gov.in/Schemes/pradhan-mantri-kisan-sampada-yojana",
+      "application_needed": true,
+      "deadline": "Scheme-specific application windows"
+    },
+    "required_documents": [
+      "Detailed Project Report (DPR)",
+      "Land documents/lease agreement",
+      "Organization registration documents",
+      "Bank appraisal and sanction letter",
+      "Cost estimates and quotations",
+      "Processing capacity details"
+    ],
+    "contact": {
+      "helpline": "011-26492216",
+      "email": "sampada-mofpi@gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Hindi", "English"],
+    "faq": [
+      {
+        "q": "What are the components under PM Kisan SAMPADA Yojana?",
+        "a": "The major components include Mega Food Parks, Integrated Cold Chain, Creation/Expansion of Food Processing Units, Infrastructure for Agro-Processing Clusters, Food Safety & Quality Assurance Infrastructure, and Operation Greens."
+      },
+      {
+        "q": "What is the grant-in-aid pattern under the scheme?",
+        "a": "It varies by component, generally ranging from 35% to 75% of the eligible project cost, with maximum caps defined for each component."
+      },
+      {
+        "q": "Can individuals apply for all components of the scheme?",
+        "a": "Some components like Mega Food Parks are primarily for companies/SPVs, while others like food processing units can be accessed by individuals."
+      }
+    ]
+  },
+  {
+    "scheme_id": "GOI-NBHM-10",
+    "name": "National Beekeeping and Honey Mission (NBHM)",
+    "type": "Beekeeping Promotion",
+    "description": "A scheme to promote holistic growth of the beekeeping industry for income and employment generation, enhance crop productivity, and ensure food security.",
+    "target_group": "Beekeepers, farmers interested in beekeeping, entrepreneurs in honey sector",
+    "eligibility": {
+      "residency": "Indian citizen",
+      "other": [
+        "Individual beekeepers",
+        "Farmers interested in beekeeping",
+        "Self Help Groups (SHGs)",
+        "FPOs focused on beekeeping",
+        "Cooperatives and federations in beekeeping sector"
+      ]
+    },
+    "benefits": [
+      "Financial assistance for setting up beekeeping units",
+      "Support for honey processing infrastructure",
+      "Training and capacity building in scientific beekeeping",
+      "Quality control testing facilities",
+      "Marketing support for honey and other bee products"
+    ],
+    "how_to_apply": {
+      "mode": "Through National Bee Board or state horticulture missions",
+      "steps": [
+        "Contact state horticulture department or National Bee Board",
+        "Submit application form with project details",
+        "Technical evaluation of proposal",
+        "Approval and release of funds",
+        "Implementation and monitoring"
+      ],
+      "portal": "nbhm.gov.in",
+      "check_status_link": "Contact implementing agency",
+      "help_link": "http://nbb.gov.in/",
+      "application_needed": true,
+      "deadline": "Ongoing with periodic application windows"
+    },
+    "required_documents": [
+      "Identity proof",
+      "Address proof",
+      "Bank account details",
+      "Project proposal (for larger projects)",
+      "Land documents (where applicable)"
+    ],
+    "contact": {
+      "helpline": "011-25843193",
+      "email": "nbhm-agriculture@gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Hindi", "English"],
+    "faq": [
+      {
+        "q": "What type of support is provided under NBHM?",
+        "a": "Support includes assistance for beehives and colonies, equipment, processing infrastructure, training, quality testing labs, and research & development."
+      },
+      {
+        "q": "Is there training provided for new beekeepers?",
+        "a": "Yes, the scheme includes components for training and capacity building in scientific beekeeping methods."
+      },
+      {
+        "q": "Can I get support for marketing my honey products?",
+        "a": "Yes, the scheme includes provisions for supporting marketing infrastructure and brand promotion for honey and other bee products."
+      }
+    ]
+  },
+  {
+    "scheme_id": "GOI-NMEO-OP-11",
+    "name": "National Mission on Edible Oils – Oil Palm (NMEO-OP)",
+    "type": "Crop Diversification",
+    "description": "A centrally sponsored scheme to increase the production of palm oil in India through area expansion, support to farmers, and creation of processing infrastructure.",
+    "target_group": "Farmers in identified areas suitable for oil palm cultivation",
+    "eligibility": {
+      "residency": "Indian farmer in identified potential areas",
+      "other": [
+        "Farmers with land suitable for oil palm cultivation",
+        "Farmers in identified potential districts/states",
+        "FPOs and cooperatives in oil palm sector",
+        "Processing companies with farmer linkages"
+      ]
+    },
+    "benefits": [
+      "Financial assistance for planting material",
+      "Maintenance cost support during gestation period",
+      "Support for drip irrigation systems",
+      "Assistance for intercropping during gestation period",
+      "Support for processing units and seed gardens"
+    ],
+    "how_to_apply": {
+      "mode": "Through state agriculture/horticulture departments",
+      "steps": [
+        "Contact district agriculture/horticulture officer",
+        "Submit application with land details",
+        "Field verification of land suitability",
+        "Registration and allocation of planting material",
+        "Assistance provided in phases"
+      ],
+      "portal": "nmeo.dac.gov.in",
+      "check_status_link": "State-specific implementation portals",
+      "help_link": "https://nmeo.dac.gov.in/",
+      "application_needed": true,
+      "deadline": "Ongoing in identified potential areas"
+    },
+    "required_documents": [
+      "Land ownership records",
+      "Identity proof",
+      "Bank account details",
+      "Soil and water testing reports (if required)"
+    ],
+    "contact": {
+      "helpline": "011-23382021",
+      "email": "nmeo-op@gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Hindi", "English", "Regional languages"],
+    "faq": [
+      {
+        "q": "What is the gestation period for oil palm cultivation?",
+        "a": "Oil palm has a gestation period of 3-4 years before commercial production begins."
+      },
+      {
+        "q": "Is there any price assurance for oil palm farmers?",
+        "a": "Yes, the scheme includes a viability price mechanism to protect farmers from fluctuations in international CPO prices."
+      },
+      {
+        "q": "In which states is oil palm cultivation being promoted?",
+        "a": "The scheme focuses on North-Eastern states and Andaman & Nicobar Islands primarily, along with other potential states identified based on suitability assessment."
+      }
+    ]
+  },
+  {
+    "scheme_id": "GOI-SMAM-12",
+    "name": "Sub-Mission on Agricultural Mechanization (SMAM)",
+    "type": "Farm Mechanization",
+    "description": "A scheme to increase the reach of farm mechanization to small and marginal farmers and to regions where availability of farm power is low.",
+    "target_group": "Individual farmers, farmer groups, custom hiring centers",
+    "eligibility": {
+      "residency": "Indian citizen",
+      "other": [
+        "All categories of farmers eligible with focus on small and marginal farmers",
+        "SHGs, cooperatives, FPOs for establishing custom hiring centers",
+        "Entrepreneurs for farm machinery banks"
+      ]
+    },
+    "benefits": [
+      "Subsidy on purchase of agricultural machinery and equipment",
+      "Support for establishing custom hiring centers",
+      "Training on operation and maintenance of machinery",
+      "Demonstrations of new technology machines",
+      "Creating hubs for hi-tech and high-value agricultural equipment"
+    ],
+    "how_to_apply": {
+      "mode": "Through state agriculture departments",
+      "steps": [
+        "Contact district agriculture officer",
+        "Submit application with required documents",
+        "Selection based on defined criteria",
+        "Purchase machinery from empanelled manufacturers",
+        "Subsidy transferred after verification"
+      ],
+      "portal": "agrimachinery.nic.in",
+      "check_status_link": "State agriculture department portals",
+      "help_link": "https://farmech.dac.gov.in/",
+      "application_needed": true,
+      "deadline": "Ongoing with periodic application windows"
+    },
+    "required_documents": [
+      "Identity proof",
+      "Land records",
+      "Bank account details",
+      "Quotation for machinery (if applicable)",
+      "Business plan (for custom hiring centers)"
+    ],
+    "contact": {
+      "helpline": "011-23382461",
+      "email": "smam-agri@gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Hindi", "English", "Regional languages"],
+    "faq": [
+      {
+        "q": "What is the subsidy pattern under SMAM?",
+        "a": "Subsidy varies from 40-50% for individual beneficiaries depending on the category and up to 80% for custom hiring centers, with different rates for different categories of equipment and northeastern states."
+      },
+      {
+        "q": "Can I get subsidy for any type of agricultural machinery?",
+        "a": "Subsidy is available only for approved list of machines with specified technical specifications."
+      },
+      {
+        "q": "Is training provided on how to use the machinery?",
+        "a": "Yes, the scheme includes components for training and capacity building on operation and maintenance of farm machinery."
+      }
+    ]
+  },
+  {
+    "scheme_id": "GOI-PMKMY-13",
+    "name": "Pradhan Mantri Kisan Maan Dhan Yojana (PM-KMY)",
+    "type": "Social Security",
+    "description": "A voluntary and contributory pension scheme for small and marginal farmers aged 18–40 with up to 2 ha of cultivable land (and not covered under other social security/pension schemes), contributing monthly sums that the government matches. On maturity at age 60, they receive ₹3,000/month pension.",
+    "target_group": "Small and marginal farmers across India",
+    "eligibility": {
+      "residency": "Indian citizen",
+      "other": [
+        "Small and marginal farmers aged between 18 and 40 years",
+        "Cultivable land up to 2 hectares as per land records",
+        "Should not be covered under any other statutory social security scheme",
+        "Not income tax payer"
+      ]
+    },
+    "benefits": [
+      "Monthly pension of ₹3,000 after attaining the age of 60 years",
+      "Family pension to spouse in case of death of the beneficiary",
+      "Return of accumulated amount with interest to nominee in case of death during subscription period",
+      "Government contribution equal to beneficiary contribution"
+    ],
+    "how_to_apply": {
+      "mode": "Through Common Service Centers (CSCs)",
+      "steps": [
+        "Visit nearest CSC or PM-KMY enrollment center",
+        "Fill the enrollment form with required details",
+        "Complete eKYC through Aadhaar",
+        "Pay the monthly contribution as per age",
+        "Receive pension card and start contributing"
+      ],
+      "portal": "maandhan.in",
+      "check_status_link": "https://maandhan.in/SearchBeneficiary",
+      "help_link": "https://maandhan.in/",
+      "application_needed": true,
+      "deadline": "Open throughout the year"
+    },
+    "required_documents": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Mobile Number",
+      "Land Records (to verify small/marginal farmer status)"
+    ],
+    "contact": {
+      "helpline": "1800-180-2235",
+      "email": "pmkmy-agri@gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Hindi", "English", "Regional languages"],
+    "faq": [
+      {
+        "q": "What is the contribution amount under PM-KMY?",
+        "a": "The monthly contribution ranges from ₹55 to ₹200 depending on the entry age of the farmer."
+      },
+      {
+        "q": "What happens if I stop paying the contribution?",
+        "a": "The account will become dormant after non-payment for a specified period, but can be revived by paying the outstanding dues with interest."
+      },
+      {
+        "q": "Can I exit from the scheme before 60 years of age?",
+        "a": "Yes, voluntary exit is permitted. However, only the beneficiary's contributions with accumulated interest will be returned, not the government's contribution."
+      }
+    ]
+  },
+  {
+    "scheme_id": "GOI-RKVY-14",
+    "name": "Rashtriya Krishi Vikas Yojana (RKVY-RAFTAAR)",
+    "type": "Agricultural Development",
+    "description": "Launched in August 2007 as part of the 11th Five Year Plan and rebranded in 2017 as RKVY-RAFTAAR, this scheme incentivizes states to boost public investment in agriculture and allied sectors, with a focus on innovation, agritech startups, and value-chain interventions.",
+    "target_group": "State governments, farmers, agritech startups",
+    "eligibility": {
+      "residency": "Indian states and territories",
+      "other": [
+        "State governments must prepare district-level agricultural plans",
+        "For startups: Must be registered entities with viable agricultural innovations"
+      ]
+    },
+    "benefits": [
+      "Financial support for agricultural infrastructure development",
+      "Funding for innovation and agritech startups",
+      "Support for value-chain interventions",
+      "Customized agricultural planning at district level"
+    ],
+    "how_to_apply": {
+      "mode": "Through State Government",
+      "steps": [
+        "State governments prepare agricultural plans",
+        "Plans are submitted to State-level sanctioning committees",
+        "For startups: Apply through designated state nodal agencies"
+      ],
+      "portal": "rkvy.nic.in",
+      "check_status_link": "https://rkvy.nic.in",
+      "help_link": "https://rkvy.nic.in/contact-us",
+      "application_needed": true,
+      "deadline": "As per annual budget cycle"
+    },
+    "required_documents": [
+      "State agricultural plans",
+      "Project proposals",
+      "For startups: Registration documents, business plan, innovation details"
+    ],
+    "contact": {
+      "helpline": "011-23381092",
+      "email": "rkvy-agri@gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Hindi", "English", "Regional languages"],
+    "funding_pattern": {
+      "general_states": "60:40 (Centre:State)",
+      "northeast_himalayan": "90:10 (Centre:State)",
+      "union_territories": "100% Central funding"
+    },
+    "faq": [
+      {
+        "q": "How does RKVY-RAFTAAR support agritech startups?",
+        "a": "The scheme provides funding and mentorship to agritech startups with innovative solutions for agricultural challenges."
+      },
+      {
+        "q": "What is the difference between RKVY and RKVY-RAFTAAR?",
+        "a": "RKVY-RAFTAAR is the 2017 rebranded version that adds focus on innovation, startups, and value-chain interventions to the original RKVY scheme launched in 2007."
+      },
+      {
+        "q": "Who implements RKVY-RAFTAAR?",
+        "a": "It is implemented by the Department of Agriculture & Farmers' Welfare through State-level sanctioning committees."
+      }
+    ]
+  },
+  
+  {
+    "scheme_id": "GOI-PKVY-15",
+    "name": "Paramparagat Krishi Vikas Yojana (PKVY)",
+    "type": "Organic Farming",
+    "description": "Launched in 2015-16 under the National Mission for Sustainable Agriculture, this scheme promotes cluster-based organic farming across India with a target to bring 6 lakh hectares under certified organic farming by 2025-26.",
+    "target_group": "Farmers interested in organic farming",
+    "eligibility": {
+      "residency": "Indian citizen",
+      "other": [
+        "Farmers must be willing to form clusters of at least 50 farmers",
+        "Minimum area of 50 hectares per cluster",
+        "Commitment to organic farming practices"
+      ]
+    },
+    "benefits": [
+      "Financial assistance of ₹31,500 per hectare over three years",
+      "Support for on-farm/off-farm organic inputs (₹15,000/ha)",
+      "Marketing support (₹4,500/ha)",
+      "Organic certification support (₹3,000/ha)",
+      "Training on organic practices (₹9,000/ha)"
+    ],
+    "how_to_apply": {
+      "mode": "Through State Agriculture Department",
+      "steps": [
+        "Form a farming cluster of at least 50 farmers",
+        "Register with local agriculture office",
+        "Submit cluster proposal through state agriculture department",
+        "Undergo mandatory training for certification"
+      ],
+      "portal": "pgsindia-ncof.gov.in",
+      "check_status_link": "https://pgsindia-ncof.gov.in/pkvy/Index.aspx",
+      "help_link": "https://pgsindia-ncof.gov.in",
+      "application_needed": true,
+      "deadline": "Ongoing scheme with seasonal application windows"
+    },
+    "required_documents": [
+      "Land records",
+      "Farmer identity proof",
+      "Bank account details",
+      "Cluster formation agreement",
+      "Declaration of non-usage of chemicals"
+    ],
+    "contact": {
+      "helpline": "011-25841226",
+      "email": "pkvy-agri@gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Hindi", "English", "Regional languages"],
+    "funding_pattern": {
+      "general_states": "60:40 (Centre:State)",
+      "northeast_himalayan": "90:10 (Centre:State)",
+      "union_territories": "100% Central funding"
+    },
+    "faq": [
+      {
+        "q": "What is the target area under PKVY?",
+        "a": "The scheme aims to bring 6 lakh hectares under certified organic farming by 2025-26."
+      },
+      {
+        "q": "What type of certification is provided under PKVY?",
+        "a": "The scheme supports PGS (Participatory Guarantee System) certification for organic farming."
+      },
+      {
+        "q": "Can individual farmers apply for PKVY?",
+        "a": "No, farmers need to form clusters of at least 50 farmers covering minimum 50 hectares to avail benefits under this scheme."
+      }
+    ]
+  },
+  
+  {
+    "scheme_id": "GOI-PMAASHA-16",
+    "name": "Pradhan Mantri Annadata Aay Sanrakshan Abhiyan (PM-AASHA)",
+    "type": "Price Support",
+    "description": "Announced in September 2018 as an umbrella scheme to ensure farmers receive the notified Minimum Support Price (MSP) for their produce through multiple mechanisms.",
+    "target_group": "Farmers growing notified crops eligible for MSP",
+    "eligibility": {
+      "residency": "Indian farmer",
+      "other": [
+        "Must grow crops covered under MSP",
+        "Should follow prescribed quality standards for the produce"
+      ]
+    },
+    "benefits": [
+      "Guaranteed MSP for notified crops",
+      "Price Support Scheme (PSS) for direct procurement at MSP",
+      "Price Deficiency Payment Scheme (PDPS) for compensation when market prices fall below MSP",
+      "Private Procurement & Stockist Scheme (PPSS) for procurement by private players with a financial incentive"
+    ],
+    "how_to_apply": {
+      "mode": "Through local procurement centers/markets",
+      "steps": [
+        "Register at local procurement centers when operational",
+        "Ensure produce meets quality standards",
+        "For PDPS: Register on designated portal during announced windows"
+      ],
+      "portal": "farmer.gov.in/aasha",
+      "check_status_link": "https://farmer.gov.in/aasha/status",
+      "help_link": "https://farmer.gov.in/aasha/help",
+      "application_needed": true,
+      "deadline": "Seasonal, based on crop harvesting periods"
+    },
+    "required_documents": [
+      "Farmer identity proof",
+      "Land records",
+      "Bank account details",
+      "Crop quality certification"
+    ],
+    "contact": {
+      "helpline": "1800-180-1551",
+      "email": "pmaasha-support@gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Hindi", "English", "Regional languages"],
+    "funding_pattern": {
+      "allocation": "₹35,000 crore for 2021-26 period",
+      "funding": "100% Central Government"
+    },
+    "faq": [
+      {
+        "q": "What are the components of PM-AASHA?",
+        "a": "PM-AASHA has three components: Price Support Scheme (PSS), Price Deficiency Payment Scheme (PDPS), and Private Procurement & Stockist Scheme (PPSS)."
+      },
+      {
+        "q": "Which crops are covered under PM-AASHA?",
+        "a": "The scheme covers all notified crops for which MSP is announced by the government."
+      },
+      {
+        "q": "Who implements PM-AASHA?",
+        "a": "It is implemented jointly by the Department of Agriculture & Farmers' Welfare and the Department of Consumer Affairs."
+      }
+    ]
+  },
+  
+  {
+    "scheme_id": "GOI-NFSNM-17",
+    "name": "National Food Security & Nutrition Mission (NFSNM)",
+    "type": "Production Enhancement",
+    "description": "Launched as National Food Security Mission (NFSM) in October 2007 and renamed as NFSNM in 2024-25, this scheme aims to increase production of key food crops including rice, wheat, pulses, coarse cereals, and nutri-cereals through area expansion and productivity enhancement.",
+    "target_group": "Farmers cultivating food crops",
+    "eligibility": {
+      "residency": "Indian farmer",
+      "other": [
+        "Farmers in identified districts growing targeted crops",
+        "Priority to small and marginal farmers"
+      ]
+    },
+    "benefits": [
+      "Subsidized quality seeds and planting materials",
+      "Farm mechanization support",
+      "Soil health management assistance",
+      "Integrated pest management training",
+      "Cropping system based interventions",
+      "Marketing support for nutri-cereals"
+    ],
+    "how_to_apply": {
+      "mode": "Through State Agriculture Department",
+      "steps": [
+        "Contact local agriculture office or Krishi Vigyan Kendra",
+        "Submit application for specific component benefits",
+        "Attend training programs if required"
+      ],
+      "portal": "nfsm.gov.in",
+      "check_status_link": "https://nfsm.gov.in/StatusReport/StateStatus.aspx",
+      "help_link": "https://nfsm.gov.in/ContactUs.aspx",
+      "application_needed": true,
+      "deadline": "Seasonal, varies by component"
+    },
+    "required_documents": [
+      "Farmer identity proof",
+      "Land records",
+      "Bank account details",
+      "Soil health card (if available)"
+    ],
+    "contact": {
+      "helpline": "011-23389831",
+      "email": "nfsm-agri@gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Hindi", "English", "Regional languages"],
+    "funding_pattern": {
+      "description": "Centrally Sponsored Scheme with varying cost-sharing by component"
+    },
+    "faq": [
+      {
+        "q": "What is the difference between NFSM and NFSNM?",
+        "a": "NFSNM is the 2024-25 rebranded version of NFSM that now includes a specific focus on nutri-cereals alongside the original target crops."
+      },
+      {
+        "q": "What are the production targets under this mission?",
+        "a": "The mission aims to increase production of rice by 10 million tonnes, wheat by 8 million tonnes, pulses by 2 million tonnes, and boost production of coarse cereals."
+      },
+      {
+        "q": "Who implements NFSNM?",
+        "a": "It is implemented by the Department of Agriculture & Farmers' Welfare with support from ICAR, Krishi Vigyan Kendras, and State agriculture departments."
+      }
+    ]
+  },
+  
+  {
+    "scheme_id": "GOI-NMNF-18",
+    "name": "National Mission on Natural Farming (NMNF)",
+    "type": "Sustainable Agriculture",
+    "description": "Approved by the Union Cabinet on November 25, 2024 as a standalone Centrally Sponsored Scheme to promote and scale up chemical-free natural farming practices across India.",
+    "target_group": "Farmers interested in natural farming",
+    "eligibility": {
+      "residency": "Indian farmer",
+      "other": [
+        "Farmers willing to adopt chemical-free farming practices",
+        "Priority to clusters/villages for community adoption"
+      ]
+    },
+    "benefits": [
+      "Training on natural farming practices",
+      "Support for establishing 15,000 Gram-level clusters",
+      "Assistance for setting up 10,000 Bio-Input Resource Centers",
+      "Development of model demonstration farms",
+      "Simplified certification process",
+      "Market linkage support"
+    ],
+    "how_to_apply": {
+      "mode": "Through State Agriculture Department",
+      "steps": [
+        "Contact local agriculture extension officer",
+        "Register for gram-level clusters",
+        "Attend mandatory training on natural farming practices"
+      ],
+      "portal": "naturalfarming.dac.gov.in",
+      "check_status_link": "https://naturalfarming.dac.gov.in/status",
+      "help_link": "https://naturalfarming.dac.gov.in/help",
+      "application_needed": true,
+      "deadline": "Ongoing scheme with periodic enrollment windows"
+    },
+    "required_documents": [
+      "Farmer identity proof",
+      "Land records",
+      "Bank account details",
+      "Declaration of commitment to natural farming practices"
+    ],
+    "contact": {
+      "helpline": "1800-180-1551",
+      "email": "nmnf-support@gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Hindi", "English", "Regional languages"],
+    "funding_pattern": {
+      "total_outlay": "₹2,481 crore through 2025-26",
+      "union_share": "₹1,584 crore",
+      "state_share": "₹897 crore"
+    },
+    "faq": [
+      {
+        "q": "What is natural farming?",
+        "a": "Natural farming is a chemical-free farming approach that promotes the use of locally available resources, natural inputs, and biological processes for sustainable agriculture."
+      },
+      {
+        "q": "When was NMNF approved?",
+        "a": "NMNF was approved in November 2024 as a standalone Centrally Sponsored Scheme."
+      },
+      {
+        "q": "Who implements NMNF?",
+        "a": "It is implemented by the Department of Agriculture & Farmers' Welfare in partnership with State Governments and PGS-India."
+      }
+    ]
+  },
+  
+  {
+    "scheme_id": "GOI-NBM-19",
+    "name": "National Bamboo Mission",
+    "type": "Bamboo Development",
+    "description": "Restructured in 2018-19 under the National Mission for Sustainable Agriculture to promote bamboo cultivation on non-forest land, value-addition, market development, R&D, and marketing.",
+    "target_group": "Farmers, entrepreneurs, and artisans in bamboo sector",
+    "eligibility": {
+      "residency": "Indian citizen",
+      "other": [
+        "Farmers with suitable land for bamboo cultivation",
+        "Entrepreneurs in bamboo processing and value addition",
+        "Artisans working with bamboo"
+      ]
+    },
+    "benefits": [
+      "Financial assistance for new bamboo plantations",
+      "Support for improved variety cultivation",
+      "Assistance for setting up processing units",
+      "Market development support",
+      "Skill development for bamboo craftspeople",
+      "Technology transfer and capacity building"
+    ],
+    "how_to_apply": {
+      "mode": "Through State Bamboo Development Agencies",
+      "steps": [
+        "Contact State Bamboo Development Board",
+        "Submit proposal for specific component",
+        "Follow state-specific application process"
+      ],
+      "portal": "nbm.nic.in",
+      "check_status_link": "https://nbm.nic.in/status",
+      "help_link": "https://nbm.nic.in/contact",
+      "application_needed": true,
+      "deadline": "Varies by component and state"
+    },
+    "required_documents": [
+      "Identity proof",
+      "Land records (for plantation)",
+      "Business plan (for processing units)",
+      "Bank account details",
+      "Previous experience details (if applicable)"
+    ],
+    "contact": {
+      "helpline": "011-23386236",
+      "email": "nbm-dac@gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Hindi", "English", "Regional languages"],
+    "funding_pattern": {
+      "general_states": "60:40 (Centre:State)",
+      "northeast_himalayan": "90:10 (Centre:State)",
+      "union_territories": "100% Central funding",
+      "national_agencies": "100% Central funding"
+    },
+    "faq": [
+      {
+        "q": "When was the National Bamboo Mission restructured?",
+        "a": "The National Bamboo Mission was restructured in 2018 under the National Mission for Sustainable Agriculture."
+      },
+      {
+        "q": "What are the key focus areas of the National Bamboo Mission?",
+        "a": "The mission focuses on bamboo cultivation on non-forest land, value-addition, and marketing to increase farmers' income and strengthen the bamboo industry."
+      },
+      {
+        "q": "Who are the nodal agencies for the National Bamboo Mission?",
+        "a": "The nodal agencies include the National Bamboo Mission at the central level and State Bamboo Development Boards at the state level."
+      }
+    ]
+  },
+  
+  {
+    "scheme_id": "GOI-MOVCDNER-20",
+    "name": "Mission Organic Value Chain Development for North Eastern Region (MOVCD-NER)",
+    "type": "Organic Farming",
+    "description": "Initiated in 2015-16 as a Central Sector Scheme to develop certified organic production and value chains in the eight North Eastern states of India.",
+    "target_group": "Farmers in North Eastern states",
+    "eligibility": {
+      "residency": "Resident of North Eastern states (Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura)",
+      "other": [
+        "Farmers willing to adopt organic farming practices",
+        "Preference for those willing to join Farmer Producer Organizations"
+      ]
+    },
+    "benefits": [
+      "Assistance for organic certification",
+      "Support for forming Farmer Producer Organizations",
+      "Infrastructure development for collection, aggregation, and processing",
+      "Market access and brand development",
+      "End-to-end support across the value chain",
+      "Training on organic farming practices"
+    ],
+    "how_to_apply": {
+      "mode": "Through State Nodal Agencies",
+      "steps": [
+        "Contact designated State nodal agency",
+        "Register for organic certification",
+        "Join or form Farmer Producer Organizations if applicable"
+      ],
+      "portal": "movcdner.apeda.gov.in",
+      "check_status_link": "https://movcdner.apeda.gov.in/status",
+      "help_link": "https://movcdner.apeda.gov.in/contact",
+      "application_needed": true,
+      "deadline": "Ongoing with periodic enrollment windows"
+    },
+    "required_documents": [
+      "Identity proof",
+      "Land records",
+      "Bank account details",
+      "Declaration of commitment to organic practices"
+    ],
+    "contact": {
+      "helpline": "011-26513219",
+      "email": "movcdner-support@gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["English", "Regional languages of North East"],
+    "funding_pattern": {
+      "type": "Central Sector Scheme with 100% funding from Central Government"
+    },
+    "faq": [
+      {
+        "q": "When was MOVCD-NER launched?",
+        "a": "MOVCD-NER was launched in 2015-16 as a Central Sector Scheme."
+      },
+      {
+        "q": "What is the coverage target of MOVCD-NER?",
+        "a": "The scheme aims to cover over 50,000 hectares under organic farming in the North Eastern region."
+      },
+      {
+        "q": "How many Farmer Producer Organizations are targeted under this scheme?",
+        "a": "The scheme aims to form approximately 100 Farmer Producer Organizations across the eight North Eastern states."
+      }
+    ]
+  },
+  
+  {
+    "scheme_id": "GOI-KCC-21",
+    "name": "Kisan Credit Card (KCC) Scheme",
+    "type": "Agricultural Credit",
+    "description": "Launched in August 1998 to provide farmers with timely access to short and medium-term credit for their cultivation, allied activities, and consumption needs.",
+    "target_group": "All farmers, including small and marginal farmers",
+    "eligibility": {
+      "residency": "Indian citizen",
+      "other": [
+        "All farmers - individual/joint cultivators, tenant farmers, oral lessees, and sharecroppers",
+        "SHGs or Joint Liability Groups of farmers",
+        "Fishers, dairy farmers, and other allied agriculture practitioners"
+      ]
+    },
+    "benefits": [
+      "Short-term crop loans up to ₹3 lakh at 4% effective interest rate (with prompt repayment)",
+      "Interest subvention of 2% on timely repayment",
+      "Additional prompt repayment incentive of 3%",
+      "Coverage for term loans for agriculture and allied activities",
+      "Consumption loan component up to ₹10,000",
+      "ATM-enabled RuPay card facility"
+    ],
+    "how_to_apply": {
+      "mode": "Through Banks",
+      "steps": [
+        "Apply at nearest bank branch (commercial, regional rural, or cooperative)",
+        "Submit required documents",
+        "Complete bank's verification process",
+        "Collect KCC and RuPay card after approval"
+      ],
+      "portal": "Online portals of respective banks",
+      "check_status_link": "Contact issuing bank",
+      "help_link": "https://www.rbi.org.in/Scripts/FAQView.aspx?Id=84",
+      "application_needed": true,
+      "deadline": "No deadline - ongoing scheme"
+    },
+    "required_documents": [
+      "Identity proof (Aadhaar/Voter ID/Driving License)",
+      "Address proof",
+      "Land records/tenancy agreement",
+      "Passport-size photographs",
+      "Bank account details"
+    ],
+    "contact": {
+      "helpline": "Contact local bank branch",
+      "email": "Varies by bank",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Hindi", "English", "Regional languages"],
+    "implementing_agencies": {
+      "description": "Commercial banks, Regional Rural Banks, and Cooperative banks under RBI guidelines"
+    },
+    "faq": [
+      {
+        "q": "When was the KCC scheme introduced?",
+        "a": "The Kisan Credit Card scheme was introduced in 1998."
+      },
+      {
+        "q": "What is the interest rate for KCC loans?",
+        "a": "The effective interest rate is 4% per annum for loans up to ₹3 lakh (with 2% interest subvention and 3% prompt repayment incentive)."
+      },
+      {
+        "q": "Can KCC be used for purposes other than crop production?",
+        "a": "Yes, KCC covers allied activities like animal husbandry, fisheries, and also includes a small consumption loan component."
+      }
+    ]
+  },
+  
+  {
+    "scheme_id": "GOI-ACABC-22",
+    "name": "Agri-Clinics & Agri-Business Centres (ACABC) Scheme",
+    "type": "Entrepreneurship Development",
+    "description": "Launched in April 2002 to foster agri-entrepreneurship among agriculture graduates by providing training and credit-linked back-end subsidies for setting up agricultural service enterprises.",
+    "target_group": "Agriculture graduates and rural entrepreneurs",
+    "eligibility": {
+      "residency": "Indian citizen",
+      "other": [
+        "Graduates in agriculture and allied subjects from recognized universities",
+        "Diploma holders in agriculture and allied fields",
+        "Biological science graduates with experience in agriculture",
+        "Intermediate in Agriculture (in some states)"
+      ]
+    },
+    "benefits": [
+      "Free two-month residential training on entrepreneurship development",
+      "Handholding support for one year after training",
+      "Credit-linked back-end subsidy (up to 36% of project cost)",
+      "Bank loans up to ₹20 lakh for individuals and ₹100 lakh for groups",
+      "Infrastructure support for establishment of agri-ventures"
+    ],
+    "how_to_apply": {
+      "mode": "Through Nodal Training Institutions",
+      "steps": [
+        "Apply to nearest Nodal Training Institution",
+        "Complete selection process",
+        "Attend residential training program",
+        "Prepare business plan with handholding support",
+        "Apply for bank loan and subsidy"
+      ],
+      "portal": "acabc.gov.in",
+      "check_status_link": "https://acabc.gov.in/Application_Status.aspx",
+      "help_link": "https://acabc.gov.in/ContactUs.aspx",
+      "application_needed": true,
+      "deadline": "Ongoing scheme with regular training batches"
+    },
+    "required_documents": [
+      "Identity proof",
+      "Educational qualification certificates",
+      "Address proof",
+      "Bank account details",
+      "Project proposal (for subsidy)",
+      "Land documents (if applicable)"
+    ],
+    "contact": {
+      "helpline": "0120-2405837",
+      "email": "acabc-manage@gov.in",
+      "whatsapp": "N/A"
+    },
+    "status": "Active",
+    "language_support": ["Hindi", "English", "Regional languages"],
+    "implementing_agencies": {
+      "description": "Ministry of Agriculture & Farmers' Welfare in coordination with MANAGE and State governments"
+    },
+    "faq": [
+      {
+        "q": "When was the ACABC scheme launched?",
+        "a": "The Agri-Clinics & Agri-Business Centres scheme was launched in 2002."
+      },
+      {
+        "q": "What types of ventures can be established under ACABC?",
+        "a": "Ventures include soil testing labs, agri-input supply, farm machinery rentals, veterinary clinics, plant protection services, agriculture consulting, and many other agri-service businesses."
+      },
+      {
+        "q": "Who provides the subsidy under ACABC?",
+        "a": "NABARD acts as the subsidy-channelizing agency for the scheme, while the funding comes from the Ministry of Agriculture & Farmers' Welfare."
+      }
+    ]
+  }
+  
+]

@@ -1,0 +1,552 @@
+[
+    {
+      "schemeId": "ICICI-AGRI-001",
+      "schemeName": "Kisan Credit Card (KCC)",
+      "loanType": "Crop Loan",
+      "interestRate": {
+        "min": 10.10,
+        "max": 15.50,
+        "note": "Mean rate 12.86% for loans disbursed between October 1, 2024, and December 31, 2024; rates depend on credit assessment and exclude government subvention schemes"
+      },
+      "repaymentTerm": {
+        "durationMonths": 60,
+        "category": "Revolving Credit"
+      },
+      "eligibility": [
+        "Age 18-70 years",
+        "Agricultural land ownership or engagement in agricultural/allied activities"
+      ],
+      "description": "Short-term loan for agricultural and allied activities including crop cultivation, post-harvest expenses, and farm maintenance",
+      "keyBenefits": [
+        "Revolving credit facility",
+        "Annual review system",
+        "Flexible withdrawals and repayments based on crop cycles"
+      ],
+      "loanLimit": {
+        "minAmount": null,
+        "maxAmount": null,
+        "currency": "INR",
+        "note": "Based on scale of finance and repayment capacity"
+      },
+      "collateralRequired": "No collateral up to ₹1.6 lakh; hypothecation of crops/assets or land mortgage above ₹1.6 lakh",
+      "loanPurpose": [
+        "Crop production",
+        "Post-harvest expenses",
+        "Working capital for farm maintenance"
+      ],
+      "processingFee": {
+        "note": "Up to 2% of sanction limit (fresh/renewal), 0.50% for limit enhancement"
+      },
+      "subsidy": {
+        "available": true,
+        "details": "Government subvention schemes may apply"
+      },
+      "insuranceLinkage": [
+        "Optional crop insurance"
+      ],
+      "renewalPeriod": "Annual",
+      "additionalCharges": {
+        "legalFee": "₹2,500-₹3,500 (varies by state)",
+        "valuationFee": "₹2,500 per case for agricultural land",
+        "penalInterest": "5% p.a. on overdue amounts",
+        "prepaymentCharges": "2% if closed within 1 year"
+      },
+      "requiredDocuments": [
+        "Simplified application form",
+        "KYC documents (Aadhaar, PAN)",
+        "Land documents",
+        "Security post-dated cheque (PDC)",
+        "Other documents as per sanction conditions"
+      ]
+    },
+    {
+      "schemeId": "ICICI-AGRI-002",
+      "schemeName": "Agri Term Loan (ATL)",
+      "loanType": "Term Loan",
+      "interestRate": {
+        "min": 10.10,
+        "max": 15.50,
+        "note": "Based on Farmer Finance Retail data"
+      },
+      "repaymentTerm": {
+        "durationMonths": 36,
+        "category": "Term Loan"
+      },
+      "eligibility": [
+        "Farmers engaged in agriculture or allied activities",
+        "Land ownership and farming experience preferred"
+      ],
+      "description": "Long-term loan for agriculture and allied activities such as buying cattle, farm equipment, and irrigation systems",
+      "keyBenefits": [
+        "Flexible repayment options based on asset life and income",
+        "No prepayment charges"
+      ],
+      "loanLimit": {
+        "minAmount": null,
+        "maxAmount": null,
+        "currency": "INR",
+        "note": "Based on project requirements and repayment capacity"
+      },
+      "collateralRequired": "Hypothecation of assets purchased or land mortgage, depending on loan amount",
+      "loanPurpose": [
+        "Purchase of farm equipment",
+        "Irrigation systems",
+        "Cattle purchase",
+        "Other long-term agricultural investments"
+      ],
+      "processingFee": {
+        "note": "Up to 2% of sanction limit"
+      },
+      "subsidy": {
+        "available": false,
+        "details": ""
+      },
+      "insuranceLinkage": [],
+      "renewalPeriod": "Not applicable",
+      "additionalCharges": {
+        "legalFee": "₹2,500-₹3,500 (varies by state)",
+        "valuationFee": "₹2,500 per case for agricultural land",
+        "penalInterest": "5% p.a. on overdue installments",
+        "prepaymentCharges": "nil"
+      },
+      "requiredDocuments": [
+        "KYC documents",
+        "Land records",
+        "Project details"
+      ]
+    },
+    {
+      "schemeId": "ICICI-AGRI-003",
+      "schemeName": "Tractor Loan",
+      "loanType": "Equipment Finance",
+      "interestRate": {
+        "min": 10.00,
+        "max": 12.00,
+        "note": "Approximate range, specific rates may vary based on credit assessment"
+      },
+      "repaymentTerm": {
+        "durationMonths": 84,
+        "category": "Term Loan"
+      },
+      "eligibility": [
+        "Minimum 3 acres of land in borrower's name",
+        "Cibil score of 650 or more preferred"
+      ],
+      "description": "Financing for purchasing new or used tractors and farm equipment",
+      "keyBenefits": [
+        "Competitive interest rates",
+        "Flexible repayment options",
+        "Long tenure up to 7 years"
+      ],
+      "loanLimit": {
+        "minAmount": null,
+        "maxAmount": null,
+        "currency": "INR",
+        "note": "Based on tractor value and repayment capacity"
+      },
+      "collateralRequired": "Hypothecation of the tractor; land mortgage for larger amounts (above ₹1.6 lakh)",
+      "loanPurpose": [
+        "Purchase of new tractors",
+        "Purchase of used tractors",
+        "Farm equipment financing"
+      ],
+      "processingFee": {
+        "note": "Up to 2% of loan amount"
+      },
+      "subsidy": {
+        "available": false,
+        "details": ""
+      },
+      "insuranceLinkage": [
+        "Tractor insurance"
+      ],
+      "renewalPeriod": "Not applicable",
+      "additionalCharges": {
+        "legalFee": "At actuals",
+        "valuationFee": "As applicable",
+        "penalInterest": "As per bank policy",
+        "prepaymentCharges": "As per bank policy"
+      },
+      "requiredDocuments": [
+        "ID proof",
+        "Address proof",
+        "Land documents",
+        "Tractor purchase invoice"
+      ]
+    },
+    {
+      "schemeId": "ICICI-AGRI-004",
+      "schemeName": "Gold Loan for Agriculture",
+      "loanType": "Gold Loan",
+      "interestRate": {
+        "min": 9.25,
+        "max": 18.00,
+        "note": "For Q3 2024-December 2024"
+      },
+      "repaymentTerm": {
+        "durationMonths": 12,
+        "category": "Term Loan"
+      },
+      "eligibility": [
+        "Farmers with gold ornaments to pledge",
+        "Proof of land holding required for loans > ₹1 lakh"
+      ],
+      "description": "Loan against gold ornaments for agricultural or other needs",
+      "keyBenefits": [
+        "Quick disbursal",
+        "Competitive interest rates",
+        "No prepayment penalties"
+      ],
+      "loanLimit": {
+        "minAmount": null,
+        "maxAmount": null,
+        "currency": "INR",
+        "note": "Based on gold valuation"
+      },
+      "collateralRequired": "Pledge of gold ornaments",
+      "loanPurpose": [
+        "Agricultural needs",
+        "Other financial requirements"
+      ],
+      "processingFee": {
+        "note": "Up to 2% of loan amount plus applicable taxes"
+      },
+      "subsidy": {
+        "available": false,
+        "details": ""
+      },
+      "insuranceLinkage": [],
+      "renewalPeriod": "Not applicable",
+      "additionalCharges": {
+        "penalInterest": "As per bank policy",
+        "prepaymentCharges": "Nil"
+      },
+      "requiredDocuments": [
+        "Standard KYC documents",
+        "Gold ornaments for valuation",
+        "Proof of land holding for agricultural loans > ₹1 lakh"
+      ]
+    },
+    {
+      "schemeId": "ICICI-AGRI-005",
+      "schemeName": "Kisan Samriddhi Overdraft (KSOD)",
+      "loanType": "Overdraft Facility",
+      "interestRate": {
+        "min": 10.10,
+        "max": 15.50,
+        "note": "Likely within the general agricultural loan range"
+      },
+      "repaymentTerm": {
+        "durationMonths": null,
+        "category": "Overdraft"
+      },
+      "eligibility": [
+        "Farmers engaged in agriculture"
+      ],
+      "description": "Overdraft facility for agricultural needs and short-term credit requirements",
+      "keyBenefits": [
+        "Flexible credit access",
+        "Pay interest only on used amount",
+        "Aligned with crop cycles"
+      ],
+      "loanLimit": {
+        "minAmount": null,
+        "maxAmount": null,
+        "currency": "INR",
+        "note": "Based on land holding and repayment capacity"
+      },
+      "collateralRequired": "Likely hypothecation of crops or land (not specified)",
+      "loanPurpose": [
+        "Short-term agricultural credit requirements"
+      ],
+      "processingFee": {
+        "note": "Up to 2% of sanction limit"
+      },
+      "subsidy": {
+        "available": false,
+        "details": ""
+      },
+      "insuranceLinkage": [],
+      "renewalPeriod": "Likely annual",
+      "additionalCharges": {
+        "legalFee": "₹2,500-₹3,500 (varies by state)",
+        "valuationFee": "₹2,500 per case for agricultural land",
+        "penalInterest": "5% p.a. on overdue amounts",
+        "prepaymentCharges": "nil"
+      },
+      "requiredDocuments": [
+        "Likely KYC and land documents (not specified)"
+      ]
+    },
+    {
+      "schemeId": "ICICI-AGRI-006",
+      "schemeName": "Farm Development Loan (FDL)",
+      "loanType": "Development Loan",
+      "interestRate": {
+        "min": 10.10,
+        "max": 15.50,
+        "note": "Likely within the general agricultural loan range"
+      },
+      "repaymentTerm": {
+        "durationMonths": 84,
+        "category": "Term Loan"
+      },
+      "eligibility": [
+        "Farmers engaged in agriculture"
+      ],
+      "description": "Loan for farm development activities such as land leveling, irrigation, and soil conservation",
+      "keyBenefits": [
+        "Medium-term financing",
+        "No prepayment charges",
+        "Aligned with project cash flows"
+      ],
+      "loanLimit": {
+        "minAmount": null,
+        "maxAmount": null,
+        "currency": "INR",
+        "note": "Based on project requirements and repayment capacity"
+      },
+      "collateralRequired": "Likely land mortgage or hypothecation of assets (not specified)",
+      "loanPurpose": [
+        "Land leveling",
+        "Irrigation systems",
+        "Soil conservation",
+        "Other farm development activities"
+      ],
+      "processingFee": {
+        "note": "Up to 2% of sanction limit"
+      },
+      "subsidy": {
+        "available": false,
+        "details": ""
+      },
+      "insuranceLinkage": [],
+      "renewalPeriod": "Not applicable",
+      "additionalCharges": {
+        "legalFee": "At actuals (varies by state)",
+        "valuationFee": "₹2,500 per case for agricultural land",
+        "penalInterest": "5% p.a. on unpaid interest/principal",
+        "prepaymentCharges": "nil"
+      },
+      "requiredDocuments": [
+        "Likely KYC, land records, and project details (not specified)"
+      ]
+    },
+    {
+      "schemeId": "ICICI-AGRI-007",
+      "schemeName": "Kisan Pragati",
+      "loanType": "Agricultural Loan",
+      "interestRate": {
+        "min": 10.10,
+        "max": 15.50,
+        "note": "Likely within the general agricultural loan range"
+      },
+      "repaymentTerm": {
+        "durationMonths": null,
+        "category": "Not Specified"
+      },
+      "eligibility": [
+        "Farmers engaged in agriculture"
+      ],
+      "description": "Agricultural loan likely for general farming needs",
+      "keyBenefits": [],
+      "loanLimit": {
+        "minAmount": null,
+        "maxAmount": null,
+        "currency": "INR",
+        "note": "Not specified"
+      },
+      "collateralRequired": "Not specified",
+      "loanPurpose": [
+        "Agricultural needs"
+      ],
+      "processingFee": {
+        "note": "Up to 2% of sanction limit"
+      },
+      "subsidy": {
+        "available": false,
+        "details": ""
+      },
+      "insuranceLinkage": [],
+      "renewalPeriod": "Not specified",
+      "additionalCharges": {
+        "legalFee": "At actuals (varies by state)",
+        "valuationFee": "₹2,500 per case for agricultural land",
+        "penalInterest": "5% p.a. on overdue amounts",
+        "prepaymentCharges": "nil"
+      },
+      "requiredDocuments": [
+        "Not specified"
+      ]
+    },
+    {
+      "schemeId": "ICICI-AGRI-008",
+      "schemeName": "KCC-AH and Fisheries, Nursery",
+      "loanType": "Allied Activities Loan",
+      "interestRate": {
+        "min": 10.10,
+        "max": 15.50,
+        "note": "Likely within the general agricultural loan range"
+      },
+      "repaymentTerm": {
+        "durationMonths": null,
+        "category": "Not Specified"
+      },
+      "eligibility": [
+        "Farmers engaged in allied agricultural activities"
+      ],
+      "description": "Financing for allied agricultural activities like animal husbandry, fisheries, and nursery",
+      "keyBenefits": [
+        "Specialized financing for non-crop agricultural activities"
+      ],
+      "loanLimit": {
+        "minAmount": null,
+        "maxAmount": null,
+        "currency": "INR",
+        "note": "Based on activity scale and repayment capacity"
+      },
+      "collateralRequired": "Likely hypothecation of assets or land (not specified)",
+      "loanPurpose": [
+        "Animal husbandry",
+        "Fisheries",
+        "Nursery operations"
+      ],
+      "processingFee": {
+        "note": "Up to 2% of sanction limit"
+      },
+      "subsidy": {
+        "available": false,
+        "details": ""
+      },
+      "insuranceLinkage": [],
+      "renewalPeriod": "Not specified",
+      "additionalCharges": {
+        "legalFee": "At actuals (varies by state)",
+        "valuationFee": "₹2,500 per case for agricultural land",
+        "penalInterest": "5% p.a. on overdue amounts",
+        "prepaymentCharges": "nil"
+      },
+      "requiredDocuments": [
+        "Likely KYC, land records, and activity-specific documents (not specified)"
+      ]
+    },
+    {
+      "schemeId": "ICICI-AGRI-009",
+      "schemeName": "Rural & Agri Business",
+      "loanType": "Business Financing",
+      "interestRate": {
+        "min": 10.10,
+        "max": 15.50,
+        "note": "Likely within the general agricultural loan range"
+      },
+      "repaymentTerm": {
+        "durationMonths": null,
+        "category": "Variable"
+      },
+      "eligibility": [
+        "Agri-business entities",
+        "Cooperatives",
+        "Corporations involved in agriculture"
+      ],
+      "description": "Financing for traders, processors, transporters, and aggregations in the agri-sector",
+      "keyBenefits": [
+        "Working capital loans",
+        "Loan against warehouse receipts",
+        "Short-term loans",
+        "Loan against hypothecation",
+        "KCC Corporate",
+        "Dairy funding"
+      ],
+      "loanLimit": {
+        "minAmount": null,
+        "maxAmount": null,
+        "currency": "INR",
+        "note": "Based on business requirements and repayment capacity"
+      },
+      "collateralRequired": "Hypothecation of assets, warehouse receipts, or land mortgage",
+      "loanPurpose": [
+        "Working capital for agri-businesses",
+        "Asset acquisition",
+        "Business expansion"
+      ],
+      "processingFee": {
+        "note": "Up to 2% of loan amount"
+      },
+      "subsidy": {
+        "available": false,
+        "details": ""
+      },
+      "insuranceLinkage": [],
+      "renewalPeriod": "Variable",
+      "additionalCharges": {
+        "legalFee": "Varies by state",
+        "valuationFee": "₹2,500 per case for agricultural land",
+        "penalInterest": "5% p.a. on overdue amounts",
+        "bounceCharges": "₹500 per instance",
+        "foreclosureCharges": "2% on outstanding if closed within 1 year for some loans"
+      },
+      "requiredDocuments": [
+        "Business registration documents",
+        "Financial statements",
+        "Project reports"
+      ]
+    },
+    {
+      "schemeId": "ICICI-AGRI-010",
+      "schemeName": "Agri Corporates",
+      "loanType": "Corporate Financing",
+      "interestRate": {
+        "min": 10.10,
+        "max": 15.50,
+        "note": "Likely within the general agricultural loan range"
+      },
+      "repaymentTerm": {
+        "durationMonths": null,
+        "category": "Variable"
+      },
+      "eligibility": [
+        "Agri-business entities",
+        "Cooperatives",
+        "Corporations involved in agriculture"
+      ],
+      "description": "Financing for larger agricultural businesses including mid-cap credit, forex & derivatives, and agri investment banking solutions",
+      "keyBenefits": [
+        "Comprehensive financial solutions",
+        "Investment banking services",
+        "Forex and derivatives solutions"
+      ],
+      "loanLimit": {
+        "minAmount": null,
+        "maxAmount": null,
+        "currency": "INR",
+        "note": "Based on business scale and requirements"
+      },
+      "collateralRequired": "Hypothecation of assets, warehouse receipts, or land mortgage",
+      "loanPurpose": [
+        "Working capital",
+        "Capital expenditure",
+        "Business expansion",
+        "Investment projects"
+      ],
+      "processingFee": {
+        "note": "Likely up to 2% of loan amount"
+      },
+      "subsidy": {
+        "available": false,
+        "details": ""
+      },
+      "insuranceLinkage": [],
+      "renewalPeriod": "Variable",
+      "additionalCharges": {
+        "legalFee": "Not specified",
+        "valuationFee": "Not specified",
+        "penalInterest": "Not specified",
+        "prepaymentCharges": "Not specified"
+      },
+      "requiredDocuments": [
+        "Business registration documents",
+        "Financial statements",
+        "Project reports"
+      ]
+    }
+  ]

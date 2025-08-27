@@ -1,0 +1,569 @@
+[
+    {
+      "schemeId": "BOB-AGRI-001",
+      "schemeName": "Baroda Kisan Credit Card (BKCC)",
+      "loanType": "Crop Loan",
+      "interestRate": {
+        "min": 7.0,
+        "max": 12.0,
+        "note": "7% p.a. for loans up to ₹3 lakh (effective ~4% with timely repayment); 9-12% p.a. for higher amounts"
+      },
+      "repaymentTerm": {
+        "durationMonths": 60,
+        "category": "Revolving Credit"
+      },
+      "eligibility": [
+        "All farmers",
+        "Tenant Farmers",
+        "Sharecroppers",
+        "Joint Cultivators",
+        "JLGs/SHGs"
+      ],
+      "description": "Short-term credit for crop cultivation, post-harvest expenses, farm maintenance, allied activities, household consumption, and marketing",
+      "keyBenefits": [
+        "Government interest subvention for loans up to ₹3 lakh",
+        "Revolving credit facility",
+        "Annual review system",
+        "Flexible withdrawals and repayments"
+      ],
+      "loanLimit": {
+        "minAmount": 10000,
+        "maxAmount": null,
+        "currency": "INR",
+        "note": "Maximum based on scale of finance, farm income, and repayment capacity"
+      },
+      "collateralRequired": "No collateral up to ₹1.6 lakh; hypothecation of crops/assets or land mortgage above ₹1.6 lakh",
+      "loanPurpose": [
+        "Crop production",
+        "Post-harvest expenses",
+        "Working capital for farm maintenance",
+        "Allied activities (dairy, poultry, fisheries)",
+        "Household consumption"
+      ],
+      "processingFee": {
+        "note": "As per bank guidelines"
+      },
+      "subsidy": {
+        "available": true,
+        "details": "Interest subvention under GoI scheme for loans up to ₹3 lakh"
+      },
+      "insuranceLinkage": [
+        "Optional crop insurance"
+      ],
+      "renewalPeriod": "Annual"
+    },
+    {
+      "schemeId": "BOB-AGRI-002",
+      "schemeName": "Agriculture Gold Loan",
+      "loanType": "Gold Loan",
+      "interestRate": {
+        "min": 9.0,
+        "max": 10.25,
+        "note": "9% p.a. for loans up to ₹3 lakh; 9.25-10% for ₹3-10 lakh; 9.5-10.25% for ₹10-50 lakh"
+      },
+      "repaymentTerm": {
+        "durationMonths": 36,
+        "category": "Short to Medium"
+      },
+      "eligibility": [
+        "Farmers engaged in agriculture/allied activities",
+        "Must pledge gold ornaments as collateral",
+        "KYC-compliant bank account holders"
+      ],
+      "description": "Credit for short and long-term agricultural needs secured against gold ornaments",
+      "keyBenefits": [
+        "No prepayment charges",
+        "Flexible repayment options",
+        "Quick processing"
+      ],
+      "loanLimit": {
+        "minAmount": null,
+        "maxAmount": 5000000,
+        "currency": "INR",
+        "note": "Maximum ₹50 lakh per customer"
+      },
+      "collateralRequired": "Pledge of gold ornaments",
+      "loanPurpose": [
+        "Crop production",
+        "Allied activities (animal husbandry, fisheries)",
+        "Purchase of farm machinery",
+        "Irrigation equipment"
+      ],
+      "processingFee": {
+        "note": "As per bank guidelines"
+      },
+      "subsidy": {
+        "available": false
+      },
+      "insuranceLinkage": [],
+      "renewalPeriod": "Based on loan structure (12-36 months)"
+    },
+    {
+      "schemeId": "BOB-AGRI-003",
+      "schemeName": "Baroda Kisan Tatkal Loan",
+      "loanType": "Emergency Loan",
+      "interestRate": {
+        "min": 9.0,
+        "max": 12.0,
+        "note": "MCLR + Spread, exact rate requires bank confirmation"
+      },
+      "repaymentTerm": {
+        "durationMonths": 60,
+        "category": "Medium"
+      },
+      "eligibility": [
+        "Existing Baroda Kisan Credit Card holders",
+        "Good repayment history"
+      ],
+      "description": "Immediate credit for emergency agricultural or domestic needs during off-season",
+      "keyBenefits": [
+        "Quick processing",
+        "Flexible repayment options",
+        "Available for existing BKCC customers"
+      ],
+      "loanLimit": {
+        "maxAmount": 50000,
+        "currency": "INR",
+        "note": "Maximum ₹50,000 or 50% of existing BKCC limit, whichever is lower"
+      },
+      "collateralRequired": "Hypothecation of assets or extension of existing BKCC security",
+      "loanPurpose": [
+        "Agricultural equipment",
+        "Irrigation pipes",
+        "Medical expenses",
+        "Festival needs"
+      ],
+      "processingFee": {
+        "note": "As per bank guidelines"
+      },
+      "subsidy": {
+        "available": false
+      },
+      "insuranceLinkage": [],
+      "renewalPeriod": "Not applicable (term loan)"
+    },
+    {
+      "schemeId": "BOB-AGRI-004",
+      "schemeName": "Land Development Loan",
+      "loanType": "Term Loan",
+      "interestRate": {
+        "min": 9.0,
+        "max": 12.0,
+        "note": "Up to ₹3 lakh: 9-10% p.a.; ₹3-25 lakh: 10.25-11% p.a.; ≥₹25 lakh: 11-12% p.a."
+      },
+      "repaymentTerm": {
+        "durationMonths": 120,
+        "category": "Long"
+      },
+      "eligibility": [
+        "Individual farmers",
+        "SHGs",
+        "JLGs",
+        "Proprietorship firms engaged in agriculture",
+        "Landless laborers with long-term leases (≥10 years)"
+      ],
+      "description": "Financing for farm development activities to enhance productivity and income",
+      "keyBenefits": [
+        "Long repayment period",
+        "Supports productivity enhancement",
+        "Sustainable agriculture practices"
+      ],
+      "loanLimit": {
+        "maxAmount": 20000000,
+        "currency": "INR",
+        "note": "Maximum ₹2 crore"
+      },
+      "collateralRequired": "No collateral up to ₹1.6 lakh; land mortgage or hypothecation of assets above ₹1.6 lakh",
+      "loanPurpose": [
+        "Land reclamation",
+        "Soil conservation",
+        "Terracing",
+        "Bunding",
+        "Leveling",
+        "Drainage",
+        "Water conservation"
+      ],
+      "processingFee": {
+        "note": "As per bank guidelines"
+      },
+      "subsidy": {
+        "available": false
+      },
+      "insuranceLinkage": [],
+      "renewalPeriod": "Not applicable (term loan)"
+    },
+    {
+      "schemeId": "BOB-AGRI-005",
+      "schemeName": "Scheme for Purchase of Agricultural Land",
+      "loanType": "Term Loan",
+      "interestRate": {
+        "min": 9.0,
+        "max": 12.0,
+        "note": "MCLR + Spread, exact rate requires bank confirmation"
+      },
+      "repaymentTerm": {
+        "durationMonths": 180,
+        "category": "Long"
+      },
+      "eligibility": [
+        "Small/marginal farmers",
+        "Tenant farmers",
+        "Sharecroppers",
+        "Women farmers (prioritized)",
+        "Widows (prioritized)",
+        "SHG members (prioritized)"
+      ],
+      "description": "Financing for purchase, development, and cultivation of agricultural, fallow, or wasteland",
+      "keyBenefits": [
+        "Long repayment period (7-15 years)",
+        "Supports land ownership among small/marginal farmers",
+        "Priority for women farmers"
+      ],
+      "loanLimit": {
+        "note": "Based on land valuation, development cost, and repayment capacity"
+      },
+      "collateralRequired": "Mortgage of purchased land; additional collateral may be required",
+      "loanPurpose": [
+        "Purchase of agricultural land",
+        "Development of purchased land",
+        "Cultivation expenses"
+      ],
+      "processingFee": {
+        "note": "As per bank guidelines"
+      },
+      "subsidy": {
+        "available": false
+      },
+      "insuranceLinkage": [],
+      "renewalPeriod": "Not applicable (term loan)"
+    },
+    {
+      "schemeId": "BOB-AGRI-006",
+      "schemeName": "Baroda Kisan Pride",
+      "loanType": "Crop Loan",
+      "interestRate": {
+        "min": 9.0,
+        "max": 12.0,
+        "note": "MCLR + Spread, exact rate requires bank confirmation"
+      },
+      "repaymentTerm": {
+        "durationMonths": 60,
+        "category": "Revolving Credit"
+      },
+      "eligibility": [
+        "Individual farmers using advanced techniques",
+        "Corporate farmers",
+        "Farmer companies",
+        "Agri-entrepreneurs",
+        "Existing BKCC borrowers"
+      ],
+      "description": "Cash credit for large, high-income, progressive farmers adopting innovative technologies",
+      "keyBenefits": [
+        "Higher loan limits (150-250% of scale of finance)",
+        "End-to-end farming needs coverage",
+        "Revolving credit facility",
+        "Annual review system"
+      ],
+      "loanLimit": {
+        "note": "Up to 150-250% of scale of finance × cultivated area + 30% for miscellaneous expenses"
+      },
+      "collateralRequired": "No collateral up to ₹1.6 lakh; hypothecation of crops/assets or land mortgage above ₹1.6 lakh",
+      "loanPurpose": [
+        "Crop cultivation",
+        "Post-harvest expenses",
+        "Farm asset maintenance",
+        "Insurance",
+        "Advanced agricultural technologies"
+      ],
+      "processingFee": {
+        "note": "As per bank guidelines"
+      },
+      "subsidy": {
+        "available": false
+      },
+      "insuranceLinkage": [
+        "Optional crop insurance"
+      ],
+      "renewalPeriod": "Annual"
+    },
+    {
+      "schemeId": "BOB-AGRI-007",
+      "schemeName": "Loan for Farm Mechanization (Tractor/Power Tiller)",
+      "loanType": "Equipment Finance",
+      "interestRate": {
+        "min": 9.0,
+        "max": 12.0,
+        "note": "MCLR + Spread, exact rate requires bank confirmation"
+      },
+      "repaymentTerm": {
+        "durationMonths": 84,
+        "category": "Medium"
+      },
+      "eligibility": [
+        "Farmers with minimum 4 acres of perennially irrigated land or 8 acres of seasonally irrigated land",
+        "Permanent tenants",
+        "Leaseholders",
+        "High-value crop cultivators (preferred)"
+      ],
+      "description": "Financing for purchase of tractors, implements, power tillers, or other agricultural machinery",
+      "keyBenefits": [
+        "Enhances farm productivity",
+        "Supports mechanization",
+        "Flexible repayment based on income"
+      ],
+      "loanLimit": {
+        "maxAmount": 2500000,
+        "currency": "INR",
+        "note": "Typically up to ₹25 lakh for tractors and implements"
+      },
+      "collateralRequired": "Hypothecation of purchased machinery; land mortgage or additional collateral above ₹1.6 lakh",
+      "loanPurpose": [
+        "Purchase of new tractors",
+        "Tractor-drawn implements",
+        "Power tillers",
+        "Agricultural machinery"
+      ],
+      "processingFee": {
+        "note": "As per bank guidelines"
+      },
+      "subsidy": {
+        "available": false
+      },
+      "insuranceLinkage": [
+        "Asset insurance"
+      ],
+      "renewalPeriod": "Not applicable (term loan)"
+    },
+    {
+      "schemeId": "BOB-AGRI-008",
+      "schemeName": "Development of Horticulture Loan",
+      "loanType": "Agri-Business (Allied)",
+      "interestRate": {
+        "min": 9.0,
+        "max": 12.0,
+        "note": "MCLR + Spread, exact rate requires bank confirmation"
+      },
+      "repaymentTerm": {
+        "durationMonths": 180,
+        "category": "Long"
+      },
+      "eligibility": [
+        "Individual farmers",
+        "Firms",
+        "Cooperatives",
+        "Organizations engaged in horticulture",
+        "Land ownership or long-term lease holders"
+      ],
+      "description": "Financing for development, production, processing, and marketing of fruits, vegetables, plantation crops, and flowers",
+      "keyBenefits": [
+        "Supports entire horticulture value chain",
+        "Flexible loan structures",
+        "Long repayment periods aligned with crop cycles"
+      ],
+      "loanLimit": {
+        "note": "Based on project cost, land area, and repayment capacity"
+      },
+      "collateralRequired": "No collateral up to ₹1.6 lakh; land mortgage or hypothecation of assets above ₹1.6 lakh",
+      "loanPurpose": [
+        "Horticulture development",
+        "Production of fruits and vegetables",
+        "Plantation crops",
+        "Flowers",
+        "Nursery setup",
+        "Market linkages"
+      ],
+      "processingFee": {
+        "note": "As per bank guidelines"
+      },
+      "subsidy": {
+        "available": false
+      },
+      "insuranceLinkage": [],
+      "renewalPeriod": "Based on loan structure"
+    },
+    {
+      "schemeId": "BOB-AGRI-009",
+      "schemeName": "Solar Financing (PM-KUSUM Scheme)",
+      "loanType": "Agri-Business (Renewable Energy)",
+      "interestRate": {
+        "min": 9.0,
+        "max": 11.0,
+        "note": "MCLR + Spread, exact rate requires bank confirmation"
+      },
+      "repaymentTerm": {
+        "durationMonths": 120,
+        "category": "Long"
+      },
+      "eligibility": [
+        "Farmers with land ownership or leasehold rights",
+        "Farmers with access to irrigation facilities (preferred)"
+      ],
+      "description": "Financing for installation of standalone solar pumps, solarization of grid-connected agricultural pumps, or small renewable energy projects",
+      "keyBenefits": [
+        "Supports sustainable farming",
+        "Reduces irrigation costs",
+        "Environment-friendly solution",
+        "Long repayment period"
+      ],
+      "loanLimit": {
+        "note": "Based on project cost (typically covers 70-90% of project cost)"
+      },
+      "collateralRequired": "Hypothecation of solar equipment; land mortgage or additional collateral above ₹1.6 lakh",
+      "loanPurpose": [
+        "Standalone solar pumps",
+        "Solarization of grid-connected agricultural pumps",
+        "Small renewable energy projects (up to 2 MW)"
+      ],
+      "processingFee": {
+        "note": "As per bank guidelines"
+      },
+      "subsidy": {
+        "available": true,
+        "details": "As per PM-KUSUM scheme guidelines"
+      },
+      "insuranceLinkage": [
+        "Equipment insurance"
+      ],
+      "renewalPeriod": "Not applicable (term loan)"
+    },
+    {
+      "schemeId": "BOB-AGRI-010",
+      "schemeName": "Baroda Kisan Group Loan",
+      "loanType": "Short-term Loan",
+      "interestRate": {
+        "min": 9.0,
+        "max": 12.0,
+        "note": "MCLR + Spread, exact rate requires bank confirmation"
+      },
+      "repaymentTerm": {
+        "note": "Based on loan structure and income generation"
+      },
+      "eligibility": [
+        "JLGs of 4-10 farmers",
+        "Landless laborers",
+        "Tenant farmers",
+        "Sharecroppers",
+        "Groups in existence for ≥6 months"
+      ],
+      "description": "Financing for Joint Liability Groups for flexible credit needs, targeting small/marginal farmers without land ownership",
+      "keyBenefits": [
+        "No individual collateral requirement up to ₹1.6 lakh",
+        "Group guarantee mechanism",
+        "Flexible loan structures",
+        "Supports landless farmers"
+      ],
+      "loanLimit": {
+        "minAmount": 5000,
+        "currency": "INR",
+        "note": "Maximum based on group's financial needs and repayment capacity"
+      },
+      "collateralRequired": "Group guarantee up to ₹1.6 lakh; hypothecation of assets or land mortgage above ₹1.6 lakh",
+      "loanPurpose": [
+        "Crop cultivation",
+        "Allied activities",
+        "Farm maintenance"
+      ],
+      "processingFee": {
+        "note": "As per bank guidelines"
+      },
+      "subsidy": {
+        "available": false
+      },
+      "insuranceLinkage": [],
+      "renewalPeriod": "Based on loan structure"
+    },
+    {
+      "schemeId": "BOB-AGRI-011",
+      "schemeName": "Financing for Dairy Units",
+      "loanType": "Agri-Business (Allied)",
+      "interestRate": {
+        "min": 9.0,
+        "max": 12.0,
+        "note": "MCLR + Spread, exact rate requires bank confirmation"
+      },
+      "repaymentTerm": {
+        "durationMonths": 84,
+        "category": "Medium"
+      },
+      "eligibility": [
+        "Farmers",
+        "Landless laborers",
+        "Cooperatives engaged in dairy",
+        "Experience in dairy farming (preferred)"
+      ],
+      "description": "Financing to establish new small dairy units or meet working capital needs for feed, labor, and marketing in dairy farming",
+      "keyBenefits": [
+        "Supports allied agricultural activities",
+        "Income diversification for farmers",
+        "Repayment aligned with milk income"
+      ],
+      "loanLimit": {
+        "minAmount": 50000,
+        "maxAmount": 500000,
+        "currency": "INR",
+        "note": "Based on per-animal cost as per NABARD regional guidelines"
+      },
+      "collateralRequired": "Hypothecation of milch animals; land mortgage or additional collateral above ₹1.6 lakh",
+      "loanPurpose": [
+        "Establishing new dairy units (2-10 milch animals)",
+        "Working capital for feed",
+        "Labor expenses",
+        "Marketing in dairy farming"
+      ],
+      "processingFee": {
+        "note": "As per bank guidelines"
+      },
+      "subsidy": {
+        "available": false
+      },
+      "insuranceLinkage": [
+        "Livestock insurance"
+      ],
+      "renewalPeriod": "Not applicable (term loan)"
+    },
+    {
+      "schemeId": "BOB-AGRI-012",
+      "schemeName": "Loan Against Warehouse Receipts",
+      "loanType": "Short-term Loan",
+      "interestRate": {
+        "min": 9.0,
+        "max": 12.0,
+        "note": "MCLR + Spread, exact rate requires bank confirmation"
+      },
+      "repaymentTerm": {
+        "durationMonths": 12,
+        "category": "Short"
+      },
+      "eligibility": [
+        "Farmers",
+        "SHGs",
+        "JLGs with warehouse receipts",
+        "Stored produce must be in accredited warehouses"
+      ],
+      "description": "Finance against stored agricultural produce to meet liquidity needs without selling crops at low prices",
+      "keyBenefits": [
+        "Avoids distress sales",
+        "Better price realization",
+        "Short processing time",
+        "Flexible repayment"
+      ],
+      "loanLimit": {
+        "note": "Up to 70-75% of the value of stored produce"
+      },
+      "collateralRequired": "Pledge of warehouse receipts",
+      "loanPurpose": [
+        "Meeting liquidity needs while storing crops for better prices",
+        "Agricultural marketing"
+      ],
+      "processingFee": {
+        "note": "As per bank guidelines"
+      },
+      "subsidy": {
+        "available": false
+      },
+      "insuranceLinkage": [
+        "Storage insurance"
+      ],
+      "renewalPeriod": "Based on crop storage period (6-12 months)"
+    }
+  ]

@@ -1,0 +1,129 @@
+
+Crop Name,Variety,Suitable Soil Types,Suitable Seasons
+Wheat,PBW 343,Loamy;Clayey,Rabi (Oct-Mar)
+Wheat,HD 2967,Loamy;Sandy Loam,Rabi (Nov-Apr)
+Wheat,WH 147,Clayey;Loamy,Rabi (Oct-Mar)
+Wheat,DBW 88,Sandy Loam;Loamy,Rabi (Nov-Mar)
+Rice,IR 64,Alluvial;Clayey;Loamy,Kharif (Jun-Oct)
+Rice,Basmati 370,Loamy;Sandy Loam,Kharif (Jun-Nov)
+Rice,Swarna,Clayey;Alluvial,Kharif (Jul-Dec)
+Rice,MTU 7029,Clayey;Loamy,Kharif (Jun-Oct)
+Rice,PR 106,Sandy Loam;Loamy,Kharif (Jun-Nov)
+Maize,Ganga 5,Loamy;Sandy Loam,Kharif;Rabi
+Maize,DHM 117,Sandy Loam;Alluvial,Kharif (Jun-Oct)
+Maize,Shaktiman 1,Loamy;Clayey,Rabi (Nov-Mar)
+Maize,Ganga 11,Sandy Loam;Loamy,Kharif;Summer (Zaid)
+Cotton,MCU 5,Black;Clayey,Kharif
+Cotton,Bt Cotton,Black;Clayey;Sandy Loam,Kharif (Apr-Oct)
+Cotton,Suraj,Black;Red,Kharif (May-Nov)
+Cotton,Bunny Hybrid,Black;Clayey,Kharif (Apr-Sep)
+Sugarcane,Co 86032,Loamy;Clayey;Alluvial,Year-round
+Sugarcane,Co 238,Clayey;Loamy,Year-round
+Sugarcane,Co 0238,Sandy Loam;Loamy,Year-round
+Sugarcane,Co 62175,Alluvial;Clayey,Year-round
+Soybean,JS 335,Black;Clayey;Sandy Loam,Kharif (Jun-Oct)
+Soybean,MACS 450,Black;Red;Loamy,Kharif (Jul-Nov)
+Soybean,PK 472,Sandy Loam;Loamy,Kharif (Jun-Sep)
+Groundnut,TMV 2,Sandy Loam;Red;Loamy,Kharif;Summer (Zaid)
+Groundnut,JL 24,Sandy;Sandy Loam,Kharif (Jun-Oct)
+Groundnut,GG 20,Red;Sandy Loam,Summer (Zaid) (Mar-Jun)
+Mustard,Pusa Bold,Loamy;Sandy Loam,Rabi (Oct-Mar)
+Mustard,RH 30,Sandy Loam;Clayey,Rabi (Nov-Apr)
+Mustard,Varuna,Loamy;Alluvial,Rabi (Oct-Feb)
+Chickpea,Chafa,Sandy Loam;Loamy,Rabi (Nov-Mar)
+Chickpea,KAK 2,Black;Clayey,Rabi (Oct-Feb)
+Chickpea,JG 11,Sandy Loam;Red,Rabi (Nov-Apr)
+Pigeon Pea,ICPH 2671,Red;Sandy Loam;Black,Kharif (Jun-Mar)
+Pigeon Pea,Asha,Black;Clayey,Kharif (Jul-Feb)
+Pigeon Pea,Maruti,Red;Sandy Loam,Kharif (Jun-Jan)
+Black Gram,T 9,Sandy Loam;Loamy,Kharif;Summer (Zaid)
+Black Gram,PU 19,Red;Sandy;Loamy,Kharif (Jul-Oct)
+Green Gram,PDM 139,Sandy Loam;Loamy,Summer (Zaid);Kharif
+Green Gram,HUM 1,Sandy;Red,Summer (Zaid) (Mar-Jun)
+Barley,RD 2035,Sandy Loam;Loamy,Rabi (Nov-Apr)
+Barley,PL 426,Clayey;Loamy,Rabi (Oct-Mar)
+Pearl Millet,HHB 67,Sandy;Sandy Loam,Kharif (Jun-Oct)
+Pearl Millet,Pusa 23,Sandy;Red,Kharif (Jul-Nov)
+Sorghum,CSH 16,Red;Black;Sandy Loam,Kharif;Rabi
+Sorghum,M 35-1,Black;Red,Kharif (Jun-Nov)
+Finger Millet,PR 202,Red;Sandy Loam,Kharif (Jun-Nov)
+Finger Millet,VL 149,Red;Hilly,Kharif (Jul-Dec)
+Sunflower,MSFH 17,Black;Red;Sandy Loam,Kharif;Rabi
+Sunflower,KBSH 1,Red;Black,Summer (Zaid) (Jan-May)
+Safflower,PBNS 12,Black;Red,Rabi (Oct-Mar)
+Safflower,Sharda,Black;Sandy Loam,Rabi (Nov-Apr)
+Sesame,RT 46,Sandy Loam;Red,Kharif;Summer (Zaid)
+Sesame,Prachi,Sandy;Loamy,Kharif (Jul-Nov)
+Linseed,T 397,Loamy;Clayey,Rabi (Oct-Mar)
+Linseed,Shubhra,Sandy Loam;Loamy,Rabi (Nov-Feb)
+Castor,GCH 4,Red;Black;Sandy Loam,Kharif (Jun-Feb)
+Castor,Aruna,Red;Sandy,Kharif (Jul-Mar)
+Potato,Kufri Badshah,Loamy;Sandy Loam,Rabi (Oct-Feb)
+Potato,Kufri Chipsona,Sandy Loam;Alluvial,Rabi (Nov-Mar)
+Potato,Kufri Jyoti,Loamy;Clayey,Rabi (Oct-Jan)
+Onion,Pusa Red,Loamy;Sandy Loam,Rabi;Kharif
+Onion,Agrifound Dark Red,Sandy Loam;Alluvial,Rabi (Nov-Apr)
+Tomato,Pusa Ruby,Loamy;Sandy Loam,Year-round
+Tomato,Arka Vikas,Clayey;Loamy,Kharif;Winter
+Brinjal,Pusa Purple Long,Loamy;Sandy Loam,Year-round
+Brinjal,Arka Shirish,Sandy Loam;Clayey,Kharif;Winter
+Okra,Pusa Sawani,Loamy;Sandy Loam,Summer (Zaid);Kharif
+Okra,Arka Anamika,Sandy Loam;Red,Kharif (Jun-Oct)
+Cabbage,Golden Acre,Loamy;Sandy Loam,Winter (Oct-Feb)
+Cabbage,Pride of India,Clayey;Loamy,Rabi (Nov-Mar)
+Cauliflower,Pusa Snowball,Loamy;Sandy Loam,Winter (Oct-Jan)
+Cauliflower,Early Kunwari,Sandy Loam;Alluvial,Rabi (Nov-Feb)
+Carrot,Pusa Kesar,Sandy Loam;Loamy,Winter (Oct-Feb)
+Carrot,Nantes,Sandy;Sandy Loam,Rabi (Nov-Mar)
+Radish,Pusa Chetki,Sandy Loam;Loamy,Winter;Summer (Zaid)
+Radish,Japanese White,Sandy;Loamy,Year-round
+Spinach,All Green,Loamy;Sandy Loam,Winter (Oct-Mar)
+Spinach,Pusa Jyoti,Clayey;Loamy,Rabi (Nov-Feb)
+Coriander,Pusa Coriander,Loamy;Sandy Loam,Winter (Oct-Feb)
+Coriander,Rajendra Swathi,Sandy Loam;Alluvial,Rabi (Nov-Mar)
+Fenugreek,Pusa Early Bunching,Loamy;Sandy Loam,Winter (Oct-Feb)
+Fenugreek,RMt 1,Sandy Loam;Red,Rabi (Nov-Mar)
+Turmeric,Suroma,Loamy;Red;Clayey,Kharif (Apr-Dec)
+Turmeric,Roma,Red;Sandy Loam,Kharif (Jun-Feb)
+Ginger,Rio-de-Janeiro,Loamy;Red;Well-drained,Kharif (Mar-Dec)
+Ginger,Maran,Red;Sandy Loam,Kharif (Apr-Jan)
+Garlic,G-1,Loamy;Sandy Loam,Rabi (Oct-Apr)
+Garlic,Yamuna Safed,Sandy Loam;Alluvial,Rabi (Nov-May)
+Chilli,Pusa Jwala,Loamy;Sandy Loam,Kharif;Summer (Zaid)
+Chilli,Arka Lohit,Red;Sandy Loam,Year-round
+Tea,Assam Type,Acidic;Well-drained,Year-round
+Tea,China Type,Acidic;Loamy,Year-round
+Coffee,Arabica,Red;Loamy;Well-drained,Year-round
+Coffee,Robusta,Red;Clayey;Loamy,Year-round
+Coconut,Tall Variety,Sandy;Coastal,Year-round
+Coconut,Dwarf Green,Sandy;Alluvial,Year-round
+Arecanut,Mangala,Red;Loamy;Well-drained,Year-round
+Arecanut,Mohitnagar,Clayey;Red,Year-round
+Rubber,RRII 105,Red;Laterite,Year-round
+Rubber,GT 1,Red;Well-drained,Year-round
+Cardamom,Malabar,Forest;Acidic;Well-drained,Year-round
+Cardamom,Mysore,Red;Loamy,Year-round
+Black Pepper,Panniyur 1,Red;Well-drained,Year-round
+Black Pepper,Karimunda,Laterite;Red,Year-round
+Ragi,GPU 28,Red;Sandy Loam,Kharif (Jun-Nov)
+Ragi,MR 1,Red;Loamy,Kharif (Jul-Dec)
+Ragi,Indaf 5,Sandy Loam;Red,Kharif (Jun-Oct)
+Ragi,KMR 204,Red;Black,Kharif (Jul-Nov)
+Horse Gram,PHG 9,Red;Sandy Loam,Kharif;Rabi
+Horse Gram,VL Gahat 1,Sandy;Red,Kharif (Jul-Oct)
+Horse Gram,Crida 18R,Red;Black,Kharif (Jun-Sep)
+Tobacco,Kanchan,Red;Black;Sandy Loam,Rabi (Nov-Apr)
+Tobacco,Jayasri,Black;Red,Rabi (Oct-Mar)
+Tobacco,Ananth,Sandy Loam;Red,Rabi (Nov-Apr)
+Mulberry,V1,Red;Loamy;Well-drained,Year-round
+Mulberry,S36,Loamy;Black,Year-round
+Mulberry,S13,Red;Sandy Loam,Year-round
+Mulberry,M5,Black;Clayey,Year-round
+Cashew,Ullal 1,Red;Laterite;Coastal,Year-round
+Cashew,Ullal 2,Red;Sandy;Coastal,Year-round
+Cashew,Vengurla 4,Laterite;Red,Year-round
+Grapes,Bangalore Blue,Red;Black;Well-drained,Year-round
+Grapes,Anab-e-Shahi,Red;Sandy Loam,Year-round
+Grapes,Thompson Seedless,Red;Black,Year-round
+Orange,Coorg,Red;Loamy;Well-drained,Year-round
+Orange,Nagpur,Red;Sandy Loam,Year-round

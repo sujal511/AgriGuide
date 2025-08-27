@@ -1,0 +1,217 @@
+crop_name,soil_type,n_level,p_level,k_level,urea_kg_ha,dap_kg_ha,mop_kg_ha,npk_complex,application_timing,split_application
+Ragi,Red soil,Low,Low,Medium,130,65,25,0,"Basal and 30 days",2
+Rice,Clayey,Medium,Low,Medium,150,110,40,0,"Basal,Tillering,Panicle",3
+Maize,Red soil,Medium,Medium,Medium,120,75,35,0,"Basal and 45 days",2
+
+Maize,Black soil,Medium,Medium,Medium,110,80,30,0,"Basal and 45 days",2
+Maize,Clayey,High,Medium,Medium,140,85,40,0,"Basal,30 days,60 days",3
+Jowar,Red soil,Low,Medium,Medium,100,70,30,0,"Basal and 40 days",2
+Jowar,Black soil,Medium,Medium,High,120,75,45,0,"Basal and 40 days",2
+Bajra,Sandy,Low,Low,Low,80,50,20,0,"Basal and 35 days",2
+Bajra,Red soil,Medium,Low,Medium,100,60,25,0,"Basal and 35 days",2
+Wheat,Clayey,Medium,Low,Medium,140,100,30,0,"Basal,Tillering,Grain filling",3
+Wheat,Loamy,High,Medium,Medium,160,120,40,0,"Basal,Tillering,Grain filling",3
+Wheat,Black soil,Medium,Medium,High,130,110,50,0,"Basal,Tillering,Grain filling",3
+Barley,Clayey,Medium,Low,Medium,120,90,25,0,"Basal,Tillering,Grain filling",3
+Barley,Loamy,High,Medium,Medium,140,110,35,0,"Basal,Tillering,Grain filling",3
+Barley,Sandy,Low,Low,Low,100,70,20,0,"Basal and Tillering",2
+Oats,Clayey,Medium,Medium,Medium,110,85,30,0,"Basal and Tillering",2
+Oats,Loamy,High,Medium,Medium,130,105,40,0,"Basal and Tillering",2
+Oats,Sandy,Low,Low,Medium,90,65,25,0,"Basal only",1
+Sugarcane,Red soil,High,High,High,200,150,100,0,"Basal,60 days,120 days,180 days",4
+Sugarcane,Black soil,High,High,High,220,160,110,0,"Basal,60 days,120 days,180 days",4
+Cotton,Black soil,High,Medium,High,180,90,60,0,"Basal,Squaring,Flowering",3
+Cotton,Red soil,High,Medium,High,170,85,55,0,"Basal,Squaring,Flowering",3
+Cotton,Clayey,Medium,Medium,High,160,80,65,0,"Basal,Squaring,Flowering",3
+Jute,Clayey,High,Medium,Medium,150,100,50,0,"Basal,30 days,60 days",3
+Jute,Alluvial,High,High,Medium,180,120,60,0,"Basal,30 days,60 days",3
+Jute,Loamy,Medium,Medium,Medium,140,90,45,0,"Basal and 45 days",2
+Flax,Clayey,Medium,Medium,Low,120,80,30,0,"Basal and 40 days",2
+Flax,Loamy,High,Medium,Medium,140,100,40,0,"Basal and 40 days",2
+Hemp,Red soil,Medium,Low,Medium,110,70,35,0,"Basal and 45 days",2
+Hemp,Black soil,High,Medium,High,130,90,50,0,"Basal and 45 days",2
+Groundnut,Red soil,Low,Medium,Medium,25,125,50,0,"Basal only",1
+Groundnut,Sandy,Low,Medium,Medium,30,130,45,0,"Basal only",1
+Groundnut,Black soil,Low,High,Medium,20,140,55,0,"Basal only",1
+Soybean,Black soil,Low,High,High,30,140,60,0,"Basal only",1
+Soybean,Red soil,Low,Medium,Medium,35,130,55,0,"Basal only",1
+Soybean,Clayey,Low,High,Medium,25,145,50,0,"Basal only",1
+Mustard,Clayey,Medium,Medium,Medium,100,80,40,0,"Basal and 45 days",2
+Mustard,Loamy,High,Medium,High,120,95,50,0,"Basal and 45 days",2
+Mustard,Black soil,Medium,High,High,110,90,55,0,"Basal and 45 days",2
+Rapeseed,Clayey,Medium,Medium,Medium,90,75,35,0,"Basal and 40 days",2
+Rapeseed,Loamy,High,High,Medium,110,95,45,0,"Basal and 40 days",2
+Linseed,Black soil,Medium,Medium,Low,80,70,25,0,"Basal and 45 days",2
+Linseed,Red soil,Medium,Low,Medium,85,65,30,0,"Basal and 45 days",2
+Sunflower,Red soil,Medium,Medium,High,80,100,60,0,"Basal and Flowering",2
+Sunflower,Black soil,Medium,High,High,75,110,65,0,"Basal and Flowering",2
+Safflower,Black soil,Low,Medium,Medium,60,90,40,0,"Basal and Flowering",2
+Safflower,Red soil,Medium,Medium,Medium,70,95,45,0,"Basal and Flowering",2
+Sesamum,Red soil,Low,Medium,Low,50,80,30,0,"Basal and 30 days",2
+Sesamum,Black soil,Medium,Medium,Medium,60,85,35,0,"Basal and 30 days",2
+Sesamum,Sandy,Low,Low,Low,45,70,25,0,"Basal and 30 days",2
+Sesamum,Clayey,Medium,Medium,Medium,65,90,40,0,"Basal and 30 days",2
+Castor,Red soil,Medium,Medium,High,80,70,50,0,"Basal and 60 days",2
+Castor,Black soil,High,Medium,High,90,75,55,0,"Basal and 60 days",2
+Castor,Sandy,Low,Low,Medium,70,60,40,0,"Basal and 60 days",2
+Castor,Clayey,Medium,High,High,85,80,60,0,"Basal and 60 days",2
+Redgram,Red soil,Low,Medium,Medium,25,100,50,0,"Basal only",1
+Redgram,Black soil,Low,High,Medium,20,110,55,0,"Basal only",1
+Redgram,Sandy,Low,Low,Medium,30,90,45,0,"Basal only",1
+Redgram,Clayey,Low,Medium,High,25,105,60,0,"Basal only",1
+Bengalgram,Black soil,Low,Medium,Low,15,90,40,0,"Basal only",1
+Bengalgram,Red soil,Low,Medium,Medium,20,95,45,0,"Basal only",1
+Bengalgram,Sandy,Low,Low,Low,25,80,35,0,"Basal only",1
+Bengalgram,Clayey,Low,Medium,Medium,18,100,50,0,"Basal only",1
+Blackgram,Red soil,Low,Medium,Low,20,80,35,0,"Basal only",1
+Blackgram,Clayey,Low,Medium,Medium,25,85,40,0,"Basal only",1
+Blackgram,Sandy,Low,Low,Low,15,75,30,0,"Basal only",1
+Blackgram,Black soil,Low,Medium,Medium,22,90,45,0,"Basal only",1
+Greengram,Red soil,Low,Medium,Low,15,75,30,0,"Basal only",1
+Greengram,Sandy,Low,Low,Low,20,70,25,0,"Basal only",1
+Greengram,Black soil,Low,Medium,Medium,18,85,40,0,"Basal only",1
+Greengram,Clayey,Low,Medium,Medium,22,80,35,0,"Basal only",1
+Horsegram,Red soil,Low,Low,Low,15,60,25,0,"Basal only",1
+Horsegram,Sandy,Low,Low,Low,10,55,20,0,"Basal only",1
+Horsegram,Black soil,Low,Low,Medium,18,65,30,0,"Basal only",1
+Horsegram,Clayey,Low,Medium,Medium,20,70,35,0,"Basal only",1
+Fieldpea,Clayey,Low,Medium,Medium,25,90,40,0,"Basal only",1
+Fieldpea,Loamy,Low,Medium,Medium,30,95,45,0,"Basal only",1
+Fieldpea,Red soil,Low,Medium,Low,20,85,35,0,"Basal only",1
+Fieldpea,Sandy,Low,Low,Medium,28,80,40,0,"Basal only",1
+Cowpea,Red soil,Low,Medium,Low,20,80,30,0,"Basal only",1
+Cowpea,Sandy,Low,Low,Low,15,75,25,0,"Basal only",1
+Cowpea,Black soil,Low,Medium,Medium,18,85,35,0,"Basal only",1
+Cowpea,Clayey,Low,Medium,Medium,25,90,40,0,"Basal only",1
+Rice,Clayey,Medium,Low,Medium,150,110,40,0,"Basal,Tillering,Panicle",3
+Rice,Alluvial,High,Medium,High,170,130,60,0,"Basal,Tillering,Panicle",3
+Rice,Sandy,Low,Low,Low,120,90,30,0,"Basal,Tillering,Panicle",3
+Rice,Black soil,Medium,Medium,Medium,160,120,50,0,"Basal,Tillering,Panicle",3
+Ragi,Red soil,Low,Low,Medium,130,65,25,0,"Basal and 30 days",2
+Ragi,Sandy,Low,Low,Low,110,55,20,0,"Basal and 30 days",2
+Ragi,Black soil,Medium,Medium,Medium,140,75,35,0,"Basal and 30 days",2
+Ragi,Clayey,Medium,Low,Medium,135,70,30,0,"Basal and 30 days",2
+Coconut,Sandy,Medium,Medium,High,500,200,750,0,"Split application throughout year",4
+Coconut,Red soil,Medium,Medium,High,450,180,700,0,"Split application throughout year",4
+Coconut,Clayey,High,Medium,High,520,220,800,0,"Split application throughout year",4
+Coconut,Alluvial,Medium,High,High,480,210,780,0,"Split application throughout year",4
+Arecanut,Red soil,Medium,Medium,High,400,150,600,0,"Split application throughout year",4
+Arecanut,Clayey,Medium,High,High,420,170,650,0,"Split application throughout year",4
+Arecanut,Sandy,Low,Medium,Medium,380,140,550,0,"Split application throughout year",4
+Arecanut,Loamy,Medium,Medium,High,410,160,620,0,"Split application throughout year",4
+Coffee,Red soil,Medium,Medium,High,300,120,400,0,"Split application throughout year",3
+Coffee,Clayey,High,Medium,High,350,140,450,0,"Split application throughout year",3
+Coffee,Loamy,Medium,High,High,320,130,420,0,"Split application throughout year",3
+Coffee,Sandy,Low,Low,Medium,280,100,350,0,"Split application throughout year",3
+Cardamom,Red soil,High,Medium,High,200,100,300,0,"Split application throughout year",3
+Cardamom,Loamy,High,High,High,220,120,350,0,"Split application throughout year",3
+Cardamom,Clayey,High,High,High,240,140,380,0,"Split application throughout year",3
+Cardamom,Sandy,Medium,Medium,Medium,180,90,280,0,"Split application throughout year",3
+Pepper,Red soil,High,Medium,High,250,150,400,0,"Split application throughout year",3
+Pepper,Clayey,High,High,High,280,170,450,0,"Split application throughout year",3
+Pepper,Loamy,High,Medium,High,260,160,420,0,"Split application throughout year",3
+Pepper,Sandy,Medium,Low,Medium,220,130,350,0,"Split application throughout year",3
+Ginger,Red soil,High,High,High,150,120,100,0,"Basal,60 days,120 days",3
+Ginger,Loamy,High,High,High,170,140,120,0,"Basal,60 days,120 days",3
+Ginger,Clayey,High,High,High,180,150,130,0,"Basal,60 days,120 days",3
+Ginger,Sandy,Medium,Medium,Medium,140,110,90,0,"Basal,60 days,120 days",3
+Turmeric,Red soil,High,High,Medium,140,110,80,0,"Basal,60 days,120 days",3
+Turmeric,Clayey,High,High,High,160,130,100,0,"Basal,60 days,120 days",3
+Turmeric,Loamy,High,High,High,155,125,95,0,"Basal,60 days,120 days",3
+Turmeric,Sandy,Medium,Medium,Medium,130,100,70,0,"Basal,60 days,120 days",3
+Onion,Red soil,High,Medium,High,150,100,80,0,"Basal,30 days,60 days",3
+Onion,Black soil,High,High,High,170,120,100,0,"Basal,30 days,60 days",3
+Onion,Clayey,Medium,Medium,High,140,90,75,0,"Basal,30 days,60 days",3
+Onion,Sandy,Medium,Low,Medium,130,80,60,0,"Basal,30 days,60 days",3
+Potato,Red soil,High,High,High,180,140,120,0,"Basal,30 days,60 days",3
+Potato,Sandy,Medium,High,Medium,160,130,100,0,"Basal,30 days,60 days",3
+Potato,Clayey,High,High,High,200,160,140,0,"Basal,30 days,60 days",3
+Potato,Loamy,High,High,High,190,150,130,0,"Basal,30 days,60 days",3
+Tomato,Red soil,High,High,High,200,150,100,0,"Basal,30 days,60 days",3
+Tomato,Black soil,High,High,High,220,170,120,0,"Basal,30 days,60 days",3
+Tomato,Clayey,High,High,High,210,160,110,0,"Basal,30 days,60 days",3
+Tomato,Sandy,Medium,Medium,Medium,180,130,90,0,"Basal,30 days,60 days",3
+Chilli,Red soil,High,Medium,High,150,120,90,0,"Basal,45 days,90 days",3
+Chilli,Black soil,High,High,High,170,140,110,0,"Basal,45 days,90 days",3
+Chilli,Sandy,Medium,Medium,Medium,130,100,70,0,"Basal,45 days,90 days",3
+Chilli,Clayey,High,Medium,High,160,130,100,0,"Basal,45 days,90 days",3
+Brinjal,Red soil,High,High,Medium,160,130,80,0,"Basal,30 days,60 days",3
+Brinjal,Black soil,High,High,High,180,150,100,0,"Basal,30 days,60 days",3
+Brinjal,Clayey,Medium,High,Medium,150,120,75,0,"Basal,30 days,60 days",3
+Brinjal,Sandy,Medium,Medium,Medium,140,110,65,0,"Basal,30 days,60 days",3
+Okra,Red soil,Medium,Medium,Medium,120,90,60,0,"Basal and 45 days",2
+Okra,Black soil,High,Medium,High,140,110,80,0,"Basal and 45 days",2
+Okra,Sandy,Medium,Low,Medium,100,70,50,0,"Basal and 45 days",2
+Okra,Clayey,Medium,Medium,High,130,100,70,0,"Basal and 45 days",2
+Banana,Red soil,High,High,High,300,200,600,0,"Split application throughout year",6
+Banana,Clayey,High,High,High,350,220,650,0,"Split application throughout year",6
+Banana,Alluvial,High,High,High,320,210,620,0,"Split application throughout year",6
+Banana,Sandy,Medium,Medium,High,280,180,550,0,"Split application throughout year",6
+Mango,Red soil,Medium,Medium,High,400,250,500,0,"Split application throughout year",3
+Mango,Black soil,High,Medium,High,450,280,550,0,"Split application throughout year",3
+Mango,Clayey,Medium,High,High,420,270,530,0,"Split application throughout year",3
+Mango,Sandy,Low,Low,Medium,350,200,450,0,"Split application throughout year",3
+Grapes,Black soil,High,High,High,300,250,400,0,"Split application throughout year",4
+Grapes,Red soil,High,High,High,280,230,380,0,"Split application throughout year",4
+Grapes,Sandy,Medium,Medium,Medium,250,200,350,0,"Split application throughout year",4
+Grapes,Clayey,High,High,High,320,270,420,0,"Split application throughout year",4
+Cucumber,Red soil,Medium,Medium,Medium,100,80,60,0,"Basal and 30 days",2
+Cucumber,Black soil,Medium,Medium,Medium,110,85,65,0,"Basal and 30 days",2
+Cucumber,Sandy,Low,Low,Medium,90,75,55,0,"Basal and 30 days",2
+Cucumber,Clayey,Medium,Medium,High,120,90,70,0,"Basal and 30 days",2
+Bitter gourd,Red soil,Medium,Medium,Medium,80,70,50,0,"Basal and 30 days",2
+Bitter gourd,Black soil,Medium,Medium,Medium,85,75,55,0,"Basal and 30 days",2
+Bitter gourd,Sandy,Low,Low,Low,70,60,40,0,"Basal and 30 days",2
+Bitter gourd,Clayey,Medium,Medium,Medium,90,80,60,0,"Basal and 30 days",2
+Bottle gourd,Red soil,Medium,Medium,Medium,90,80,60,0,"Basal and 30 days",2
+Bottle gourd,Black soil,Medium,Medium,Medium,95,85,65,0,"Basal and 30 days",2
+Bottle gourd,Sandy,Low,Low,Medium,80,70,50,0,"Basal and 30 days",2
+Bottle gourd,Clayey,Medium,Medium,High,100,90,70,0,"Basal and 30 days",2
+Pumpkin,Red soil,Medium,Medium,Medium,80,70,50,0,"Basal and 30 days",2
+Pumpkin,Black soil,Medium,Medium,Medium,85,75,55,0,"Basal and 30 days",2
+Pumpkin,Sandy,Low,Low,Low,70,60,40,0,"Basal and 30 days",2
+Pumpkin,Clayey,Medium,Medium,Medium,90,80,60,0,"Basal and 30 days",2
+Watermelon,Red soil,Medium,Medium,Medium,70,60,50,0,"Basal and 30 days",2
+Watermelon,Black soil,Medium,Medium,Medium,75,65,55,0,"Basal and 30 days",2
+Watermelon,Sandy,Low,Low,Medium,60,50,40,0,"Basal and 30 days",2
+Watermelon,Clayey,Medium,Medium,Medium,80,70,60,0,"Basal and 30 days",2
+Muskmelon,Red soil,Medium,Medium,Medium,70,60,50,0,"Basal and 30 days",2
+Muskmelon,Black soil,Medium,Medium,Medium,75,65,55,0,"Basal and 30 days",2
+Muskmelon,Sandy,Low,Low,Medium,60,50,40,0,"Basal and 30 days",2
+Muskmelon,Clayey,Medium,Medium,Medium,80,70,60,0,"Basal and 30 days",2
+Papaya,Red soil,Medium,High,High,180,120,180,0,"Split application throughout year",4
+Papaya,Black soil,Medium,High,High,190,130,190,0,"Split application throughout year",4
+Papaya,Sandy,Low,Medium,Medium,160,100,160,0,"Split application throughout year",4
+Papaya,Clayey,Medium,High,High,200,140,200,0,"Split application throughout year",4
+Sapota,Red soil,Medium,Medium,High,240,120,180,0,"Split application throughout year",3
+Sapota,Black soil,Medium,Medium,High,250,130,190,0,"Split application throughout year",3
+Sapota,Sandy,Low,Low,Medium,220,100,150,0,"Split application throughout year",3
+Sapota,Clayey,Medium,High,High,260,140,200,0,"Split application throughout year",3
+Guava,Red soil,Medium,Medium,High,300,150,200,0,"Split application throughout year",3
+Guava,Black soil,Medium,Medium,High,320,160,220,0,"Split application throughout year",3
+Guava,Sandy,Low,Low,Medium,280,130,180,0,"Split application throughout year",3
+Guava,Clayey,Medium,High,High,340,170,240,0,"Split application throughout year",3
+Pomegranate,Red soil,Medium,Medium,High,200,100,150,0,"Split application throughout year",3
+Pomegranate,Black soil,Medium,Medium,High,220,110,160,0,"Split application throughout year",3
+Pomegranate,Sandy,Low,Low,Medium,180,80,130,0,"Split application throughout year",3
+Pomegranate,Clayey,Medium,High,High,240,120,180,0,"Split application throughout year",3
+Citrus,Red soil,Medium,Medium,High,280,140,180,0,"Split application throughout year",3
+Citrus,Black soil,Medium,Medium,High,300,150,200,0,"Split application throughout year",3
+Citrus,Sandy,Low,Low,Medium,250,120,160,0,"Split application throughout year",3
+Citrus,Clayey,Medium,High,High,320,160,220,0,"Split application throughout year",3
+Cashew,Red soil,Low,Medium,Medium,90,45,90,0,"Split application throughout year",2
+Cashew,Black soil,Medium,Medium,Medium,100,50,100,0,"Split application throughout year",2
+Cashew,Sandy,Low,Low,Low,80,40,80,0,"Split application throughout year",2
+Cashew,Clayey,Medium,Medium,Medium,110,55,110,0,"Split application throughout year",2
+Jackfruit,Red soil,Medium,Medium,Medium,200,100,150,0,"Split application throughout year",2
+Jackfruit,Black soil,Medium,Medium,Medium,220,110,160,0,"Split application throughout year",2
+Jackfruit,Sandy,Low,Low,Low,180,90,140,0,"Split application throughout year",2
+Jackfruit,Clayey,Medium,Medium,Medium,240,120,170,0,"Split application throughout year",2
+Custard Apple,Red soil,Low,Medium,Medium,150,75,100,0,"Split application throughout year",2
+Custard Apple,Black soil,Medium,Medium,Medium,170,85,120,0,"Split application throughout year",2
+Custard Apple,Sandy,Low,Low,Low,130,65,90,0,"Split application throughout year",2
+Custard Apple,Clayey,Medium,Medium,Medium,180,90,130,0,"Split application throughout year",2
+Fig,Red soil,Medium,Medium,Medium,120,60,90,0,"Split application throughout year",2
+Fig,Black soil,Medium,Medium,Medium,130,70,100,0,"Split application throughout year",2
+Fig,Sandy,Low,Low,Low,100,50,80,0,"Split application throughout year",2
+Fig,Clayey,Medium,Medium,Medium,140,80,110,0,"Split application throughout year",2
