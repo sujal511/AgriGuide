@@ -1,6 +1,6 @@
-# CropMate - Agricultural Support Platform
+# AgriGuide - Agricultural Support Platform
 
-CropMate is an agricultural support platform designed to assist farmers with crop planning, resource management, and access to government schemes and financial resources.
+AgriGuide is an agricultural support platform designed to assist farmers with crop planning, resource management, and access to government schemes and financial resources.
 
 ## 🌾 Features
 
@@ -84,7 +84,7 @@ The frontend will be available at `http://localhost:5173`
 ## 📁 Project Structure
 
 ```
-cropmate/
+agriguide/
 ├── Backend/                 # Django backend application
 │   ├── AgriGuide/          # Main Django project configuration
 │   ├── main_app/           # Core functionality (crops, fertilizer, etc.)
