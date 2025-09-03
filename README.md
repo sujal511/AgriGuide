@@ -30,7 +30,7 @@ Indian farmers face challenges in:
 
 ### Solution
 AgriGuide provides:
-- **AI-powered crop recommendations** based on soil type, climate, and economics
+- **crop recommendations** based on soil type, climate, and economics
 - **Comprehensive government scheme database** with eligibility criteria
 - **Financial planning tools** including loan options and ROI calculations
 - **Technology recommendations** for modern farming practices
